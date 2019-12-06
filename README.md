@@ -11,9 +11,9 @@
 ###### We are currently using word documents that are then converted to txt files to extract the current record schedules, but this process may change in the future to being managed in a database.
 **excel-description.py, excel-guidance.py, excel-itemdescription.py** - pulls from an excel spreadsheet and creates txt files with record schedule descriptions, item descriptions and their guidance. These scripts ensure that each record schedule folder in our training dataset contains at a minimum description and guidnace information.<br />
 **extractitem.py** - 
-1) Run extract.py onto word documents providing the full record schedule details to generate the text files (Provided by NRMP contractor).
-2) Run extractitem.py which extracts item description from text files containing the full record schedule details into a spreadsheet. 
-3) Run excel-itemdescription.py to create the appropriate text files from the extracted item descriptions<br />
+1) Run **extract.py** onto word documents providing the full record schedule details to generate the text files (Provided by NRMP contractor).
+2) Run **extractitem.py** which extracts item description from text files containing the full record schedule details into a spreadsheet. 
+3) Run **excel-itemdescription.py** to create the appropriate text files from the extracted item descriptions<br />
 
 # Uncategorized Training Data
 ###### The following set of scripts are used to process exported records from ECMS that are uncategorized and prepare them for categorization. These records will ultimatly be saved to our training dataset once categorized.
@@ -25,7 +25,10 @@
 **CIS Testing.py** - this script takes a record as an input and displays the prediction, summary and extracted keywords as an output. This script also displays the time it takes to process a record through each component of the Content Ingestion Services.<br />
 
 # Dependencies
-###### Some of the document processing scripts rely on other scripts to be imported to function, they will be listed here.
+###### Some of the document processing scripts rely on other scripts to be imported to function or spreadsheets that they can read, they will be listed here.
 **Buildfolder.py** - User can select a source and target folder for their files.<br />
 **Extractultil.py** - Cleans up text including removing unicode and special characters.<br />
-**trainingdata_part2.py** - trainingdata_part2.xlsx is required. This spreadsheet must contain Record ID, Record Schedule and Title/filename without extension<br />
+
+**trainingdata_part2.py** - *trainingdata_part2.xlsx* is required. This spreadsheet must contain Record ID, Record Schedule, and Title/filename without extension.<br />
+**cxwalk.py** - *xwalk.csv* is required. This spreadsheet must contain Previous EPA Number,	Previous Item Number, New EPA Number, New Item Number, and	Function Code. <br />
+**excel-description.py** - *Schedules Description.xlsx* is required. 
