@@ -20,3 +20,7 @@
 ###### The following set of scripts are used to process exported records from ECMS that are uncategorized and prepare them for categorization. These records will ultimatly be saved to our training dataset once categorized.
 **trainingdata_part1.py** - this script moves the files into the appropriate folder named by record schedule id. This sets up the files for manual categorization.<br />
 **trainingdata_part2.py** - this script moves the files into the appropriate folder named by record schedule based on the results of manual categorization. This script also extract the text using tika services and converts the files to txt format for ingestion into the ML model.
+
+# Testing
+###### Once the ML model is updated, these scripts are used for load testing and to determine document processing time.
+**CIS Testing.py** - this script takes a record as an input and displays the prediction, summary and extracted keywords as an output. This script also displays the time it takes to process a record through each component of the Content Ingestion Services.<br />
