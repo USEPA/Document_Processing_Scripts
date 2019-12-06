@@ -14,7 +14,10 @@
 # Record Schedules
 ###### We are currently using word documents that are then converted to txt files to extract the current record schedules, but this process may change in the future to being managed in a database.
 **excel-description.py, excel-guidance.py, excel-itemdescription.py** - pulls from an excel spreadsheet and creates txt files with record schedule descriptions, item descriptions and their guidance. These scripts ensure that each record schedule folder in our training dataset contains at a minimum description and guidnace information.<br />
-**extractitem.py** - Extracts item description from text files containing the full record schedule details. Need to run extract.py onto word documents providing the full record schedule details to generate the text files.<br />
+**extractitem.py** - 
+1) Run extract.py onto word documents providing the full record schedule details to generate the text files (Provided by NRMP contractor).
+2) Run extractitem.py which extracts item description from text files containing the full record schedule details into a spreadsheet. 
+3) Run excel-itemdescription.py to create the appropriate text files from the extracted item descriptions<br />
 
 # Training Data
 ###### The following set of scripts are used to process exported records from ECMS that are uncategorized and prepare them for categorization. These records will ultimatly be saved to our training dataset once categorized.
