@@ -35,5 +35,5 @@
 **excel-guidance.py** - *Schedules Guidance.xlsx* is required. **Need to add headers back in**. <br />
 **excel-itemdescription.py** - *item_descriptions.xlsx* is required. **Need to add headers back in**. <br /><br/>
 
-**Unzip_Rename.py** - **buildfolder.py** is required.
+**Unzip_Rename.py** - **buildfolder.py** is required. <br />
 **Extract.py** - **buildfolder.py**, **extractultil.py** and **cxwalk.py** are required.
