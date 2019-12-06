@@ -1,0 +1,70 @@
+EPA Records Schedule 0318
+Status: Final 07312014
+Title: Bulletins Live
+Program: Pesticides
+Applicability: Headquarters
+Function: 108 - Environmental Management
+NARA Disposal Authority:
+ N1-412-09-6
+Description:
+Bulletins Live is a system that helps users determine if limitations on pesticide use are necessary to ensure a pesticides use will not harm a species listed as threatened or endangered under the Endangered Species Act. It functions as a portal through which the following types of data are available: state and county maps Endangered Species Protection Bulletins species protection demarcations and explanations and pesticide limitation codes. Based on user-entered criteria and maps bulletins are generated to show under what conditions a pesticide may be applied. Bulletins identify species of concern and the name of the pesticide active ingredient that may affect the species. They also provide a description of the protection measures necessary to protect the species and contain a county-level map showing the geographic area(s) associated with the protection measures depending on the susceptibility of the species to other factors such as vandalism. Bulletins are effective and enforceable as part of the pesticide product label.
+The Bulletins Live system replaces the Endangered Species Map File. The Endangered Species Map File contains 8-12 x 11 inch endangered species habitat maps submitted by the U.S. Fish and Wildlife Service and states. Map information was used to produce digitized maps of habitat information. Maps were updated constantly until issued as an enforceable bulletin in the Federal Register. The file includes correspondence draft and final maps and supporting information from states the U.S. Fish and Wildlife Service and the U.S. Department of Agriculture.
+Disposition Instructions:
+Item a: (Reserved)
+Item b: (Reserved)
+Item c: Electronic data
+The Office of Chemical Safety and Pollution Prevention Office of Pesticide Programs Field and External Affairs Division at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-09-6c
+ Permanent
+ Transfer to the National Archives every 5 years beginning in 2014 as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time.
+Item d: (Reserved)
+Item e: (Reserved)
+Item f: (Reserved)
+Item g: (Reserved)
+Item h: Endangered species map case files except digitized maps
+NARA Disposal Authority: N1-412-09-6h
+ Permanent
+ Close inactive records upon issuance of enforceable bulletin.
+ Transfer to the National Archives 30 years after file closure.
+Item i: Endangered species map file digitized maps
+NARA Disposal Authority: N1-412-09-6i
+ Disposable
+ Close inactive records upon issuance of the enforceable bulletin.
+ Destroy 5 years after file closure.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Electronic software program - The electronic software program formerly item a is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. NARA regulations require that electronic records be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition and is covered by schedule 1012 item e.
+Input - Input formerly item b is covered by schedule 1012 item e.
+Output and reports - For disposition of output and reports formerly item e refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the later dates.
+System documentation - System documentation including system development documentation formerly item f refers to those records necessary to document how the system captures manipulates and outputs data. System documentation is transferred to the National Archives along with the electronic data. Disposition of system documentation is covered by schedule 1012 item a.
+Specific legal citations include:
+ Endangered Species Act of 1973 Sec. 7(a)(2)
+ Federal Insecticide Fungicide and Rodenticide Act Sec. 12
+Reasons for Disposition:
+The following changes were made in the 07312014 version:
+ Deleted items a b e and f which are covered by other schedules.
+ Updated cross references and contact information.
+The following changes were made in the 02282010 version:
+ Added previous description for the endangered species map file.
+ Added disposition items h and i from previously approved schedule N1-412-95-214.
+The following changes were made in the 11302009 version:
+ Deleted disposition items d and g.
+The following change was made in the 02282009 version:
+ Revised disposition for item b.
+The previously approved schedule (N1-412-95-214) has been rewritten to reflect the change in the business process. The bulletins were previously approved as permanent. Items h and i were previously approved as N1-412-95-214.
+Item c for electronic copies created with word processing and electronic mail applications deleted 08182006 pursuant to NARA Bulletin 2006-04.
+Custodians:
+Office of Chemical Safety and Pollution Prevention Office of Pesticide Programs
+ Contact: Anita Pease
+ Telephone: 703-305-0392
+Office of Chemical Safety and Pollution Prevention Office of Pesticide Programs
+ Contact: Jennifer Connolly
+ Telephone: 703-347-0405
+Related Schedules:
+EPA 1012
+Previous NARA Disposal Authority:
+N1-412-95-214
+Entry: 10191994
+EPA Approval: 02202009
+NARA Approval: 02252010

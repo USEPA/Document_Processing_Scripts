@@ -1,0 +1,114 @@
+This schedule is in draft. It may not be used to retire or destroy records. If you have any questions, please contact the Records Help Desk.
+
+EPA Records Schedule 0755
+Status: Draft, 07/31/2017
+
+Title: Superfund Enterprise Management System (SEMS)
+
+Program: Superfund
+
+Applicability: Agency-wide
+
+Function: 108 - Environmental Management
+
+NARA Disposal Authority:
+
+Pending (Item a)
+Varies
+Varies
+Description:
+
+The Superfund Enterprise Management System (SEMS) is a key EPA asset used to meet responsibilities of federal agencies, Congress, and the public in Superfund site remediation and cleanup, and emergency response support. SEMS addresses the Agency's performance gap for capturing, preserving, and disseminating legislatively mandated Superfund data and records. SEMS is a comprehensive, integrated information system that consolidated numerous Office of Superfund Remediation and Technology Innovation (OSRTI) information systems. SEMS improves information management capabilities by streamlining business processes, incorporating Agency architecture tools to enhance operational effectiveness through system consolidation. SEMS is the electronic recordkeeping system for Superfund site files.
+
+The system maintains and produces information on all aspects of hazardous waste sites from initial discovery to listing on the National Priorities List (NPL). It includes an inventory of sites, planned and actual site activities, financial information, applications, permits, compliance, and institutional controls and audit reports.
+
+Data within SEMS originates from EPA headquarters and regional offices through direct input, batch data uploads, scanning, and database links with other applications. The system contains both database files and scanned hardcopy records saved in PDF format, as well as born-electronic office automation files (e.g., word processing, spreadsheets) that are converted to PDF. Content for each site includes, but is not limited to, geographic location, name of site, description, site type, incident that caused the contamination, related sites, schedule of activities, date the contamination was discovered, assessment information, site inspections, and Federal or non-Federal site status. The date span for content ranges from 1970 to the present, although there are some scanned reference documents dated earlier than 1970.
+
+SEMS includes operating modules that now capture all categories of digitized images of case information. SEMS covers all program and project records for EPA's missions to monitor the environment, determine proper environmental standards and address environmental hazards and contamination. System content includes records captured to document the following activities for site and area evaluation and cleanup, removals, and cleanup of contaminated lands, as follows: Superfund Remediation, Superfund Emergency Response and Removal, Federal Facilities Response, Superfund Enforcement, Base Realignment and Closure, Federal Facilities Enforcement, Brownfields cleanup, and Oil Spill site-specific activities.
+
+Disposition Instructions:
+
+Item a: Electronic data - permanent
+
+This item is to be used only by the Office of Land and Emergency Management.
+
+Includes, but is not limited to: Administrative records (ARs) (if maintained separately from the site file), Federal agency hazardous waste compliance site files (if maintained separately from the site file), landmark cases for Superfund site-specific enforcement cases, remedial and removal site files.
+
+NARA Disposal Authority: Pending
+Permanent
+Close when program is discontinued or system is terminated.
+While system is in operation, transfer a copy of the data, as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time, to the National Archives prior to migration to a new system version with major changes (e.g., V2.0 to V3.0), or every 10 years, whichever occurs first, beginning November 2017. Transfer final data to the National Archives 6 months after system is closed.
+Item b: Web content - unique
+
+This item includes markup language, code, textual and audiovisual files, contextual hyperlinks, and content from backend systems used to generate static or dynamic content on the site(s), as well as screen captures and site snapshots, when the record copy is not captured elsewhere.
+
+NARA Disposal Authority: Varies
+Varies
+Follow the disposition instructions for the applicable records schedule. If not covered by existing schedules, contact the EPA National Records Management Program (NRMP) to develop a new one.
+Item c: Electronic data - temporary
+
+This item is to be used only by the Office of Land and Emergency Management.
+
+Includes, but is not limited to: Site assessment records, administrative decision records allowing potentially responsible parties (PRPs) to petition the Fund for reimbursement, claims against the Fund records, contract and grant management records needed for cost recovery (if maintained separately from the site file), enforcement actions that are routine or require no legal action (if maintained separately from the site file), final deliverables and reports (if maintained separately from the site file), oil spill site-specific records, formerly used defense site (FUDS) records, and Superfund sampling and analytical raw data.
+
+NARA Disposal Authority: Varies
+Disposable
+Follow the disposition instructions for the applicable records schedule.
+Guidance:
+
+Media neutral - This schedule authorizes the disposition of the record copy in electronic format only, and is not media neutral. The format of permanent records is specified in a records schedule approved by NARA, the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. The electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10, 1236.12, 1236.14, and 1236.20. Retention and disposition for the various components of electronic systems (e.g., software, input, output, system documentation) are covered in schedule 1012, Information and Technology Management. In addition to 36 CFR 1236, see "Basic Requirements of an Electronic Recordkeeping System at EPA" on the EPA records intranet site.
+
+Sensitive information - When records are due for destruction according to the disposition instructions, records containing sensitive information (e.g., personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+
+Electronic software program - The electronic software program is to be kept as long as needed to ensure access to, and use of, the electronic records throughout the authorized retention period to comply with 36 CFR Sections 1236.10, 1236.12, 1236.14, and 1236.20. NARA regulations require that electronic records be retrievable and usable for as long as needed to conduct Agency business and meet NARA-approved disposition. The electronic software program is covered by EPA 1012, Information and Technology Management, item e.
+
+Input - Input is covered by EPA 1012, item e.
+
+Output and reports - For disposition of output and reports refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies, follow the disposition instructions with the later dates.
+
+System documentation - System documentation, including system development documentation, is covered by EPA 1012, item a.
+
+Scanned hardcopy documents - Hardcopy documents may be destroyed after the records have been scanned and reviewed for quality.
+
+Related records schedules - Descriptions of the types of records covered by items a and c can be found in schedule 1036.
+
+The Comprehensive Environmental Response, Compensation, and Liability Information System (CERCLIS); Institutional Controls Tracking System (ICTS); the Superfund Document Management System (SDMS); and the Environment, Facility, Application, Compliance Tracking System (eFACTS) are superseded by this system. CERCLIS data were previously approved as permanent (N1-412-94-3/7). The ICTS and eFACTS systems were previously covered by schedule 0089.
+
+Reasons for Disposition:
+
+The following change was made in the 07/31/2017 version:
+
+Added categories of permanent and temporary records in items a and c.
+Updated guidance.
+The following change was made in the 04/30/2017 version:
+
+Added item c for disposable electronic data.
+The following changes were made in the 02/28/2017 version:
+
+Revised schedule description, disposition instructions and guidance.
+The following change was made in the 10/03/2014 version:
+
+Moved from development to draft status.
+Added NARA disposal authority number and EPA approval date.
+The following change was made in the 07/31/2014 version:
+
+Revised the description.
+Custodians:
+
+Office of Land and Emergency Management, Office of Superfund Remediation and Technology Innovation
+
+Contact: Steven Wyman
+Telephone: 703-603-8882
+Related Schedules:
+
+EPA 1012, EPA 1036
+
+Previous NARA Disposal Authority:
+
+N1-412-94-3/7, GRS 23/8
+
+Entry: 03/05/2012
+
+EPA Approval: 10/03/2014
+
+NARA Approval: Pending

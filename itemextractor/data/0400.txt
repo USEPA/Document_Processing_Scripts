@@ -1,0 +1,90 @@
+EPA Records Schedule 0400
+Status: Final 12312013
+Title: Storage and Retrieval of Water Quality Information (STORET)
+Program: Water
+Applicability: Agency-wide
+Function: 108 - Environmental Management
+NARA Disposal Authority:
+ N1-412-09-12
+Description:
+The Storage and Retrieval of Water Quality Information (STORET) system is an automated information system which assists state and EPA officials to make pollution control decisions by providing a capability to store retrieve and analyze water quality information. Information includes chemical physical and biological water quality of the Nations waters including ambient intensive survey effluent and biological water quality monitoring information. Most STORET information has been added since 1975 however records go back to 1899. Information is contributed voluntarily by federal state interstate agencies universities tribes and volunteers.
+STORET has the following components:
+ Data Warehouse - serves as a repository for data collected by EPA and agency partners. The STORET Data warehouse is more accessible via online data reports Web services and new tools.
+ Water Quality Exchange (WQX) - uses standardized data exchange schemas along with technology to loadentervalidate data into the Data warehouse. WQX provides the means for direct computer-to-computer data exchange. WQX leverages both the agency architecture and other agency IT and agency non-IT investments including the Central Data Exchange (CDX) the Substance Registry System and the Exchange Network Grant Program. WQX also allows EPA to better integrate water monitoring data with other Federal Agencies (i.e. USGS).
+ WQX Web Tool - uses a web portal access to standardize data exchange schemas for loadingenteringvalidating data into the Data warehouse. The Web Tool provides a User-Web to computer data exchange.
+Disposition Instructions:
+Item a: Electronic software program
+The Office of Water Office of Wetlands Oceans and Watersheds Assessment and Watershed Protection Division Monitoring Branch at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-09-12a
+ Disposable
+ Close when no longer needed to ensure access to and use of the electronic records throughout the authorized retention period.
+ Delete after file closure.
+Item b: Input
+NARA Disposal Authority: N1-412-09-12b
+ Disposable
+ Close when information has been transferred to the master file and verified.
+ Delete after file closure.
+Item c: Electronic data
+The Office of Water Office of Wetlands Oceans and Watersheds Assessment and Watershed Protection Division Monitoring Branch at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-09-12c
+ Permanent
+ Initial Transfer: Transfer Legacy Data Center data (1994-1999) to the National Archives in 2010 as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time. Interim Transfers: While the system is in operation transfer STORET data to the National Archives every 5 years beginning in 2015 (for 2000-2004 data) or whenever a major change to the system occurs whichever is earlier as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time. Final Transfer: Close when program is discontinued or system is terminated. Transfer final data to the National Archives 1 year after system is closed as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time.
+Item d: Output and reports
+NARA Disposal Authority: Varies
+ Varies
+ File with related records and follow instructions for the related records.
+Item e: System documentation
+The Office of Water Office of Wetlands Oceans and Watersheds Assessment and Watershed Protection Division Monitoring Branch at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-09-12e
+ Permanent
+ Transfer those records necessary to document how the system captures manipulates and outputs data to the National Archives as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time. The documentation is transferred with the electronic data (item c).
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+This schedule covers the STORET and the Water Quality Exchange (WQX) which defines the methods and the data systems by which EPA compiles monitoring data (typically water quality data but not exclusively water quality data) that are collected by a number of entities. Those entities could be states tribes volunteer monitoring groups or EPA.
+Electronic data from 1950-1993 were transferred to the National Archives under previously approved NARA disposal authority NC1-412-81-018 Items 2 and 9. The Initial Transfer of Legacy Data Center data from 1994-1999 to the National Archives was completed in 2010 under NARA disposal authority N1-412-09-12 Item c.
+The time line for Interim Transfer of electronic data to the National Archives under Item c is:
+ 2015 - Transfer 2000-2004 data.
+ 2020 - Transfer 2005-2009 data.
+ 2025 - Transfer 2010-2014 data.
+ 2030 - Transfer 2015-2019 data.
+The previously approved version of this schedule included the following components which have been superseded by the current system:
+ Biological System (BIOS)
+ Daily Flow System (DFS)
+ Fish Kill File (FK)
+ Ocean Data Evaluation System (ODES)
+ Parameter (PARM)
+ Taxonomic Index File (TAXFILE)
+ Water Quality System (WQS)
+EPA schedules 0238 and 0239 for the New York Bight Water Quality Helicopter Monitoring System (R2NY-BIGHT) and U.S. Virgiin Island Ambient Monitoring Survey (VI-SURVEY) respectively were deleted since the systems are no longer used and the legacy data added to STORET.
+Reasons for Disposition:
+The following changes were made in the 07312010 version:
+ Revised guidance to include information about legacy data from systems covered by schedules 0238 and 0239.
+ Added previously approved disposal authorities for schedules 0238 and 0239.
+The following changes were made in the 05312010 version:
+ Made minor revisions to wording in description.
+ Revised transfer dates in disposition instructions for item c.
+ Added transfer dates in guidance.
+ Added ODES and PARM as superseded components or systems in guidance.
+ Added NARA disposal authority for ODES as previously approved NARA disposal authority.
+The following change was made in the 12312009 version:
+ Revised disposition instructions for item c to include the date range (1994-1999) for the legacy data.
+The following change was made in the 10312009 version:
+ Revised disposition instructions for item c.
+ Revised guidance.
+The following changes were made in the 06302009 version:
+ Added applicability information to disposition items a c and e.
+ Added file closure instructions to items a and b and deleted file closure instructions for item c.
+ Revised title of item e.
+ Revised guidance and contact information.
+This item is a major system supporting operations required by statute and regulations. Items 2 and 9 of NC1-412-81-18 were combined into one schedule item because item 2 is a component of the STORET system (item 9). Both items were previously appraised as permanent by the National Archives. ODES was previously approved as N1-412-95-41.
+Custodians:
+Office of Water Office of Wetlands Oceans and Watersheds Assessment and Watershed Protection Division Monitoring Branch
+ Contact: Kevin Christian
+ Telephone: 202-566-1180
+Related Schedules:
+Previous NARA Disposal Authority:
+NC1-412-81-189 N1-412-95-41 N1-412-96-126 N1-412-96-127
+Entry: 01041993
+EPA Approval: 07142009
+NARA Approval: 12102009

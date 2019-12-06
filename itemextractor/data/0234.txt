@@ -1,0 +1,50 @@
+EPA Records Schedule 0234
+Status: Final 12312016
+Title: Underground Injection Control Databases
+Program: Water
+Applicability: Regions
+Function: 108 - Environmental Management
+NARA Disposal Authority:
+ N1-412-06-31
+Description:
+The Underground Injection Control (UIC) program works with state local and tribal governments to oversee underground injection of waste in order to prevent contamination of drinking water resources. The Underground Injection Control (UIC) databases maintained by the regional program offices contain detailed information on well operators administrative orders permits and individual wells for all wells where EPA is the permitting authority. They track compliance schedules and inspections and include reports some correspondence inventory and sampling and analytical data. They may also include notices of noncompliance that do not necessarily result in enforcement actions and compliance orders. They track both permitted and rule-authorized wells. Rule-authorized wells were grandfathered in at the start of the UIC program and operators with rule-authorized wells are required to adhere to standards similar to those for permitted wells.
+Input for the databases comes from a variety of sources including inventory forms submitted by operators when the program first started in the 1980s permit applications well test data compliance inspections enforcement actions and monitoring report data. Information is extracted from source documents and keyed in manually.
+Output includes reports on development of administrative orders well inventory counts workload reports listings of permit applications received year to date and similar reports.
+Disposition Instructions:
+Item a: (Reserved)
+Item b: (Reserved)
+Item c: Electronic data
+NARA Disposal Authority: N1-412-06-31c
+ Permanent
+ Close at each major version change.
+ Transfer to the National Archives after file closure as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time.
+Item d: (Reserved)
+Item e: (Reserved)
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in electronic format only and is not media neutral. The format of the permanent records is specified in a records schedule approved by NARA and the electronic records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. The electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records internet site [http:www.epa.govrecordstoolserks.htm].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Electronic software program - The electronic software program formerly item a is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. NARA regulations require that electronic records be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition. The electronic software program is covered by schedule 1012 item e.
+Input - Input formerly item b is covered by schedule 1012 item e.
+Output and reports - For disposition of output and reports formerly item d refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the later dates.
+System documentation - System documentation including system development documentation formerly item e refers to those records necessary to document how the system captures manipulates and outputs data. System documentation is transferred to the National Archives along with the electronic data. Disposition of system documentation is covered by schedule 1012 item a.
+Permits are covered by schedule 1047. See schedule 1044 for enforcement action and compliance files. The Underground Injection Control (UIC) Program Summary System maintained by headquarters is covered by schedule 0432.
+Reasons for Disposition:
+The following changes were made in the 12312016 version:
+ Deleted items a b d and e which are covered by other schedules.
+ Revised the media neutral statement in Guidance.
+ Updated Guidance and cross references.
+The following changes were made in the 10312009 version:
+ Revised wording in disposition instructions for items a b and d.
+ Revised title of disposition item e.
+ Updated cross references.
+EPA regional offices maintain separate databases containing detailed information on wells including well operators ownership nature and type of wells operating status and permits. Implementation varies from region to region. Some information from these regional systems is extracted and sent to EPA headquarters for the UIC Program Summary System scheduled as N1-412-95-44 (EPA series 0432).
+Regional systems may include facility information from tribal lands. In the EPA regional office in Chicago for example a tribal code is entered to designate which reservation the well is located within.
+Custodians:
+Multiple units
+Related Schedules:
+EPA 0234 EPA 1012 EPA 1044 EPA 1047
+Previous NARA Disposal Authority:
+None
+Entry: 09051994
+EPA Approval: 07272006
+NARA Approval: 02012008

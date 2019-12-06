@@ -1,0 +1,83 @@
+[bookmark: _GoBack]EPA Records Schedule 0432
+Status: Final 07312018
+Title: Underground Injection Control Program Summary System (UIC PSS)
+Program: Water
+Applicability: Agency-wide
+Function: 108 - Environmental Management
+NARA Disposal Authority:
+ DAA-0412-2016-0001
+Description:
+Contains summary reports of individual injection well activities conducted by Underground Injection Control (UIC) primacy programs. The summary information is used by EPA for the monitoring and enforcement of the UIC portion of the Safe Drinking Water Act (SDWA). EPAs monitoring and enforcement are primarily achieved through initial bi-annual and annual reporting requirements. EPA uses a set of standardized forms EPA form 7520-1 through 7520-4 (7520 forms) to collect and maintain UIC information.
+The following procedures for records workflow and custodianship are documented in Underground Injection Control: Procedures for 7520 Reporting available from the Office of Ground Water and Drinking Water.
+ States with primary enforcement authority (primacy) submit 7520 forms and annual well inventory by e-reporting via the UIC National Database or in paper or by scan to EPA Regions. Regions maintain the 7520 forms by primacy state agency.
+ Regions with direct primacy responsibilities submit 7520 forms by e-reporting via the UIC National Database or in paper or by scan to EPA Headquarters (HQ).
+ The 7520 forms summarize activities conducted by all UIC programs. The annual well inventory counts the number of wells by well class as of September 30 of each fiscal year.
+ HQ maintains e-reported well specific information in an oracle database called the UIC National Database covered by EPA 0754.
+ Regions submit scanned copies of state paper forms to HQ which maintains them as the National 7520 Compilation.
+ HQ also maintains the summary information from the scanned 7520 forms and the e-reported data on a PC-based system called the UIC Program Summary System (UIC PSS).
+The 7520 forms summaries represent the minimum information necessary to achieve the Agencys goals and satisfy regulatory requirements (e.g. permits compliance and enforcement inspection and mechanical integrity testing). Annual inventory is submitted separately and maintained in HQ.
+Disposition Instructions:
+Item a: (Reserved)
+Item b: (Reserved)
+Item c: Electronic data
+NARA Disposal Authority: DAA-0412-2016-0001-0001
+ Disposable
+ Close when end of fiscal year occurs and when no longer needed for current Agency business.
+ Delete 5 years after file closure.
+Item d: (Reserved)
+Item e: (Reserved)
+Item f: EPA Forms 7520-1 through 7520-4 (7520 forms)
+Includes paper and scanned 7520 forms maintained by Regions or HQ the National 7520 Compilation which consists of scanned 7520 forms and 7520 reports generated from e-reported data the UIC annual well inventory and internal data analyses.
+NARA Disposal Authority: Pending
+ Disposable
+ Close when end of fiscal year occurs and when no longer needed for current Agency business.
+ Destroy 5 years after file closure.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Some confidential business information (CBI) restrictions apply to access of individual Class I hazardous waste injection well information maintained at the state and regional levels.
+A similar system for Region 4 is scheduled as EPA 0234. Information from the regional system is extracted and sent by mail to headquarters.
+Due to a reorganization some duplicated enforcement data is also sent to the Office of Enforcement and Compliance Assurance.
+Electronic software program - The electronic software program formerly item a is covered by EPA 1012 item e. The electronic software program is to be kept as long as needed to ensure access to and use of the UIC PSS electronic data throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. NARA regulations require that electronic records be retrievable and usable for as long as needed to conduct agency business and meet NARA-approved disposition.
+Input - Input formerly item b is covered by EPA 1012 item e. Input to the UIC PSS consists of duplicate scanned copies of forms 7520 used for data entry spreadsheets used to import data during an update process and electronic data exported from the UIC National Database.
+Output and reports - For disposition of output and reports formerly item d refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule item applies follow the disposition instructions with the later dates.
+System documentation - Supporting documentation formerly item e is covered by EPA 1012 item e for system documentation and includes software source code data systems specifications file specifications code translations record layouts user guides and output specifications.
+Information requests - Requests for information submitted from inside EPA and responses to those requests are considered internal data analyses covered by item f for 7520 forms. Requests for information submitted from outside EPA under the Freedom of Information Act (FOIA) and responses to those requests are covered by EPA 1049.
+Reasons for Disposition:
+The following changes were made in the 07312016 version:
+ Moved from draft status to final.
+ Added NARA approval date.
+The following changes were made in the 04302016 version.
+ Moved from development status to draft.
+ Added NARA disposal authority number.
+ Added EPA approval date.
+The following changes were made in the 03312016 version:
+ Deleted item a - Electronic software program which is covered by EPA 1012 item e.
+ Deleted item b - Input which is covered by EPA 1012 item e.
+ Updated disposition instructions for item c - Electronic data.
+ Deleted item d - Output and reports which is covered by other schedules as explained in the Guidance.
+ Deleted item e - Supporting documentation which is covered by EPA 1012 item e.
+ Added item f - EPA Forms 7520-1 through 7520-4 (7520 forms).
+ Updated Description to clarify records covered by this schedule.
+ Updated Guidance for records covered by related records schedules.
+ Updated Custodians contact information.
+The purpose of the UIC program is to establish a federal-state regulatory system to ensure that actual or potential sources of drinking water are not endangered by the underground injection of contaminants. EPA information users include regional and headquarters staff who make decisions to:
+ justify budget requestprogram plans
+ make fair resource allocationgrant allotments
+ satisfy public and other group requests
+ assess program progress and implementation
+ identify environmental success against litigation
+ plan the budget track and evaluate regional performance
+ identify research needs and respond to inquiries from the Office of Management and Budget Congress Government Accountability Office and the public.
+Primary enforcement agencies in states use the information to target inspection and enforcement activity to establish permit terms and conditions to track performance against demands identify violations assess their significance and evaluate their own program activities.
+Custodians:
+Office of Water Office of Ground Water and Drinking Water Drinking Water Protection Division
+ Contact: William Bates
+ Telephone: 202-564-6165
+Related Schedules:
+EPA 0089 EPA 0234 EPA 0754 EPA 1012 EPA 1049
+Previous NARA Disposal Authority:
+N1-412-95-44
+Entry: 01111993
+EPA Approval: 04182016
+NARA Approval: 06272016

@@ -1,0 +1,28 @@
+EPA Records Schedule 0999
+Status: Final 12312013
+Title: Personal Papers
+Program: All Programs
+Applicability: Agency-wide
+Function: NA - not applicable
+NARA Disposal Authority:
+ Not applicable
+Description:
+Personal papers are documentary materials or any reasonably segregable portion thereof of a private or nonpublic character that do not relate to or have an effect upon the conduct of Agency business. Personal papers are excluded from the definition of records in 44 U.S.C. Section 3301 and are not owned by the Agency.
+Examples of personal papers include: (1) Materials accumulated by an official before joining government service that are not used subsequently in the transaction of government business (2) Materials relating solely to an individuals private affairs such as outside business pursuits professional affiliations or private political associations that do not relate to Agency business and (3) Diaries journals personal correspondence or other personal notes that are not prepared or used for or circulated or communicated in the course of transacting government business.
+Disposition Instructions:
+ Disposable
+ Destroy or remove at the discretion of the owner.
+Guidance:
+If information about private matters and Agency business appears in the same document the document should be copied at the time of receipt with the personal information deleted and treated as a federal record.
+Personal papers must be clearly designated as such and at all times be maintained separately from the Agencys records. The use of a label such as personal confidential private or similar designation is not sufficient to determine that materials are personal papers. Even though they may have designations such as personal the materials are federal records subject to the provisions of pertinent laws and regulations (1) if they are created or received by the Agency to conduct government business and (2) if they are preserved or appropriate for preservation because they document the Agencys organization functions and activities or contain information on the persons places things or matters dealt with by the Agency.
+For Nonrecords see EPA 0008.
+Reasons for Disposition:
+Personal papers are identified in 36 CFR Section 1222.36. NARA guidance states ...personal papers may be destroyed or removed at the owners discretion.
+Custodians:
+Multiple units
+Related Schedules:
+EPA 0008
+Previous NARA Disposal Authority:
+Entry: 10192004
+EPA Approval: Not applicable
+NARA Approval: Not applicable

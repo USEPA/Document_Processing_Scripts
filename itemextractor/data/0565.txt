@@ -1,0 +1,30 @@
+EPA Records Schedule 0565
+Status: Final 12312013
+Title: Donated Leave Program Case Files
+Program: Personnel
+Applicability: Agency-wide
+Function: 403 - Human Resources Management
+NARA Disposal Authority:
+ General Records Schedule 137
+Description:
+Includes case files documenting the receipt and donation of leave for medical emergencies including recipient applications Agency approvals or denials medical or physician certifications leave donation records or OF 630-A supervisortimekeeper approvals leave transfer records payroll notification records and leave program termination records. Also known as leave bank records.
+Disposition Instructions:
+Item a: Record copy
+NARA Disposal Authority: General Records Schedule 137
+ Disposable
+ Beginning in January 1994 destroy 1 year after the end of the year in which the file is closed.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Other leave records are covered by schedule 1005 for copies held by the finance office all other copies are covered by schedule 1006.
+Reasons for Disposition:
+Conforms to NARAs General Records Schedule 1 item 37.
+Item b for electronic mail and word processing system copies deleted 08222006 pursuant to NARA Bulletin 2006-04.
+Custodians:
+Multiple units
+Related Schedules:
+EPA 1005 EPA 1006
+Previous NARA Disposal Authority:
+Entry: 08061999
+EPA Approval: Not applicable
+NARA Approval: 12001998

@@ -1,0 +1,80 @@
+EPA Records Schedule 1051
+Status: Final 07312016
+Title: Records of Senior Officials
+Program: All Programs
+Applicability: Agency-wide
+Function: 301 - Controls and Oversight
+NARA Disposal Authority:
+ DAA-0412-2013-0019-0001 (Item a)
+ DAA-0412-2013-0019-0002 (Item b)
+Description:
+This schedule covers records documenting activities of EPA senior officials including Presidential appointees Deputies (e.g. Principal Assistant etc.) and Special Counsels or Trusted Advisors of Presidential appointees and Senior Executive Service (SES) employees.
+Disposition Instructions:
+Item a: Historically significant records of senior officials
+Includes but is not limited to:
+ Administrators meeting files including documents used by the Administrator Deputy Administrator and other senior level staff in the Administrators Office to prepare for meetings and briefings including meeting notes invitations and acceptances draft itineraries and schedules copies of position papers policy statements and other briefing or background papers
+ Calendars schedules and logs of daily activities including substantive information relating to official activities when not incorporated into memoranda reports correspondence or other records included in the official files
+ Controlled and major correspondence which significantly documents the program activities and was processed under special handling control procedures because of the importance of the letters or time requirements of replies including copies of incoming letters responses and enclosures indexes to the correspondence
+ Speeches and presentations prepared for delivery while representing EPA and congressional and expert testimony related to non-EPA cases.
+NARA Disposal Authority: DAA-0412-2013-0019-0001
+ Permanent
+ Close at end of calendar or fiscal year or when no longer needed for current agency business.
+ Transfer to the National Archives 15 years after file closure.
+Item b: Routine senior officials records
+Includes but is not limited to: program management files related to the on-going management of programs and routine projects within programs for both mission and operational programs.
+Excludes: program management files maintained by EPA employees other than senior officials and general administrative and routine housekeeping records covered by schedule 1006.
+NARA Disposal Authority: DAA-0412-2013-0019-0002
+ Disposable
+ Close at end of calendar or fiscal year or when no longer needed for current agency business.
+ Destroy 10 years after file closure.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Senior officials - Headquarters program and regional offices are responsible for determining who is a senior official in their program or region for recordkeeping purposes. The senior officials role is defined by position and not by the person holding the position. If someone is acting in a senior leaders position the records are permanent and covered by item a. Examples of senior officials include but are not limited to:
+Headquarters:
+ Administrators and Deputy Administrators Assistant Deputy Assistants and Associate Administrators Chiefs of Staff and Deputy Chiefs of Staff Environmental Appeals and Administrative Law Judges General Counsels and Associate General Counsels Inspectors General and Assistant Inspectors General Chief Financial Officers and Deputy Chief Financial Officers Comptrollers and Deputy Comptrollers and equivalent including other officials when acting in those capacities.
+ Office Directors and Deputy Office Directors and equivalent including other officials when acting in those capacities.
+ Special Assistants (e.g. Staff Assistants) and Senior Advisors to the previously named officials.
+Regions:
+ Regional Administrators Deputy and Assistant Regional Administrators Regional Counsels and Deputy Regional Counsels and equivalent including other officials when acting in those capacities.
+ Office Directors and Deputy Office Directors Division Directors and Deputy Division Directors and equivalent including other officials when acting in those capacities.
+ Special Assistants (e.g. Staff Assistants) to the previously named officials.
+Laboratories:
+ Laboratory Directors Associate Laboratory Directors and equivalent including other officials when acting in those capacities.
+ Division and Deputy Division Directors and equivalent including other officials when acting in those capacities.
+ Special Assistants (e.g. Staff Assistants) to the previously named officials.
+Calendars
+ If the calendar of a senior official is maintained electronically a copy may be pre-accessioned or transferred to the National Archives earlier (e.g. at the end of each calendar year). If an electronic copy is sent to NARA before the end of the approved retention period the submitting office is still responsible for maintaining a record copy for the entire approved retention period. See NARA Bulletin 2009-03 Pre-accessioning Permanent Electronic Records for more information.
+ Portions of calendars that do not pertain to official Agency business may be personal papers. Personal items may be redacted prior to submittal. For instructions on determining whether a specific item is a record or a personal paper see Agency and federal guidance. Copies incorporated into other files (e.g. testimony submitted to the Office of Congressional and Intergovernmental Relations (OCIR) covered by schedule 1020) are to be retained according to the disposition instructions for the records they support.
+ If the record copy of the calendar is maintained in paper format the Lotus Notes calendar list or the print detailed agenda calendar option in Outlook is recommended for printing. Instructions for capturing electronic calendars maintained in Lotus Notes or Outlook and saving them as records in EZ Email can be found at http:intranet.epa.govecmsguides.
+Correspondence
+ If the record copy of controlled and major correspondence is placed in the Correspondence Management System (CMS) the paper may be destroyed after the completion of quality assurance. Since CMS interfaces with EPAs electronic recordkeeping system retention in CMS is managed via the electronic recordkeeping system. CMS is scheduled as EPA 0077.
+ For the Office of the Administrator and Deputy Administrator the interagency correspondence file and environmental multiple letters file are covered by item a. Related electronic indices are to be transferred in accordance with NARAs requirements for the transfer of electronic records.
+ If the official copies of controlled correspondence for senior officials are returned to the originating program office they should be filed separately and dispositioned according to the instructions in item a.
+ If the index for the correspondence is paper enclose a copy of the index with the correspondence files when the files are retired to the Federal Records Centers (FRCs) or transferred as permanent records to the National Archives.
+Program management files  Records maintained by senior officials that document the on-going management of programs and projects that are not deemed to be historically significant are covered by item b. If the records are not listed in the description for item a and there are questions about whether they are historically significant contact the program or region records liaison officer (RLO) or the National Records Management Program (NRMP) records help desk. Contact information can be found on the records website at: http:www.epa.govrecordscontact.htm.
+Copies of permanent electronic records transferred to the National Archives - The copy of permanent electronic records transferred to the National Archives (previously scheduled as schedule 0140a(3) schedule 0141a(3) and schedule 0523a(3)) maintained by the submitting office until they are notified by NARA that the transfer is successful is a nonrecord (schedule 0008 item a) and can be deleted when no longer needed.
+Biographical information and portraits- Biographical information and portraits are covered by records schedules for the records they support e.g. schedule 1022 for news releases publications and similar records.
+Email messages - Email messages including senders and recipients versions of messages that meet the definition of federal records and any attachments to the messages are covered by records schedules for the records they support. Emails that are personal and unrelated to EPA business are nonrecords and may be destroyeddeleted immediately by the user. See Frequent Questions about E-Mail and Records: at: http:www.epa.govrecordsfaqsemail.htm.
+Speeches presentations and testimony - Copies of speeches presentations and testimony of senior officials are covered by item a of this schedule. Copies may also be maintained in a related project or subject file and retained according to the disposition instructions for the records they support.
+Reasons for Disposition:
+The following changes were made in the 07312016 version:
+ Moved from draft status to final.
+ Added NARA approval date.
+ Added guidance about speeches presentations and testimony.
+The following changes were made in the 08312015 version:
+ Deleted reference to the EPA Seniors Leaders Directory in schedule description.
+ Added examples of senior officials in guidance.
+ Deleted bullets in item a for biographical information and portraits and electronic mail.
+The following change was made in the 05312014 version:
+ Added guidance on saving calendars in electronic format.
+This schedule combines and consolidates previously approved EPA and GRS schedule items.
+Custodians:
+Multiple units
+Related Schedules:
+EPA 0008 EPA 0077 EPA 0537 EPA 1006
+Previous NARA Disposal Authority:
+Previous NARA disposal authorities can be found at: http:intranet.epa.govrecordsscheduleconsolidationfiles1051_Senior_Officials_Crosswalk.docx.
+Entry: 07122012
+EPA Approval: 08282013
+NARA Approval: 06272016

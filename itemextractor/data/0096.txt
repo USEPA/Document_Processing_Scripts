@@ -1,0 +1,75 @@
+EPA Records Schedule 0096
+Status: Final 12312014
+Title: Data Standards and Registry Services
+Program: All Programs
+Applicability: Agency-wide
+Function: 404 - Technology Management
+NARA Disposal Authority:
+ N1-412-08-15
+Description:
+Registries provide the ability to register map and manage metadata and information important to the Agency and its partner systems. Registries may contain objects or data used within multiple systems such as common code sets facility information or substances. They may contain information about individual Agency systems or datasets or reusable software components and services that may be used in multiple systems. Registration of contents is the single unique concept that makes a registry a registry. Quality assurance is provided and stewards are assigned to maintain and manage specific contents. In all cases registries serve as an organizing structure for the purpose of facilitating discovery of Agency information resources. The registries do not contain environmental data but are collections or repositories of metadata that describe information to make the data more meaningful and easier to find.
+Data standards are part of the EPA Enterprise Data Architecture. They are maintained with the EPA registries. Data standards are used to improve the quality of environmental data and also facilitate data integration.
+Disposition Instructions:
+Item a: (Reserved)
+Item b: (Reserved)
+Item c: Electronic data
+NARA Disposal Authority: N1-412-08-15c
+ Disposable
+ Delete when superseded or obsolete.
+Item d: (Reserved)
+Item e: (Reserved)
+Item f: Data standards documentation
+NARA Disposal Authority: N1-412-08-15f
+ Disposable
+ Delete when standards no longer in use in Agency and partner systems.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Electronic software program - The electronic software program is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. NARA regulations require the electronic records be retrievable and usable for as long as needed to conduct Agency business and meet NARA-approved disposition. The electronic software program is covered by schedule 1012 item e.
+Input - Input for the system is covered by schedule 1012 item e.
+Output and reports - For disposition of output and reports refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the later dates.
+System documentation - System documentation including system development documentation is covered by EPA 1012 item e.
+This schedule includes but is not limited to the following systems listed by headquarters program office:
+Office of Environmental Information
+ Data Element Registry Services (DERS)
+ Data Registry Services
+ Data Standards Services
+ EPA Linked Data Services (EPA-LDS)
+ Facility Registry System (FRS)
+ Registry of EPA Applications Models and Databases (READ)
+ Reusable Component Services
+ Substance Registry Services
+ System Inventory Services
+ System of Registries (SoR)
+ Terminology Services
+Office of Research and Development
+ Environmental Information Management System (EIMS) and Science Inventory
+Substance Registry Services was formerly called the Substance Registry System. The XML Registry is now a part of Reusable Component Services.
+Other disposable systems not requiring specific schedules have been categorized into this schedule or one of the other generic or big bucket schedules:
+ EPA 0063 - Electronic Models and Expert Systems
+ EPA 0088 - Bibliographic and Reference Systems
+ EPA 0089 - Information Tracking Systems
+ EPA 0090 - Administrative Support Databases
+ EPA 0094 - Electronic Bulletin Boards
+ EPA 0098 - Data Marts and Data Warehouses
+Electronic records not requiring their own schedules or covered in one of the big bucket schedules listed above may be segments or phases of information systems covered by schedule 1012 Information and Technology Management.
+Reasons for Disposition:
+The following changes were made in the 07312014 version:
+ Deleted items a b d and e which are covered by other schedules.
+ Deleted cross reference to schedule 0179 which is covered by schedule 1012 item e.
+The following changes were made in the 04302008 version:
+ Revised disposition instructions for item b.
+ Added information and reorganized guidance.
+The following changes were made in the 03312008 version:
+ Revised reference to EPA 0170 in disposition item b.
+ Revised disposition instructions for item e.
+This schedule was originally approved as N1-412-03-7 for the Environmental Data Registry (EDR). The schedule has been expanded to include all data registries including FRS (EPA 079 previously approved as N1-412-03-16) and EIMS (EPA 469 previously approved as N1-412-04-9).
+Custodians:
+Multiple units
+Related Schedules:
+EPA 0063 EPA 0088 EPA 0089 EPA 0090 EPA 0094 EPA 0098 EPA 1012
+Previous NARA Disposal Authority:
+N1-412-03-7 N1-412-03-16 N1-412-04-9
+Entry: 06182001
+EPA Approval: 08122008
+NARA Approval: 05062009

@@ -1,0 +1,51 @@
+EPA Records Schedule 0446
+Status: Final 12312013
+Title: The Waterbody System (WBS)
+Program: Water
+Applicability: Agency-wide
+Function: 108 - Environmental Management
+NARA Disposal Authority:
+ N1-412-95-48
+Description:
+The Waterbody System (WBS) is a database of state water quality assessment information collected to meet the Agencys Congressional reporting requirements under Section 305(b) of the Clean Water Act. States submit information to EPA on several types of surface waters affected by point or nonpoint source pollution lakes monitored under the Clean Lakes Program and surface waters requiring the assigning of total maximum daily loads limits to restore or maintain their water quality.
+Information entered into WBS includes: waterbody identification water quality status sources of impairment assessment information and causes of impairment. States territories and interstate commissions assemble available monitoring information and make judgments on water quality before summary information can be entered into the system. Information is submitted to EPA every two years. WBS stores the components and the results of the assessment and is not designed to store manipulate or analyze raw monitoring data.
+The WBS is linked to STORET. The NPDES number also links facilities reported in WBS to Industrial Facilities Discharge (IFD) system.
+Disposition Instructions:
+Item a: Electronic software program
+NARA Disposal Authority: N1-412-95-48a
+ Disposable
+ Delete when superseded by routine software updates and quality assurance check completed or when no longer needed.
+Item b: Input
+NARA Disposal Authority: DAA-0412-2013-0009
+ Disposable
+ Follow instructions for schedule 1012.
+Item c: Electronic data
+NARA Disposal Authority: N1-412-95-48c
+ Disposable
+ Delete when superseded or no longer needed.
+Item d: Output and reports
+NARA Disposal Authority: Varies
+ Varies
+ File with related records and follow instructions for the related records.
+Item e: Supporting documentation
+NARA Disposal Authority: N1-412-95-48e
+ Disposable
+ Maintain most current version and destroy when system is discontinued.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Other related series include:
+ EPA 0400 - Storage and Retrieval Water Quality Data Base (STORET)
+ EPA 0444 - Industrial Facilities Discharge (IFD) File
+Reasons for Disposition:
+Records support operations required by statute and regulation. Disposition meets administrative and program needs. This is an automated version of the information in EPA 0429 - State 305(b) Water Quality Reports which is disposable. Long-term responsibility for the data should lie with the submitting state.
+Custodians:
+Region 5 Water Division Ground Water and Drinking Water Branch
+ Contact: Cary McElhinney
+ Telephone: 312-886-4313
+Related Schedules:
+EPA 0400 EPA 0444 EPA 1012
+Previous NARA Disposal Authority:
+Entry: 01081993
+EPA Approval: 12191996
+NARA Approval: 06121998

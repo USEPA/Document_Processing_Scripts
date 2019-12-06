@@ -1,0 +1,57 @@
+EPA Records Schedule 0468
+Status: Final 12312013
+Title: Integrated Risk Information System (IRIS)
+Program: Research and Development
+Applicability: Agency-wide
+Function: 316 - Applied Research and Science Support
+NARA Disposal Authority:
+ N1-412-01-12
+Description:
+The Integrated Risk Information System (IRIS) database contains summary toxicity information for use in human health risk assessment. IRIS is the Agencys primary vehicle for communication of chronic health hazard information representing EPA consensus positions following comprehensive review by Agency scientists. It is a useful information resource tool that points the user to the underlying human andor animal data used to support the Agencys opinion. The system contains hazard identification and dose-response risk information for more than 500 chemicals.
+IRIS is comprised of three major sections: non-cancer health effects resulting from oral exposure non-cancer health effects resulting from inhalation exposure and carcinogenic assessment for both oral and inhalation exposure. It contains full bibliographic citations for each substance file directing the user to the primary cited studies and pertinent scientific literature. IRIS is accessible to the public as well as EPA staff.
+Disposition Instructions:
+Item a: Electronic software program
+This item is to be used only by the Office of Research and Development National Center for Environmental Assessment at Headquarters.
+NARA Disposal Authority: N1-412-01-12a
+ Disposable
+ Destroy when no longer needed to ensure access to and use of the electronic records throughout the authorized retention period.
+Item b: Input
+NARA Disposal Authority: DAA-412-2013-0021
+ Varies
+ See IRIS Documentation Files covered by schedule 1035.
+Item c: Electronic data
+This item is to be used only by the Office of Research and Development National Center for Environmental Assessment at Headquarters.
+NARA Disposal Authority: N1-412-01-12c
+ Permanent
+ Transfer data annually to the National Archives as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time.
+Item d: Output and reports
+NARA Disposal Authority: Varies
+ Varies
+ File with related records and follow instructions for the related records.
+Item e: System documentation
+This item is to be used only by the Office of Research and Development National Center for Environmental Assessment at Headquarters.
+NARA Disposal Authority: N1-412-0112e
+ Permanent
+ Transfer those records necessary to document how the system captures manipulates and outputs data to the National Archives as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time. Documentation is transferred with the electronic data (item c).
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+IRIS documentation files are scheduled as EPA 0460.
+Reasons for Disposition:
+The following change was made in the 06302008 version:
+ Updated contact information.
+The following changes were made in the 04302008 version:
+ Revised the disposition instructions for item a.
+ Added applicability to disposition items a c and e.
+ Revised title of disposition item e.
+IRIS was developed in response to a growing demand for consistent chemical substance risk information representing EPA consensus opinions for use in decision making and regulatory activities. It is intended to serve as a pointer system to more detailed data contained in supporting scientific studies. IRIS is available electronically on EPAs Web server and updated as needed.
+Custodians:
+Office of Research and Development National Center for Environmental Assessment
+ Contact: Brenda E. Washington
+ Telephone: 703-347-8581
+Related Schedules:
+EPA 1035
+Previous NARA Disposal Authority:
+Entry: 03011993
+EPA Approval: 10252000
+NARA Approval: 10202001

@@ -1,0 +1,66 @@
+EPA Records Schedule 0299
+Status: Final 04302014
+Title: Budget Formulation System (BFS)
+Program: Budget Operations
+Applicability: Agency-wide
+Function: 402 - Financial Management
+NARA Disposal Authority:
+ N1-412-09-1
+Description:
+The Budget Formulation System (BFS) automates EPAs budget processes including planning budgeting execution and reporting. Budget data is entered at a general level by offices and regions or by the Office of the Chief Financial Officer (OCFO). The system maintains snapshots of the budget as it exists at key stages of the process. Budgetary transactions are entered into the system and edited against business rules and budgetary limitations. Authorizations and approvals of transactions are done on-line with an audit trail of each transaction. The system serves as the source of information on EPAs organizational structure planning structure budget structure fiduciary structure and the business rules.
+This system interfaces with the Integrated Financial Management System (IFMS) and the EPA Payroll System (EPAYS) which are scheduled separately. It replaces the Resources Management Information SystemBudget Analysis System (RIMSBARS).
+Disposition Instructions:
+Item a: (Reserved)
+Item b: (Reserved)
+Item c(1): Electronic data - Final data
+Includes the OMB Submission Presidents Budget Enacted Budget Performance Annual Report and Congressional Justification. The Office of the Chief Financial Officer Office of Budget Systems and Information Management Branch at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-09-1c(1)
+ Permanent
+ Transfer data annually to the National Archives as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time.
+Item c(2): Electronic data - Working data
+The Office of the Chief Financial Officer Office of Budget Systems and Information Management Branch at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-09-1c(2)
+ Disposable
+ Delete when no longer needed to document budget activities.
+Item d: (Reserved)
+Item e(1): System documentation - Final data
+Includes the OMB Submission Presidents Budget Enacted Budget Performance Annual Report and Congressional Justification. The Office of the Chief Financial Officer Office of Budget Systems and Information Management Branch at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-09-1e(1)
+ Permanent
+ Transfer those records necessary to document how the system captures manipulates and outputs data to the National Archives as specified in 36 CFR 1235.44-1235.50. Documentation is transferred with the electronic data (subitem c(1)).
+Item e(2): (Reserved)
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Electronic software program - The electronic software program formerly item a is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. NARA regulations require that electronic records be retrievable and usable for as long as needed to conduct Agency business and meet NARA-approved disposition. The electronic software program is covered by schedule 1012 item e.
+Input - Input formerly item b is covered by schedule 1012 item e.
+Output and reports - For disposition of outputs and reports formerly item d refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the later date.
+System documentation - System documentation for the working data formerly item e(2) is covered by schedule 1012 item e.
+IFMS is covered by EPA 0054 and EPAYS by EPA 0573.
+The OMB Submission in items c(1) and e(1) begins with the year 2000.
+Reasons for Disposition:
+The following changes were made in the 04302014 version:
+ Revised title of schedule and description.
+ Deleted items a b d and e(2) which are covered by other schedules.
+ Updated guidance.
+The following change was made in the 03312009 version:
+ Added OMB Submission to items c(1) and e(1) and added statement about it in guidance.
+The following change was made in the 11302008 version:
+ Removed reference to OMB submission in item e(1).
+The following change was made in the 07312008 version:
+ Removed reference to OMB submission in item c(1).
+The following change was made in the 05312008 version:
+ Divided disposition items c and e into two subitems each.
+ Added statement about applicability for disposition items a c and e.
+The schedule was previously approved as NC1-412-85-93 for the Resources Management Information System (RMIS). It has been revised to reflect current budget practices.
+Custodians:
+Office of the Chief Financial Officer Office of Budget Systems and Information Management Branch
+ Contact: Jackye Herzfeld
+ Telephone: 202-564-4599
+Related Schedules:
+EPA 0054 EPA 0573 EPA 1012
+Previous NARA Disposal Authority:
+NC1-412-85-93
+Entry: 01102002
+EPA Approval: 11172008
+NARA Approval: 08092009

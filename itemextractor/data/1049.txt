@@ -1,0 +1,209 @@
+EPA Records Schedule 1049
+Status: Final 03312017
+Title: Information Access and Protection Records
+Program: All Programs
+Applicability: Agency-wide
+Function: 305 - Public Affairs
+NARA Disposal Authority:
+ DAA-GRS-2013-0007-0002 (Item a)
+ DAA-GRS-2013-0007-0003 (Item b)
+ DAA-GRS-2013-0007-0020 (Item c)
+ DAA-GRS-2013-0007-0021 (Item d)
+ DAA-GRS-2013-0007-0004 (Item e)
+ NC1-412-64-77-127 (Item f)
+ DAA-GRS-2015-0002-0001 (Item g)
+ DAA-GRS-2015-0002-0002 (Item h)
+ DAA-GRS-2013-0007-0006 (Item i)
+ DAA-GRS-2013-0007-0022 (Item j)
+ DAA-GRS-2013-0007-0023 (Item k)
+ DAA-GRS-2013-0007-0007 (Item l)
+ DAA-GRS-2013-0007-0008 (Item m)
+ DAA-GRS-2013-0007-0011 (Item n)
+ DAA-GRS-2015-0002-0003 (Item o)
+ DAA-GRS-2013-0007-0012 (Item p)
+ DAA-GRS-2013-0007-0013 (Item q)
+ N1-GRS-98-212 (Item r)
+ N1-GRS-98-213 (Item s)
+ DAA-GRS-2016-0003-0002 (Item t)
+ DAA-GRS-2016-0003-0003 (Item u)
+ DAA-GRS-2016-0003-0004 (Item v)
+ DAA-GRS-2016-0003-0005 (Item w)
+ DAA-GRS-2016-0008-0001 (Item x)
+Description:
+This schedule covers records created in response to requests for access to government information and protecting information that is classified or controlled unclassified or contains personal data that is required by law to be protected.
+Disposition Instructions:
+Item a: Access and disclosure request files
+Includes case files created in response to requests for information under Freedom of Information Act (FOIA) Mandatory Declassification Review (MDR) process Privacy Act (PA) Classification Challenge and similar access programs and completed by granting the request in full granting the request in part denying the request for any reason including the inability to fulfill request because records do not exist or the request inadequately describes the records or the search or reproduction fees are not paid final adjudication on appeal to any of the above original settlements and final agency action in response to court remand on appeal. Includes the requests (either first-party or third-party) replies copies of requested records administrative appeals and related supporting documents (such as sanitizing instructions).
+Excludes the record copies of requested records which are covered by their original disposition authority.
+NARA Disposal Authority: DAA-GRS-2013-0007-0002
+ Disposable
+ Close 6 years after final agency action or 3 years after final adjudication by the courts whichever is later.
+ Destroy after file closure.
+Item b: Information access and protection tracking and control records
+Includes records documenting receipt dispatch and destruction of unclassified records tracking databases and other records used to manage overall program and requests and authorizations for individuals to have access to classified files.
+NARA Disposal Authority: DAA-GRS-2013-0007-0003
+ Disposable
+ Close 2 years after last form entry reply or submission or when associated documents are declassified or destroyed or when authorization expires whichever is appropriate.
+ Destroy after file closure.
+Item c: Access control records
+Includes safe and padlock combinations names or other personal identifiers of individuals who know combinations and comparable data used to control access into classified document containers.
+NARA Disposal Authority: DAA-GRS-2013-0007-0020
+ Disposable
+ Close when superseded or obsolete.
+ Destroy after file closure.
+Item d: Classified or controlled unclassified document container records
+Includes forms placed on safes cabinets or vaults that record opening closing and routine checking of container security.
+Excludes forms involved in investigations which are covered by the schedule for records of the investigation.
+NARA Disposal Authority: DAA-GRS-2013-0007-0021
+ Disposable
+ Close after last entry on form.
+ Destroy 90 days after file closure.
+Item e: Accounting for and control of access to classified and controlled unclassified and records requested under FOIA PA and MDR
+Includes records documenting identity internal routing and final disposition of classified documents. Also includes records documenting control points and accountability for information relating to access requests including forms registers logs and tracking systems documenting requester identity and contact information request date and nature or purpose of request inventories of controlled records forms accompanying documents to ensure continuing control showing names of people handling the documents intra-office routing and comparable data and agent and research files.
+NARA Disposal Authority: DAA-GRS-2013-0007-0004
+ Disposable
+ Close 5 years after date of last entry final action by agency (such as downgrading transfer or destruction of related classified documents or release of information from controlled unclassified status) or final adjudication by courts as may apply whichever is later.
+ Destroy after file closure.
+Item f: PA accounting of disclosure files
+Includes files maintained under the provisions of 5 U.S.C. Section 552a(c) for an accurate accounting of the date nature and purpose of each disclosure of a record to any person or to another agency including: forms with the subject individuals name records of the requesters name and address explanations of the purpose for the request date of disclosure proof of subject individuals consent.
+NARA Disposal Authority: NC1-412-64-77-127
+ Disposable
+ Close in accordance with the approved disposition instructions for the related subject individuals records or 5 years after the disclosure for which the accountability was made whichever is later.
+ Destroy after file closure.
+Item g: Erroneous release records when released records are filed with records of the erroneous release
+Includes files relating to the inadvertent release of privileged information to unauthorized parties containing information the disclosure of which would constitute an unwarranted invasion of personal privacy including: requests for information copies of replies all related supporting documents.
+NARA Disposal Authority: DAA-GRS-2015-0002-0001
+ Disposable
+ Close in accordance with the approved disposition instructions for the released record copy or 6 years after the erroneous release whichever is later.
+ Destroy after file closure.
+Item h: Erroneous release records when released records are not filed with records of the erroneous release
+Includes files relating to the inadvertent release of privileged information to unauthorized parties containing information the disclosure of which would constitute an unwarranted invasion of personal privacy including: requests for information copies of replies all related supporting documents.
+NARA Disposal Authority: DAA-GRS-2015-0002-0002
+ Disposable
+ Close after the erroneous release.
+ Destroy 6 years after file closure.
+Item i: Agency statistical reports to other entities
+Includes statistical reports to the Congress Department of Justice (DOJ) or other entities regarding FOIA MDR PA and similar access and disclosure programs that summarize the number of access requests EPA receives under federally mandated programs that provide public access to information.
+NARA Disposal Authority: DAA-GRS-2013-0007-0006
+ Disposable
+ Close after date of report.
+ Destroy 2 years after file closure.
+Item j: Annual reports
+Includes annual reports prepared in compliance with Federal laws and regulations such as the E-Government Act (Public Law 107-347) Title III (Federal Information Security Management Act) and Title V (Confidential Information Protection and Statistical Efficiency Act) as codified in 44 U.S.C. Section 101 and submitted by the Chief Information Officer (CIO) Inspector General (IG) or Senior Agency Official for Privacy (SAOP).
+NARA Disposal Authority: DAA-GRS-2013-0007-0022
+ Disposable
+ Close after submission of report.
+ Destroy 5 years after file closure.
+Item k: All other reports
+Includes all other agency and internal reports by individual system owners to the SAOP.
+NARA Disposal Authority: DAA-GRS-2013-0007-0023
+ Disposable
+ Close after submission of report.
+ Destroy 2 years after file closure.
+Item l: PA amendment request files
+Includes files relating to an individuals request to amend a record pertaining to that individual under 5 U.S.C. Section 552a(d)(2) to the individuals request for review of an agencys refusal to amend a record under 5 U.S.C. Section 552a(d)(3) and to any civil action or appeal brought by the individual against the refusing agency under 5 U.S.C. Section 552a(g) including: requests to amend and to review refusal to amend copies of agencys replies statement of disagreement agency justification for refusal to amend a record appeals and related materials.
+NARA Disposal Authority: DAA-GRS-2013-0007-0007
+ Disposable
+ Close after submission of report.
+ Destroy 2 years after file closure.
+Item m: Automatic and systematic declassification review program records
+Includes files related to the review of permanent records in anticipation of automatic declassification at 25 50 or 75 years per Executive Order 13526 and the periodic review of records exempted from automatic declassification. Files include program records documenting declassification decisions.
+NARA Disposal Authority: DAA-GRS-2013-0007-0008
+ Disposable
+ Close after completion of review.
+ Destroy 30 years after file closure.
+Item n: Fundamental classification guidance review files
+Includes reports submitted to the Information Security Oversight Office (ISOO) significant correspondence drafts received comments and related materials responding to fundamental classification guidance review as required by Executive Order 13526 Section 1.9.
+NARA Disposal Authority: DAA-GRS-2013-0007-0011
+ Disposable
+ Close after report is submitted to ISOO.
+ Destroy 5 years after file closure.
+Item o: Classified information nondisclosure agreements
+Includes copies of nondisclosure agreements such as SF 312 Classified Information Nondisclosure Agreement signed by civilian and military personnel with access to information that is classified under standards put forth by executive orders governing security classification.
+Excludes copies maintained in the individuals official personnel folder (OPF) (see Guidance).
+NARA Disposal Authority: DAA-GRS-2015-0002-0003
+ Disposable
+ Close at end of calendar year.
+ Destroy 50 years after file closure.
+Item p: PII extracts
+Includes system-generated or hardcopy printouts generated for business purposes that contain Personally Identifiable Information (PII).
+NARA Disposal Authority: DAA-GRS-2013-0007-0012
+ Disposable
+ Close when 90 days old or no longer needed pursuant to supervisory authorization whichever is appropriate.
+ Destroy after file closure.
+Item q: PII extract logs
+Includes logs that track the use of PII extracts by authorized users containing some or all of: date and time of extract name and component of information system from which data is extracted user extracting data data elements involved business purpose for which the data will be used length of time extracted information will be used. Also includes (if appropriate): justification and supervisory authorization for retaining extract longer than 90 days and anticipated disposition date.
+NARA Disposal Authority: DAA-GRS-2013-0007-0013
+ Disposable
+ Close when business use ceases.
+ Destroy after file closure.
+Item r: FOIA administrative files
+Includes records relating to the general agency implementation of the FOIA including notices memoranda routine correspondence and related records.
+NARA Disposal Authority: N1-GRS-98-212
+ Disposable
+ Close at end of calendar year.
+ Destroy 2 years after file closure.
+Item s: PA general administrative files
+Includes records relating to the general agency implementation of the PA including notices memoranda routine correspondence and related records.
+NARA Disposal Authority: N1-GRS-98-213
+ Disposable
+ Close at end of calendar year.
+ Destroy 2 years after file closure.
+Item t: Privacy Act System of Records Notices (SORNs)
+Includes agency copy of notices about the existence and character of systems of records documenting publication in the Federal Register when the agency establishes or revises the system per the Privacy Act of 1974 (5 U.S.C. 552a(e)(4) and 5 U.S.C. 552a(e)(11)) as amended. Also includes significant material documenting SORN formulation other than Privacy Impact Assessment records (see item v).
+NARA Disposal Authority: DAA-GRS-2016-0003-0002
+ Disposable
+ Close after supersession by a revised SORN or after system ceases operation.
+ Destroy after file closure.
+Item u: Records of Privacy Threshold Analyses (PTAs) and Initial Privacy Assessments (IPAs)
+Includes records of research on whether an agency should conduct a Privacy Impact Assessment (PIA)
+NARA Disposal Authority: DAA-GRS 2016-0003-0003
+ Disposable
+ Close after associated PIA is published or determination that PIA is unnecessary.
+ Destroy 3 years after file closure.
+Item v: Records of Privacy Impact Assessments (PIAs)
+NARA Disposal Authority: DAA-GRS-2016-0003-0004
+ Disposable
+ Close after a superseding PIA is published after system ceases operation or (if PIA concerns a website) after website is no longer available to the public as appropriate.
+ Destroy 3 years after file closure.
+Item w: Computer matching program notices and agreements
+Includes agency copy of notices of intent to share data in systems of records with other Federal state or local government agencies via computer matching programs and related records documenting publication of notice in the Federal Register per the Privacy Act of 1974 (5 U.S.C. 552a(3)(12)) as amended. Also agreements between agencies commonly referred to as Computer Matching Agreements prepared in accordance with Office of Management and Budget Final Guidance. Includes documentation of Data Integrity Board (DIB) review and approval of matching programs and agreements and significant background material documenting formulation of notices and agreements.
+NARA Disposal Authority: DAA-GRS-2016-0003-0005
+ Disposable
+ Close upon supersession by a revised notice or agreement or 2 years after matching program ceases operation.
+ Destroy after file closure.
+Item x: Virtual public access library records
+Includes records published by EPA on line to fulfill the requirement in 5 U.S.C. 552(a)(2)(A) through 5 U.S.C. 552(a)(2)(D) and 5 U.S.C. 552(g)(1) through 5 U.S.C. 552(g)(3) that agencies must make those records available for public inspection and copying including: final concurring and dissenting opinions and orders EPA issues when adjudicating cases statements of policy and interpretations EPA adopts but does not publish in the Federal Register administrative staff manuals and instructions to staff that affect a member of the public copies of records requested under the FOIA which because of the nature of their subject matter EPA determines are or are likely to become the subject of subsequent requests for substantially the same records or which have been requested three or more times indexes of EPA major information and record locator systems and handbooks for obtaining various types and categories of EPA public information. (Applies to electronic records only.)
+Excludes the record copy of such material which may be of permanent value and must be scheduled.
+NARA Disposal Authority: DAA-GRS-2016-0008-0001
+ Disposable
+ Close when no longer needed.
+ Destroy after file closure.
+Guidance:
+Media neutral  This schedule authorizes the disposition of the record copy in any media (media neutral) (except item x which covers electronic records only). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Confidential business information (CBI) access records - CBI access records formerly schedule 624 are covered by item e of this schedule.
+Related schedules - The FOIAonline system is covered by schedule 0263. Classified information nondisclosure agreements maintained in the individuals OPF are covered by schedule 0553 for the OPF. Security of data and information systems is covered by schedule 1012 and security related to physical protection of personnel assets and facilities security briefings and training are covered by schedule 1008. Routine information requests are covered by schedule 1006 item e.
+Annual reports - With the issuance of General Records Schedule (GRS) 4.2 August 2015 PA and FOIA annual reports (formerly covered by schedules 0029 and 0313) are no longer permanent records and are disposable and are covered by items i (FOIA) and j (PA) of this schedule.
+Permanent electronic records transferred to the National Archives - The copy of permanent electronic records transferred to the National Archives (e.g. previously scheduled as EPA 0029a(3) and EPA 0313a(3)) maintained by the submitting office until they are notified by NARA that the transfer is successful is a nonrecord (EPA 0008 item a) and can be deleted when no longer needed.
+Reasons for Disposition:
+The following change was made in the 03312017 version:
+ Added item x to conform to GRS 4.2 transmittal 27 issued January 2017.
+The following changes were made in the 11302016 version:
+ Revised title and description of item b to conform to GRS 4.2 transmittal 26 issued September 2016.
+ Revised titles of items c and e to conform to GRS 4.2
+ Added items t u v and w to conform to GRS 4.2.
+ Added guidance about permanent electronic records transferred to the National Archives.
+The following changes were made in the 01312016 version:
+ Corrected controlled classified to controlled unclassified in description.
+ Revised guidance regarding PA and FOIA annual reports.
+All PA- and FOIA-related schedules (0029 0030 0031 0032 0033 0112 0113 0115 0116 0117 0313) and some items from schedule 1008 were combined into this schedule and revised to match GRS 4.2 issued August 2015.
+Custodians:
+Multiple units
+Related Schedules:
+EPA 0263 EPA 0553 EPA 1006 EPA 1008 EPA 1012
+Previous NARA Disposal Authority:
+GRS 1411 12 13 14 15 21 22 23 24 25 26 GRS 182 3 4 5 6 7 25 NC-412-75-3I1 2 3 4 5 6 NC1-412-85-24 6c NC1-412-85-36 NC1-412-85-46 NC1-412-85-58 NC1-412-85-66 NC1-412-85-84 NC1-412-85-106 NC1-412-85-118 9 10 11 NC1-412-85-127 NC1-412-85-136 NC1-412-85-146 NC1-412-85-1510 NC1-412-85-166 NC1-412-85-1914 NC1-412-85-2223 NC1-412-85-2447 NC1-412-85-26I3 NC1-412-85-26III1 2 3 4 5 6 24 26 NC1-412-85-27I3 NC1-412-85-2822 N1-412-86-16 N1-412-86-23 5 6 7 8 N1-412-86-36 16 17 N1-412-87-26 N1-412-87-46 N1-412-87-56 N1-412-95-74 N1-412-03-20 N1-412-07-114 N1-412-07-21 N1-412-07-13
+Entry: 08191991
+EPA Approval: Not applicable
+NARA Approval: 09012016

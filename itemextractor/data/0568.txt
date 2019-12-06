@@ -1,0 +1,44 @@
+EPA Records Schedule 0568
+Status: Final 05312016
+Title: Personnel Correspondence Files Related to General Administration
+Program: All Programs
+Applicability: Agency-wide
+Function: 403 - Human Resource Management
+NARA Disposal Authority:
+ General Records Schedule 13
+Description:
+Consists of correspondence reports and other records relating to the general administration and operation of personnel functions but excluding records specifically described elsewhere in the records schedules and records maintained at agency staff planning levels.
+Disposition Instructions:
+Item a: Record copy
+NARA Disposal Authority: General Records Schedule 13
+ Disposable
+ Destroy when 3 years old.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Panel interview notes - This item includes panel interview notes for candidates held in any office. Panel interview notes for candidates under merit promotion maintained by personnel offices are covered by EPA 0562.
+SEE timesheets and intern records - This item also covers timesheets for Senior Environmental Employment (SEE) Program employees and personnel records related to interns.
+EPA Form 3110-49 - The EPA Records Management Checklist for SeparatingTransferring or Separated Personnel maintained by Records Liaison Officers (RLOs) is covered by this schedule. If the employees records are subject to a litigation hold the form must (like other records associated with said employee) be retained until the hold is lifted.
+Employee separation records maintained by human resources offices - Employee separation records not filed in the official personnel folder (OPF) and maintained by the human resources offices are covered by schedule 1032 OPFs are covered by schedule 0553.
+For personnel correspondence and forms related to individual employees not maintained in the Official Personnel Folders (OPFs) and not covered by other schedules see EPA 0561.
+Reasons for Disposition:
+The following change was made in the 05312016 version:
+ Updated guidance about retention of EPA Form 3110-49 if departing employee has records that are subject to a litigation hold.
+The following change was made in the 03312014 version:
+ Revised guidance stating that the checklists for separating transferring and separated personnel are covered by this schedule.
+The following change was made in the 05312011 version:
+ Updated guidance to include records related to interns.
+The following change was made in the 10312010 version:
+ Updated guidance to include the employee separation checklist.
+The following change was made in the 01312009 version:
+ Updated guidance to include the senior officials separation checklist.
+Conforms to NARAs General Records Schedule 1 item 3.
+Item b for electronic mail and word processing system copies deleted 08232006 pursuant to NARA Bulletin 2006-04.
+Custodians:
+Multiple units
+Related Schedules:
+EPA 0553 EPA 0561 EPA 0562 EPA 1032
+Previous NARA Disposal Authority:
+Entry: 08062003
+EPA Approval: Not applicable
+NARA Approval: 04002003

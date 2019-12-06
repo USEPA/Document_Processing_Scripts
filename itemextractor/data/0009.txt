@@ -1,0 +1,62 @@
+EPA Records Schedule 0009
+Status: Final 05312017
+Title: Integrated Grants Management System (IGMS)
+Program: Grants
+Applicability: Headquarters
+Function: 205 - Federal Financial Assistance
+NARA Disposal Authority:
+ N1-412-07-33
+Description:
+The Integrated Grants Management System (IGMS) is an electronic system that automates grant and interagency processes. IGMS collects grant and fellowship application information information supporting the decision to fund the grant or fellowship commitment notice information grant and fellowship award information and grant reports. EPA collects the information in order to award grant funds or fellowships to applicants to accomplish research develop or deliver training or conduct other activities that will protect or improve public health or the environment. Grants and fellowships are awarded to state local tribal educational and nonprofit partners.
+The following types of information are contained in the system: acquisitionassistance (e.g. funding vehicle business partner) financial (e.g. obligation and commitments funds management program information planning and performance information) and human assets (e.g. business and contact information).
+Disposition Instructions:
+Item a: (Reserved)
+Item b: (Reserved)
+Item c: Electronic data - Superfund site-specific
+This item is to be used only by the Office of Administration and Resources Management Grants Management Division at Headquarters.
+NARA Disposal Authority: N1-412-07-33c
+ Disposable
+ Destroy 30 years after grant closeout.
+Item d: Electronic data - waste water construction and state revolving fund grants
+This item is to be used only by the Office of Administration and Resources Management Grants Management Division at Headquarters.
+NARA Disposal Authority: N1-412-07-33d
+ Disposable
+ Destroy 20 years after grant closeout.
+Item e: Electronic data - other than Superfund site-specific waste water construction and state revolving fund grants
+This item is to be used only by the Office of Administration and Resources Management Grants Management Division at Headquarters.
+NARA Disposal Authority: NARA Disposal Authority: N1-412-07-33e
+ Disposable
+ Destroy 10 years after grant closeout.
+Item f: (Reserved)
+Item g: (Reserved)
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in electronic format only and is not media neutral. The electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Superfund site-specific grants and other program support agreements are covered by schedule 1036 all other grants are covered by schedule 1003. The Grants Information and Control System (GICS) is scheduled as EPA 0575.
+Digital signatures are maintained for the same retention period as the related electronic data.
+Electronic software program - The electronic software program formerly item a is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. NARA regulations require that electronic records be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition and is covered by schedule 1012 item e.
+Input - Input formerly item b is covered by schedule 1012 item e.
+Output and reports - For disposition of input and reports formerly item f refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the later date.
+System documentation - Supporting or system documentation including system development documentation formerly item g refers to those records necessary to document how the system captures manipulates and outputs data. Disposition of system documentation is covered by schedule 1012 item e.
+Reasons for Disposition:
+The following changes were made in the 05-31-2017 version:
+ Corrected applicability from Agency-wide to Headquarters.
+ Updated media neutral statement and cross references in guidance.
+The following changes were made in the 04302015 version:
+ Deleted items a b f and g which are covered by other schedules.
+ Updated guidance and contact information.
+The following change was made in the 11072006 version:
+ Renumbered items e-h as d-g.
+The following changes were made in the 09072006 version:
+ Deleted item d for electronic data and supporting documentation for Tribal records.
+IGMS provides an all-electronic process for grants from development of the grant guidance through the award and closeout. The system replaces the Grants Information and Control System (GICS) with the exception of the Office of Waters construction grants data. GICS was previously appraised as N1-412-00-4. The system provides information to grant applicants grantees and the public. The proposed retention meets all audit and litigation documentation needs.
+Custodians:
+Office of Administration and Resources Management Grants Administration Division
+ Contact: William Etheridge
+ Telephone: 202-564-5353
+Related Schedules:
+EPA 0575 EPA 1003 EPA 1012 EPA 1036
+Previous NARA Disposal Authority:
+Entry: 05152000
+EPA Approval: 11132006
+NARA Approval: 12162008

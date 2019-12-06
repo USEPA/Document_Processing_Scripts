@@ -1,0 +1,33 @@
+EPA Records Schedule 0579
+Status: Final 12212013
+Title: Personal Injury Files
+Program: Safety and Health
+Applicability: Agency-wide
+Function: 401 - Administrative Management
+NARA Disposal Authority:
+ General Records Schedule 131
+Description:
+Consists of forms reports correspondence and related materials and investigatory records relating to on-the-job injuries whether or not a claim for compensation was made.
+Excludes: Copies filed in the Employee Medical Folder which are scheduled as EPA 0566 and copies submitted to the Department of Labor (See Agency-wide Guidance).
+Disposition Instructions:
+Item a: Record copy
+NARA Disposal Authority: General Records Schedule 131
+ Disposable
+ Close inactive records at termination of compensation or when deadline for filing a claim has passed.
+ Destroy 3 years after file closure.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Copies of workers compensation records filed with the U.S. Department of Labors Office of Workers Compensation Programs (OWCP) are to be retained for 2 years after case closure in accordance with OWCP requirements (See http:www2.dol.govesaregscomplianceowcpfeca810m.htm#9).
+Reasons for Disposition:
+Conforms to NARA General Records Schedule 1 item 31.
+Item b for electronic mail and word processing system copies deleted 08232006 pursuant to NARA Bulletin 2006-04.
+Custodians:
+Multiple units
+Related Schedules:
+EPA 0566
+Previous NARA Disposal Authority:
+NC-412-75-2VI2 NC1-412-85-86
+Entry: 08131993
+EPA Approval: Not applicable
+NARA Approval: 07002004

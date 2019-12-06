@@ -1,0 +1,32 @@
+EPA Records Schedule 0499
+Status: Final 03312016
+Title: Employee Occupational Exposure to Ionizing Radiation
+Program: Radiation Research and Development
+Applicability: Agency-wide
+Function: 316 - Applied Research and Science Support
+NARA Disposal Authority:
+ N1-412-07-7110
+Description:
+Consists of documentation of EPA employee occupational exposure to ionizing radiation while using radioactive materials or radiation producing devices in research. Includes quarterly employee exposure reports lists of approved radioactive isotope users Nuclear Regulatory Commission (NRC) correspondence policies regarding handling of radiation questionnaires requisitions for radioactive materials and inventories of radioactive materials.
+Disposition Instructions:
+Item a: Record copy
+NARA Disposal Authority: N1-412-07-7110a
+ Disposable
+ Close inactive records at expiration or termination of license.
+ Destroy 75 years after file closure.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Reasons for Disposition:
+The following changes were made in the 03312016 version:
+ Expanded program to include Research and Development and applicability to Agency-wide.
+The disposition instructions have been rewritten as media neutral to allow for maintaining the record copy in EPAs electronic recordkeeping system. The retention has not changed.
+Item b for electronic copies created with word processing and electronic mail applications deleted 08222006 pursuant to NARA Bulletin 2006-04.
+Custodians:
+Multiple units
+Related Schedules:
+Previous NARA Disposal Authority:
+N1-412-97-5
+Entry: 02221995
+EPA Approval: 08272007
+NARA Approval: 06222008

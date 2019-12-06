@@ -1,0 +1,49 @@
+EPA Records Schedule 0373
+Status: Final 06302017
+Title: Toxic Substances Control Act Test Submissions (TSCATS)
+Program: Toxic Substances
+Applicability: Agency-wide
+Function: 108 - Environmental Management
+NARA Disposal Authority:
+ N1-412-03-14
+Description:
+The Toxic Substances Control Act Test Submissions (TSCATS) system is an electronic index to non-confidential unpublished studies on chemical testing and adverse effects of chemicals on health and the environment. TSCATS was developed to make chemical testing studies available to the public and includes chemical exposure studies epidemiology environmental fate monitoring episodic incidents such as spills and case reports. The studies on unique chemical substances are submitted by U.S. industry under the Toxic Substances Control Act section 4 chemical testing section 8d health and safety studies section 8e notices of substantial risk and voluntarily submitted data on potentially hazardous chemicals.
+The studies are scheduled separately. Full-text documents of the studies are on microfiche are available from the National Technical Information Service.
+Disposition Instructions:
+Item a: (Reserved)
+Item b: (Reserved)
+Item c: Electronic data
+This item is to be used only by the Office of Chemical Safety and Pollution Prevention Office of Pollution Prevention and Toxics Information Management Division at Headquarters.
+NARA Disposal Authority: N1-412-03-14c
+ Permanent
+ Transfer data annually to the National Archives as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time.
+Item d: (Reserved)
+Item e: (Reserved)
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in electronic format only and is not media neutral. The format of the permanent records is specified in a records schedule approved by NARA and the electronic records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. The electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Electronic software program - The electronic software program formerly item a is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period. The electronic software program is covered by schedule 1012 item e.
+Input - Input formerly item b is covered by schedule 1012 item e.
+Output and reports - For disposition of output and reports formerly item d refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the later dates.
+System documentation - System documentation including system development documentation formerly item e refers to those records necessary to document how the system captures manipulates and outputs data. System documentation is transferred to the National Archives along with the electronic data. Disposition of system documentation is covered by schedule 1012 item a.
+Index data or input is from the following series: TSCA Section 4 Chemical Test Program Results and TSCA Section 8 Information and Reporting Files covered by schedule 1035.
+The 8(e) Triage database last updated September 1997 was integrated into TSCATS in 2001.
+Reasons for Disposition:
+The following changes were made in the 06302017 version:
+ Deleted items a b d and e since they are covered by other schedules.
+ Updated guidance and contact information.
+The following changes were made in the 04302008 version:
+ Revised disposition instructions for items a and b.
+ Added applicability to disposition items a c and e.
+ Revised title of disposition item e.
+Data in this system are pertinent to the chemical risk assessment and hazard evaluation process and is available to the public through NTIS and online through the National Library of Medicine. The data are used by federal and state agencies researchers toxicologists risk assessors the regulated industry attorneys trade and professional associations. As of July 2000 there were 106063 studies on 8304 unique chemical substances contained in 30924 documents.
+Custodians:
+Office of Chemical Safety and Pollution Prevention Office of Pollution Prevention and Toxics Information Management Division
+ Contact: Donald Frank
+ Telephone: 202-564-0302
+Related Schedules:
+EPA 1012 EPA 1035
+Previous NARA Disposal Authority:
+Entry: 04021996
+EPA Approval: 08042003
+NARA Approval: 03012004

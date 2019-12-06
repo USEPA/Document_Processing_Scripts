@@ -1,0 +1,57 @@
+EPA Records Schedule 0004
+Status: Final 07312014
+Title: Electronic Forms Systems
+Program: Environmental Information
+Applicability: Headquarters
+Function: 404 - Technology Management
+NARA Disposal Authority:
+ N1-412-02-7
+Description:
+Electronic forms systems provide users with the capability to electronically create route track and process a multitude of Agency-specific forms as well as Government-wide standard forms. Includes WebForms and the external forms database. WebForms is designed to automate the core administrative functions of EPA. The external forms database is used to classify and track all external use forms to meet program and regulatory needs.
+Disposition Instructions:
+Item a: (Reserved)
+Item b: (Reserved)
+Item c(1)(a): Electronic blank forms
+NARA Disposal Authority: N1-412-02-7c(1)(a)
+ Disposable
+ Delete when superseded or obsolete.
+Item c(1)(b): Electronic completed forms
+NARA Disposal Authority: N1-412-02-7c(1)(b)
+ Disposable
+ Delete after record copy captured in a recordkeeping system.
+Item c(2): Forms database
+NARA Disposal Authority: N1-412-02-7c(2)
+ Disposable
+ Delete 6 months after completion of action.
+Item d: (Reserved)
+Item e: (Reserved)
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Forms systems do not qualify as electronic recordkeeping systems. The record copy of forms must be printed and filed in the appropriate paper file or captured in EPAs electronic recordkeeping system (ECMS) after the last action is completed. Exception: The electronic leave forms submitted for approval via WebForms or similar electronic forms systems do not need to be printed or captured in EPAs electronic recordkeeping system (ECMS) and can be maintained electronically in the forms system according to the disposition instructions for schedule 1006 item b with the exception of mass approvals which must be printed and filed or captured in the electronic recordkeeping system.
+Forms development files are covered by schedule 1006 item b.
+Electronic software program - The electronic software program formerly item a is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. NARA regulations require that electronic records be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition and is covered by schedule 1012 item e.
+Input - Input formerly item b is covered by schedule 1012 item e.
+Output and reports - For disposition of output and reports formerly item d refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the later dates.
+System documentation - System documentation including system development documentation formerly item e refers to those records necessary to document how the system captures manipulates and outputs data. System documentation is transferred to the National Archives along with the electronic data. Disposition of system documentation is covered by schedule 1012 item e.
+Reasons for Disposition:
+The following changes were made in the 07312014 version:
+ Deleted items a b d and e which are covered by other schedules.
+ Revised guidance.
+The following changes were made in the 07312008 version:
+ Revised the schedule title and description.
+ Changed the title of disposition item c(2).
+ Updated contact information.
+Custodians:
+Office of Environmental Information Office of Technology Operations and Planning
+ Contact: Lawrence Lee
+ Telephone: 202-566-1042
+Office of Environmental Information Office of Information Collection
+ Contact: Susan Auby
+ Telephone: 202-566-1672
+Related Schedules:
+EPA 1006 EPA 1012
+Previous NARA Disposal Authority:
+Entry: 05252000
+EPA Approval: 02082002
+NARA Approval: 08202002

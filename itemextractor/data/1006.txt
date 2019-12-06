@@ -1,0 +1,117 @@
+EPA Records Schedule 1006
+Status: Final 04302017
+Title: Administrative Management
+Program: All Programs
+Applicability: Agency-wide
+Function: 401 - Administrative Management
+NARA Disposal Authority:
+ DAA-0412-2013-0011-0001 (Item a)
+ DAA-0412-2013-0011-0002 (Item b)
+ DAA-0412-2013-0011-0003 (Item c)
+ DAA-0412-2013-0011-0004 (Item d)
+ General Records Schedule 237 (Item e)
+ DAA-GRS-2013-0002-0015 (Item f)
+Description:
+This schedule covers records related to the day-to-day management and maintenance of the internal infrastructure. Includes records accumulated by individual offices that relate to the internal administration or housekeeping activities of the office rather than the functions for which the office exists such as general correspondence controlled correspondence and calendars for employees other than senior officials committee and internal staff meeting records EPA form development records final deliverables and reports for administrative activities routine mission and operational program management records such as activity and progress reports statistical and workload reports records management documentation workload and timekeeping records maintained by timekeepers and other employees reading files mailing lists reminders to take action and similar records.
+Disposition Instructions:
+Item a: Controlled and major correspondence for employees other than senior officials
+Senior officials include Presidential appointees Deputies (e.g. Principal Assistant etc.) and Special Counsels or Trusted Advisors of Presidential appointees and Senior Executive Service (SES) employees.
+NARA Disposal Authority: DAA-0412-2013-0011-0001
+ Disposable
+ Close at end of calendar year or when no longer needed for current agency business.
+ Destroy 10 years after file closure.
+Item b: Other administrative management records
+Includes but is not limited to:
+ Calendars schedules and logs of daily activities containing substantive information regarding daily activities for federal employees other than senior officials
+ Committee and internal staff meeting records including agendas meeting arrangements and minutes final reports and related records created by or documenting the accomplishments of intra-agency and internal committees and workgroups
+ Copies and background materials related to Circular No. A-76 maintained by offices other than the office having primary responsibility:
+ EPA forms and supporting materials showing inception scope and purpose
+ Final deliverables and reports related to administrative activities
+ General correspondence files including non-controlled correspondence relating to work assignments personnel needs and other routine activities of the office
+ Program management files maintained by other than senior officials related to the on-going management of mission and operational programs and projects including correspondence staff meeting records routine office procedures reports related to general policy and program matters (e.g. Superfund Comprehensive Accomplishment Plan (SCAP) reports) oversight reviews interagency activities routine management of environmental management systems (EMS) and project files showing assignments progress and completion of projects
+ Records management documentation including records inventories records disposal requests for disposition authority transfer authorizations
+ Routine office management records including activity progress statistical and workload reports office staffing procedures communications services (e.g. printing post office private mail delivery transportation and freight companies) supplies and equipment expenditure and disbursement of funds (e.g. employee transportation subsidies) budget papers and
+ Time and attendance source and leave records maintained by timekeepers including time and attendance records such as time or sign-in sheets flexitime records (e.g. biweekly maxiflex schedules) leave applications for jury and military duty authorizations for premium pay or overtime supervisor time sheet certifications and related documents.
+NARA Disposal Authority: DAA-0412-2013-0011-0002
+ Disposable
+ Close when discontinued superseded or canceled or when no longer needed for current agency business.
+ Destroy 6 years after file closure.
+Item c: Reading files
+Includes reading or chron files used for convenience of reference.
+NARA Disposal Authority: DAA-0412-2013-0011-0003
+ Disposable
+ Close at end of calendar year.
+ Destroy 1 year after file closure.
+Item d: Short-term administrative management records
+Includes but is not limited to:
+ Ad hoc printouts that do not contain substantive information such as substantive annotations that are not included in the electronic records
+ Contact and mailing list source records such as correspondence and request forms
+ General information request files including requests for information publications photographs and other information involving no administrative action policy decision or special compilations or research and including acknowledgements replies and referrals of inquiries to other offices for response
+ Time and attendance convenience copies held by employees and
+ Word processing files spreadsheets and electronic mail after the record copy is placed into a recordkeeping system.
+NARA Disposal Authority: DAA-0412-2013-0011-0004
+ Disposable
+ Close when no longer needed for current agency business.
+ Destroy 90 days after file closure.
+Item e: Transitory files
+Includes but is not limited to:
+ Originating office copies of letters of transmittal that do not add any information to that contained in the transmitted material and receiving office copy if filed separately from transmitted material
+ Quasi-official notices including memoranda and other records that do not serve as the basis of official actions such as notices of holidays or charity and welfare fund appeals bond campaigns and similar records
+ Records documenting routine activities containing no substantive information such as routine notifications of meetings scheduling of work-related trips and visits and other scheduling related activities and
+ Suspense and tickler files or to-do and task lists that serve as a reminder that an action is required on a given date or that a reply to action is expected and if not received should be traced on a given date.
+NARA Disposal Authority: General Records Schedule 237
+ Disposable
+ Close when no longer needed for current agency business.
+ Destroy 180 days after file closure.
+Item f: Copies of vital records
+Includes copies of records deemed essential to restore agency functions in case of emergency.
+NARA Disposal Authority: DAA-GRS-2013-0002-0015
+ Disposable
+ Close when superseded by the next cycle.
+ Destroy immediately after file closure.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Senior officials - Records of senior officials are covered by schedule 1051. The senior officials role is defined by position and not by the person holding the position. If someone is acting in a senior leaders position the records are permanent and covered by schedule 1051 item a.
+Calendars - Portions of calendars that do not pertain to official Agency business may be personal papers. Personal items may be redacted prior to submittal. For instructions on determining whether a specific item is a record or a personal paper see Agency and federal guidance. If the record copy of a calendar is maintained in paper format the Lotus Notes calendar list or the print detailed agenda calendar option in Outlook is recommended for printing. Instructions for capturing electronic calendars maintained in Lotus Notes or Outlook and saving them as records in EZ Email can be found at http:intranet.epa.govecmsguides. Calendars for senior officials are covered by schedule 1051.
+Committees - The committee chair designates the records custodian who maintains the official copy of committee records and applies the disposition instructions. Records maintained by the sponsor or secretariat of advisory commissions committees councils boards and other groups established under the Federal Advisory Committee Act (FACA) are covered by schedule 1035. Records for international committees held by the U.S. member or representative when the U.S. is not the sponsor or secretariat must be scheduled separately.
+Correspondence - If the record copy of controlled and major correspondence is placed in the Correspondence Management System (CMS) the paper may be destroyed after the completion of quality assurance. Since CMS interfaces with EPAs electronic recordkeeping system retention in CMS is managed via the electronic recordkeeping system. CMS is covered by schedule 0077.
+Finding aids and indexes - Indexes lists registers and other finding aids used only to provide access to records authorized for destruction are to be filed with their related records and retained according to the disposition instructions for the records they support.
+Forms - The Forms Officer in the Office of Administration and Resources Management Office of Administrative Services Facilities Management and Services Division (OARMOASFDMS) is responsible for the disposition of the record copy of internal Agency-wide forms. The Forms Officer in the Office of Environmental Information Office of Information Collection Information Strategies Branch (OEIOICISB) is responsible for external forms e.g. Information Collection Request (ICR) forms. Maintenance and disposition of forms and supporting materials developed by individual programs or offices that are not used Agency-wide is the responsibility of the program or office Forms Owner.
+Forms mailing lists indexes and ad hoc printouts needed to provide documentation of specific activities or transactions are to be filed with their related records and retained according to the disposition instructions for the records they support.
+Email - Information on electronic mail (email) systems which is necessary to document Agency activities and meets the definition of a record must be moved or copied onto another medium (e.g. electronic or paper recordkeeping system) and filed or maintained in organized files. Copies of email maintained in other files (e.g. controlled and major correspondence) are to be disposed of in accordance with the disposition instructions for the related records. Additional guidance on email records can be found at: http:www.epa.govrecordsfaqsemail.htm.
+Time and attendance and leave records - Time and attendance source records maintained by Payroll Management and Outreach Staff (PMOS) are covered by schedule 1005. Time and attendance records and leave records maintained by timekeepers and other staff in any format are covered by item b of this schedule. The record copy of electronic leave forms submitted for approval via WebForms or similar electronic forms systems (covered by schedule 0004) do not need to be printed and can be maintained electronically according to the disposition instructions for item b with the exception of mass approvals of time and attendance which must be printed and filed in the recordkeeping system.
+Federal Activities Inventory Reform (FAIR) Act records - FAIR records documenting the implementation of Circular No. A-76 maintained by OARM are covered by schedule 1004. Other copies are covered by item b of this schedule.
+Employee training records - Records about designing developing and implementing routine administrative employee training are covered in schedule 1029 mission-related training is covered by schedule 1022.item a
+Reasons for Disposition:
+The following changes were made in the 04302017 version:
+ Removed training materials from item b to conform to GRS 2.6 transmittal no. 27 issued January 2017.
+ Added guidance on schedules that cover training records.
+The following change was made in the 06302016 version:
+ Removed reference to EPA Senior Leaders Directory in the guidance.
+The following changes were made in the 03312016 version:
+ Removed reference to EPA Senior Leaders Directory in item a description.
+ Added general information requests to item d to conform to GRS 4.2 revision.
+The following changes were made in the 11302015 version:
+ Removed 1st bullet from item e for routine information requests which will be added to another schedule to conform to GRS 4.2 revision.
+ Added item f to conform to GRS 4.2 revision.
+The following changes were made in the 10312015 version:
+ Moved from draft to final status.
+ Added NARA approval date.
+The following change was made in the 08312015 version:
+ Added information about senior officials to guidance.
+The following changes were made in the 04302015 version:
+ Added the definition of a senior official to item a.
+ Moved items from GRS 237 from item d to a new item e with a 180 day retention.
+The following change was made in the 05312014 version:
+ Added guidance on saving calendars in electronic format.
+This schedule combines and consolidates previously approved EPA and GRS schedule items.
+Custodians:
+Multiple units
+Related Schedules:
+EPA 0004 EPA 0077 EPA 1004 EPA 1005 EPA 1022 EPA 1029 EPA 1035 EPA 1051
+Previous NARA Disposal Authority:
+Previous NARA disposal authorities can be found at: http:intranet.epa.govrecordsscheduleconsolidationfiles1006_Admin_Crosswalk.docx.
+Entry: 03232011
+EPA Approval: 07022013
+NARA Approval: 10162015

@@ -1,0 +1,47 @@
+EPA Records Schedule 0756
+Status: Final 07312015
+Title: Labor and Employee Relations Information System (LERIS)
+Program: Personnel
+Applicability: Agency-wide
+Function: 403 - Human Resources Management
+NARA Disposal Authority:
+ DAA-0412-2015-0002
+Description:
+The Labor and Employee Relations Information System (LERIS) is a case management and tracking system. The system contains a variety of information pertaining to union activity (grievances unfair labor practices (ULPs)) and employee disciplinaryadverse actions (suspensions removals etc.). LERIS can produce various data reports and analyze comparable cases from across the Agency. Common searches are for (1) comparable cases i.e. searching for cases involving similar offenses in order to compare the penalties given and (2) linking labor relations (LR) and employee relations (ER) cases i.e. disciplinary actions and subsequent appeals. Specific types of information contained in LERIS include: disciplinary adverse and performance-based actions negotiated grievances (i.e. union-affiliated) administrative grievances (for non-bargaining unit employees) unfair labor practices negotiations and predecisional involvement (PDI) activities formal meetingsdiscussions counseling including leave restriction performance assistance plans and performance improvement plans union information requests and unit clarification petitions.
+Disposition Instructions:
+Item a: Electronic data
+This item is to be used only by the Office of Administration and Resources Management Labor and Employee Relations Division.
+NARA Disposal Authority: DAA-0412-2015-0002-0001
+ Disposable
+ Close after employee leaves the Agency.
+ Destroy 50 years after file closure or when the data is no longer needed for Agency business whichever is sooner.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Electronic software program - The electronic software program is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. NARA regulations require that electronic records be retrievable and usable for as long as needed to conduct Agency business and meet NARA-approved disposition. The electronic software program is covered by EPA 1012 Information and Technology Management item e.
+Input - Input is covered by EPA 1012 item e.
+Output and reports - For disposition of output and reports refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the later dates.
+System documentation - System documentation including system development documentation is covered by EPA 1012 item e.
+Related schedules - See schedule 0107 for employee performance file system schedule 0561 for personnel correspondence and forms files relating to individual employees schedule 0563 for performance rating appeals schedule 0564 for administrative grievance disciplinary and adverse action files and schedule 0577 for labor management relations records.
+Reasons for Disposition:
+The following changes were made in the 02282015 version:
+ Added types of information contained in LERIS to the description.
+ Revised wording of disposition instructions.
+ Added related schedules to guidance.
+The following changes were made in the 12312014 version:
+ Moved from development to draft status.
+ Added NARA disposal authority number and EPA approval date.
+The following changes were made in the 06302014 version:
+ Revised the disposition instructions.
+ Updated contact information.
+LERIS helps EPA more effectively track manage and report on labor and employee relations cases throughout the Agency and to respond to the Merit Systems Protection Board (MSPB) landmark decision referred to as the Douglas Factors. The legal authority for this system is the Federal Service Labor-Management Relations Statute (5 USC Chapter 71) and Merit Systems Protection Board decision Douglas vs. Veterans Administration 5 MSPR 280.
+Custodians:
+Office of Administration and Resources Management Labor and Employee Relations Division
+ Contact: Mitch Berkenkemper
+ Telephone: 202-564-4702
+Related Schedules:
+EPA 0107 EPA 0561 EPA 0563 EPA 0564 EPA 0577 EPA 1012
+Previous NARA Disposal Authority:
+Entry: 05132014
+EPA Approval: 12042014
+NARA Approval: 05222015

@@ -1,0 +1,50 @@
+EPA Records Schedule 0068
+Status: Final 12312013
+Title: Reasonable Accommodation Request Records
+Program: Personnel
+Applicability: Agency-wide
+Function: 403 - Human Resources Management
+NARA Disposal Authority:
+ General Records Schedule 124
+Description:
+Contains information created and maintained while receiving coordinating reviewing processing approving and reporting requests for reasonable accommodation from federal employees and applicants under the Rehabilitation Act of 1973 and Executive Order 13164. A reasonable accommodation is a change in the work environment or in the way things are customarily done that would enable an individual with a disability to enjoy equal employment opportunities. The three categories of reasonable accommodation are:
+Modification or adjustments to a job application process to permit an individual with a disability to be considered for a job such as providing application forms in large print or Braille
+Modifications or adjustments necessary to enable a qualified individual with a disability to perform essential functions of the job such as providing sign language interpreters and
+Modifications or adjustments that enable employees with disabilities to enjoy equal benefits and privileges of employment such as removing physical barriers in an office or cafeteria.
+This includes all requests for reasonable accommodation andor assistive technology devices and services offered through the agency or the ComputerElectronic Accommodation Program (CAP) that are made by or on behalf of applicants current or former employees. Also includes medical records supporting notes and documentation as well as procedures and records related to processing deciding implementing and tracking requests for reasonable accommodation(s).
+Disposition Instructions:
+Item a: General files
+Includes Agency-wide and departmental procedures for receiving processing and appealing requests for reasonable accommodation by employees and applicants. Files may include but are not limited to instructions directives notices forms timetables and guidelines for requesting processing and approving requests and for appealing decisions for reasonable accommodation. Also includes records notifying the Equal Employment Opportunity Commission (EEOC) the agencys collective bargaining representative(s) and the agencys EEO office of the agencys reasonable accommodation request and processing procedures as well as modifications to established procedures.
+NARA Disposal Authority: General Records Schedule 124a
+ Disposable
+ Destroy 3 years after supercession or when no longer needed for reference whichever is later.
+Item b: Employee case files
+Includes individual employee files that are created received and maintained by EEO reasonable accommodation or diversitydisability program or employee relations coordinators immediate supervisors CAP administrator or HR specialists containing records of requests for reasonable accommodation andor assistive technology devices and services through the agency or CAP that have been requested for or by an employee. This series also includes but is not limited to request approvals and denials notice of procedures for informal dispute resolution or appeal processes forms correspondence e-mails records of oral conversations medical documentation and notes.
+NARA Disposal Authority: General Records Schedule 124b
+ Disposable
+ Destroy 3 years after employee separation from the agency or all appeals are concluded whichever is later.
+Item c: Supplemental files
+Includes records created received and maintained by EEO reasonable accommodation or diversitydisability program or employee relation coordinators while advising on implementing or appealing requests for or from an individual employee for reasonable accommodation. Some requests may involve HR matters including but not limited to changes in duties reassignments leave usage and performance issues. Files may include but are not limited to policy guidance resource information about accommodation providers forms e-mails notes.
+NARA Disposal Authority: General Records Schedule 124c
+ Disposable
+ Destroy 3 years after end of fiscal year in which accommodation is decided or all appeals are concluded whichever is later.
+Item d: Tracking system
+Includes records and data created received and maintained for purposes of tracking agency compliance with Executive Order 13164 and EEOC guidance.
+NARA Disposal Authority: General Records Schedule 124d
+ Disposable
+ Destroy 3 years after compliance report is filed or when no longer needed for reference.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Items b and c employee case files and supplemental files are not part of an employees Official Personnel File (OPF) or part of a supervisors unofficial personnel file.
+Medical information when necessary to be obtained to process a reasonable accommodation request must be kept confidential. The EPA Order and Procedures for Reasonable Accommodation require the national reasonable accommodation coordinator (NRAC) to maintain any and all medical information obtained by the Agency in connection with reasonable accommodation requests. Although local office reasonable accommodation coordinators (LORACs) may need access to medical information in order for them to process a request for reasonable accommodation at the conclusion of the process all medical information is transferred to the NRAC to maintain. This means if someone other than the NRAC obtains confidential information during the reasonable accommodation process it must be transferred to the NRAC in sealed confidential envelopes. The information is maintained in separate files and kept in locked cabinets in the NRACs office.
+Reasons for Disposition:
+Conforms with NARAs General Records Schedule 1 item 24.
+Item e for electronic mail and word processing system copies was deleted 08152006 pursuant to NARA Bulletin 2006-04.
+Custodians:
+Multiple units
+Related Schedules:
+Previous NARA Disposal Authority:
+Entry: 07222004
+EPA Approval: Not applicable
+NARA Approval: 07002004

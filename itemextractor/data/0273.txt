@@ -1,0 +1,47 @@
+EPA Records Schedule 0273
+Status: Final 05312017
+Title: Chemical Update System (CUS)
+Program: Toxic Substances
+Applicability: Headquarters
+Function: 108 - Environmental Management
+NARA Disposal Authority:
+ N1-412-96-31
+Description:
+The Chemical Update System (CUS) contains confidential data reported by industry (approximately 1200 companies) as a partial update of the TSCA Inventory. Manufacturers and importers are required to report company information (plant site name address DUNS number) and chemical information (CAS registry number PMNBonafideTMEA or CCID Number and production volume) for chemicals they manufactured or imported in excess of 10000 pounds in the immediately preceding fiscal year. Polymers naturally occurring substances and UVCBs are exempt from reporting requirements. Reporting takes place every four years beginning in December 1986. Production volumes on the CUS database are discrete amounts rather than ranges found on the Chemicals in Commerce Information System (CICIS).
+Disposition Instructions:
+Item a: (Reserved)
+Item b: (Reserved)
+Item c: Electronic data
+This item is to be used only by the Office of Chemical Safety and Pollution Prevention Records and Dockets Management Branch at Headquarters.
+NARA Disposal Authority: N1-412-96-31c
+ Permanent
+ Transfer data to the National Archives at the end of each update cycle as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time.
+Item d: (Reserved)
+Item e: (Reserved)
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in electronic format only and is not media neutral. The format of the permanent records is specified in a records schedule approved by NARA and the electronic records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. The electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Related records - The TRI Processing System (TRIPS) is covered by schedule 0153. Two related systems Chemicals in Commerce Information System (CICIS) and Confidential Chemicals Identification System (CCID) are covered by schedule 0088.
+Electronic software program - The electronic software program formerly item a is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period. The electronic software program is covered by schedule 1012 item e.
+Input - Input from the TSCA chemical inventory file formerly item b is covered by schedule 1035 item a.
+Output and reports - For disposition of output and reports formerly item d refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the later dates.
+System documentation - System documentation including system development documentation formerly item e refers to those records necessary to document how the system captures manipulates and outputs data. System documentation is transferred to the National Archives along with the electronic data. Disposition of system documentation is covered by schedule 1012 item a.
+In 1993 the data contained in the Chemical Update System was transferred from the mainframe located in Research Triangle Park North Carolina to the LAN serving OPPT. As part of the close-out procedure the information was also transferred to tape. The LAN-based system is updated once every four years from the information extracted from the IUR form.
+Reasons for Disposition:
+The following changes were made in the 05312017 version:
+ Corrected applicability from Agency-wide to Headquarters.
+ Deleted items a b d and e which are covered by other schedules.
+ Updated guidance and cross references.
+The following change was made in the 04302008 version:
+ Revised title of disposition items a and e.
+Records support operations as required by statute and regulation. Data is from the TSCA Chemical Inventory File which is scheduled as permanent.
+Custodians:
+Office of Chemical Safety and Pollution Prevention Pollution Prevention and Toxics Records and Dockets Management Branch
+ Contact: Darryl Ballard
+ Telephone: 202-260-5521
+Related Schedules:
+EPA 0088 EPA 0153 EPA 1012 EPA 1035
+Previous NARA Disposal Authority:
+Entry: 03111993
+EPA Approval: 01261996
+NARA Approval: 09052001

@@ -1,0 +1,64 @@
+EPA Records Schedule 0752
+Status: Final 12312013
+Title: Drinking Water State Revolving Fund (DWSRF) National Information Management System (DWNIMS)
+Program: Water
+Applicability: Headquarters
+Function: 108 - Environmental Management
+NARA Disposal Authority:
+ N1-412-09-15
+Description:
+The Drinking Water State Revolving Fund (DWSRF) National Information Management System (DWNIMS) is EPAs information system for national management of the DWSRF program. The purpose is to report the status and progress of the DWSRF program. The data are also used for oversight purposes and financial analysis. Results from the data collections are presented at the Council of Infrastructure Financing Authorities (CIFA) annual conferences. All current DWSRF strategic goals are measured and updated with data from DWNIMS.
+Current and proposed measures include number of loans number of projects initiating operations the Return on Federal Investments the Fund Utilization Rate and number of out-of-compliance systems brought into compliance with health-based standards. Input data is received from states and entered into the database either through a Web-portal or a spreadsheet. Output includes national regional and state reports. Data is currently available for state fiscal years (July-June) beginning 1997.
+Disposition Instructions:
+Item a: Electronic software program
+The Office of Water Office of Ground Water and Drinking Water Drinking Water Protection Division at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-09-15a
+ Disposable
+ Close when no longer needed to ensure access to and use of the electronic records throughout the authorized retention period.
+ Delete after file closure.
+Item b: Input
+NARA Disposal Authority: N1-412-09-15b
+ Disposable
+ Close when information has been transferred to the master file and verified.
+ Delete after file closure.
+Item c: Electronic data - Record copy
+The Office of Water Office of Ground Water and Drinking Water Drinking Water Protection Division at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-09-15c
+ Permanent
+ Close when program is discontinued or system is terminated. While system is in operation transfer a copy of the data as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time to the National Archives prior to migration to new system version with major changes or every 5 years whichever occurs first.
+ Transfer final data to the National Archives 6 months after system is closed.
+Item d: Electronic copy of records transferred to the National Archives
+The Office of Water Office of Ground Water and Drinking Water Drinking Water Protection Division at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-09-15d
+ Disposable
+ Close when electronic record copy is successfully transferred to the National Archives.
+ Delete after file closure.
+Item e: Output and reports
+NARA Disposal Authority: Varies
+ Varies
+ File with related records and follow instructions for the related records.
+Item f: System documentation
+The Office of Water Office of Ground Water and Drinking Water Drinking Water Protection Division at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-09-15f
+ Permanent
+ Close when program is discontinued or system is terminated. While system is in operation transfer a copy as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time to the National Archives prior to migration to new system version with major changes or every 5 years whichever occurs first.
+ Transfer final system documentation to the National Archives 6 months after system is closed with the electronic data (item c).
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Specific legal citations include but are not limited to:
+ Safe Drinking Water Act (SDWA) Amendments of 1996
+Reasons for Disposition:
+The following change was made in the 09302010 version:
+ Revised disposition instructions for items c and f to transfer to the National Archives every 5 years instead of every 10 years.
+The retention meets EPAs business needs. The system is used for oversight purposes and financial analysis. It is also used to meet data requests from EPA OMB GAO Congress stakeholders and the public.
+Custodians:
+Office of Water Office of Ground Water and Drinking Water Drinking Water Protection Division
+ Contact: Howard E. Rubin
+ Telephone: 202-564-2051
+Related Schedules:
+Previous NARA Disposal Authority:
+None
+Entry: 08012009
+EPA Approval: 08282009
+NARA Approval: 10122010

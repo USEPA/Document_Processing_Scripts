@@ -1,0 +1,54 @@
+EPA Records Schedule 0493
+Status: Final 12312013
+Title: Ann Arbor In-Use Test Data System (IUTD)
+Program: Air
+Applicability: National Vehicle and Fuel Emissions Laboratory (NVFEL)
+Function: 108 - Environmental Management
+NARA Disposal Authority:
+ N1-412-99-5
+Description:
+The In-Use-Test Data System (IUTD) consists of the emission measurements obtained from autos and trucks owned and operated by the motoring public. This database is the source of information used to develop the mobile source emission factors model (MOBILE5 and successors) inspection and maintenance (IM) effectiveness estimates and anti-tampering credits. Most of the data is collected through the Emission Factor Program (EFP) which has been conducted annually since the early 1970s.
+Disposition Instructions:
+Item a: Electronic software program
+This item is to be used only by the Office of Air and Radiation National Vehicle and Fuel Emissions Laboratory Assessment and Modeling Division.
+NARA Disposal Authority: N1-412-99-5a
+ Disposable
+ Destroy when no longer needed to ensure access to and use of the electronic records throughout the authorized retention period.
+Item b: Input
+NARA Disposal Authority: DAA-0412-2013-0009
+ Disposable
+ Follow instructions for schedule 1012.
+Item c: Electronic data
+This item is to be used only by the Office of Air and Radiation National Vehicle and Fuel Emissions Laboratory Assessment and Modeling Division.
+NARA Disposal Authority: N1-412-99-5c
+ Disposable
+ Maintain individual records at least 2 years after completion of action then delete when no longer needed.
+Item d: Output and reports
+NARA Disposal Authority: Varies
+ Varies
+ File with related records and follow instructions for the related records.
+Item e: System documentation
+This item is to be used only by the Office of Air and Radiation National Vehicle and Fuel Emissions Laboratory Assessment and Modeling Division.
+NARA Disposal Authority: DAA-0412-2013-0009
+ Disposable
+ Follow instructions for schedule 1012.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Emission Factors Program (EFP) Test Records are covered by schedule 1035.
+Reasons for Disposition:
+The following changes were made in the 04302008 version:
+ Revised disposition instructions for items a b and e.
+ Added applicability to disposition items a c and e.
+ Revised title of disposition item e.
+Records support program operations required by statute and regulations.
+Custodians:
+Office of Air and Radiation National Vehicle and Fuel Emissions Laboratory Assessment and Modeling Division
+ Contact: Carl Scarbro
+ Telephone: 734-214-4209
+Related Schedules:
+EPA 1012 EPA 1035
+Previous NARA Disposal Authority:
+Entry: 06051993
+EPA Approval: 09241998
+NARA Approval: 06142000

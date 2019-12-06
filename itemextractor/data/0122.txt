@@ -1,0 +1,47 @@
+EPA Records Schedule 0122
+Status: Final 05312017
+Title: Supervisors Personnel Files and Duplicate OPF Documentation
+Program: All Programs
+Applicability: Agency-wide
+Function: 403 - Human Resources Management
+NARA Disposal Authority:
+ General Records Schedule 118
+Description:
+Records consist of correspondence forms and other records relating to positions authorizations pending actions position descriptions requests for personnel action training and records on individual employees duplicated in or not appropriate for the OPF.
+Disposition Instructions:
+Item a: Supervisors personnel files
+NARA Disposal Authority: General Records Schedule 118a
+ Disposable
+ Close inactive records when employee separates from EPA is reassigned within EPA or transfers to another agency.
+ Destroy 1 year after file closure.
+Item b: Duplicate documentation
+Includes other copies of documents duplicated in OPFs not provided for elsewhere.
+NARA Disposal Authority: General Records Schedule 118b
+ Disposable
+ Close inactive records at the end of the month.
+ Destroy 6 months after file closure.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Superseded or obsolete documents in the supervisors personnel files may be destroyed when no longer needed.
+Official record copies of files covered by item b are maintained by the Agencys personnel office which should be retained as specified in schedule 0553 (conforms to NARAs General Records Schedule 1 item 1). Other copies may be sent to the employee payroll and a copy retained in personnel. Time and attendance source records maintained by the Payroll Management and Outreach Staff (PMOS) are covered by schedule 1005 all other copies of time and attendance records are covered by schedule 1006.
+Supervisory records maintained on student volunteer workers are to be disposed of in accordance with item a.
+Reasons for Disposition:
+The following changes were made in the 05312017 version:
+ Updated guidance and cross references.
+The following changes were made in the 05312014 version:
+ Revised file closure wording for item a.
+ Revised wording in guidance related to copies of files covered by item b.
+The following change was made in the 01312013 version:
+ Revised file closure wording for item a to include when employee separates or transfers from EPA.
+Conforms to NARAs General Records Schedule 1 item 18.
+Item c for electronic mail and word processing system copies was deleted 08162006 pursuant to NARA Bulletin 2006-04.
+Custodians:
+Multiple units
+Related Schedules:
+EPA 0553 EPA 1005 EPA 1006
+Previous NARA Disposal Authority:
+N1-412-86-211
+Entry: 08191991
+EPA Approval: Not applicable
+NARA Approval: 12001998

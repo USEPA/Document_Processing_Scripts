@@ -1,0 +1,66 @@
+EPA Records Schedule 0740
+Status: Final 05312017
+Title: Office of Administrative Services Information System (OASIS)
+Program: Administration and Resources Management
+Applicability: Headquarters
+Function: 401 - Administrative Management
+NARA Disposal Authority:
+ Varies
+Description:
+The Office of Administrative Services Information System (OASIS) serves as a Web-based portal to several legacy administrative systems. The current legacy systems include but are not limited to:
+ Building Services Desk (BSD)
+ Combinations Locks Incidents Keys and Safes (CLIKS)
+ COOP Action Tracking System (CATS)
+ COOP Record of Personnel System
+ Credentials System Financial Management System
+ Driver Tracking System
+ Fitness Center System
+ Inspector General Operations and Reporting System (IGOR)
+ ParkingTransit System
+ Personnel Security System
+ Physical Security System
+ Postal Mail Management System (PMMS)
+ Smart Benefits
+ Strategic Lease and Asset Tracking Enterprise (SLATE)
+ Warehouse Management Module
+Disposition Instructions:
+Item a: (Reserved)
+Item b: (Reserved)
+Item c: Electronic data
+This item is to be used only by the Office of Administration and Resources Management Office of Administrative Services at Headquarters.
+NARA Disposal Authority: Varies
+ Disposable
+ Delete after the expiration of the retention period authorized for the hard copy file or when no longer needed whichever is later.
+Item d: (Reserved)
+Item e: (Reserved)
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in electronic format only and is not media neutral. The electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Electronic software program - The electronic software program formerly item a is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. The electronic software program is covered by schedule 1012 item e.
+Input - Input formerly item b is covered by schedule 1012 item e.
+Output and reports - For disposition of output and reports formerly item d refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the later dates.
+System documentation - System documentation including system development documentation formerly item e refers to those records necessary to document how the system captures manipulates and outputs data. Disposition of system documentation is covered by schedule 1012 item e. Copies of systems documentation (e.g. user manuals) held in offices other than OARM are nonrecords and can be destroyed when no longer needed.
+Reasons for Disposition:
+The following changes were made in the 05312017 version:
+ Deleted items a b d and e since they are covered by other schedules.
+ Updated guidance.
+The following changes were made in the 04302009 version:
+ Revised title of disposition item e.
+ Made minor edits to guidance.
+The following change was made in the 03312009 version:
+ Revised description and cross references.
+The following change was made in the 04302008 version:
+ Revised title of disposition item a.
+ Revised the disposition instructions for items b and e.
+The purpose of this system is to centralize a number of legacy systems under common control to comply with EPAs Enterprise Architecture. The retention of the data conforms to General Records Schedule (GRS) 203b(1) and the retention of the input conforms to GRS 201 and 2.
+Custodians:
+Office of Administration and Resources Management Office of Administrative Services
+ Contact: Ray Lee
+ Telephone: 202-564-4625
+Related Schedules:
+EPA 1012
+Previous NARA Disposal Authority:
+None
+Entry: 11172006
+EPA Approval: 04232009
+NARA Approval: Varies

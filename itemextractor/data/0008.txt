@@ -1,0 +1,48 @@
+EPA Records Schedule 0008
+Status: Final 07312015
+Title: Nonrecords
+Program: All Programs
+Applicability: Agency-wide
+Function: 0 - Nonrecord Materials
+NARA Disposal Authority:
+ Not applicable
+Description:
+Consists of nonrecord copies. Nonrecord materials are those Agency-owned informational materials that do not meet the statutory definition of records in 44 U.S.C. Section 3301 or that have been excluded from coverage by that definition.
+Technical Reference Materials. Technical or general reference files which are maintained by individuals or program offices to enable the person or program office to perform its mission and which are kept only for reference. Collections may be on general environmental research topics or issues the program mission or management and administrative questions. Files or collections may consist of items such as technical publications manuals extra copies of issue papers reports and studies originated by or for the program information copies of studies and reports produced by other programs journal articles books video tapes photographs vendor catalogs electronic files and other materials regardless of medium.
+News Clippings. Clippings of news stories which have no documentary or evidential value from newspapers and other publications.
+Convenience Copies. Extra copies of documents preserved only for convenience of reference. Includes information copies of correspondence directives and other documents on which no administrative or mission-related action is recorded or taken. Also includes copies other than the record copy where there is no recordkeeping requirement for multiple record copies.
+Stocks of Forms Publications and Processed Documents. Extra copies of printed or processed materials for which complete record sets exist (such as current and superseded manuals brochures pamphlets handbooks posters and maps) maintained inside or outside the office responsible for maintaining the record set.
+Materials Not Appropriate for Preservation. Catalogs trade journals and other publications or documentary materials that are received from other government agencies commercial firms private institutions or individuals and that require no action are not part of a case on which action is taken and are not essential to the business of the Agency or to the Agencys legal responsibilities.
+Library or Museum Materials. Library or museum materials intended solely for reference or exhibit. Includes physical exhibits artifacts and other material objects lacking evidential value.
+Working Papers and Drafts. Documents such as rough notes calculations or preliminary drafts which are assembled or created and used to prepare or analyze other documents and which meet all of the following criteria: (1) They were not circulated or made available to employees other than the creator for official purposes such as approval comment action recommendation follow up or to communicate with Agency staff about Agency business (2) They do not contain unique information such as substantive annotations or comments included therein that adds to a proper understanding of the Agencys formulation and execution of basic policies decisions actions or responsibilities (3) They are not needed for purposes of adequate and proper documentation of the decisionmaking process and (4) They are not described elsewhere under an Agency-wide or EPA organization-specific requirement to retain the documents for a specific period of time.
+Copies of permanent electronic records transferred to the National Archives. Copies of permanent electronic records transferred to the National Archives and maintained by the submitting office until they are notified by NARA that the transfer is successful.
+Disposition Instructions:
+Item a: Nonrecord copy
+ Disposable
+ Close when obsolete superseded or no longer needed for reference.
+ Destroy immediately after file closure.
+Guidance:
+Determining record value - Consideration should be given to determining the record value of materials such as working papers drafts and notes which document an activity up to the point in time when those materials are created. Until a subsequent activity occurs which causes them to become superseded or obsolete the materials could warrant record status and be appropriate for preservation. Designating materials as nonrecords in anticipation of their being superseded or obsolete rather than at the point when they are actually superseded or obsolete can be premature in some instances. When it is difficult to decide whether certain materials are records or nonrecords they should be treated as records.
+Records collected from abandoned sites (e.g. bankrupt companies abandoned offices) by EPA as part of site investigations or other activities that are not necessary for the conduct of Agency business and which have no informational value will be considered nonrecords. If regulated entities submit material either accidentally or intentionally that is not necessary for the conduct of Agency business it will also be considered nonrecord material.
+Access restrictions - Nonrecord materials should not contain any security classified or administratively controlled information.
+Removal of nonrecords from the Agency - Nonrecord materials should not be removed from the Agency except with the Agencys approval.
+Short-term documentary materials - Nonrecords along with personal papers and short-term records comprise a broad category of materials that are not needed as part of the long-term documentation of Agency activities. Personal Papers are covered by EPA 0999. Examples of short-term records include transitory files such as suspense files and mailing list source records covered by schedule 1006 item d.
+Convenience copies of records should be destroyed when the records are destroyed or sooner if no longer needed for reference purposes.
+Schedule change history - A number of program-specific reference files formerly listed individually have been incorporated into this general Agency-wide item. See Previous NARA Disposal Authority below for a list of superseded schedules. This schedule incorporates and replaces EPA 0733 - News Clippings. Copies of news clippings which have documentary or evidential value may be incorporated into other records series (e.g. Superfund site files) and are to be disposed of in accordance with the disposition instructions for the related series.
+Reasons for Disposition:
+The following change was made in the 07312015 version:
+ Added information about copies of permanent electronic records transferred to the National Archives to the Description.
+The following change was made in the 02282014 version:
+ Updated cross references in guidance.
+The following change was made in the 03312008 version:
+ Revised guidance to include records: (1) collected from abandoned sites and (2) submitted by regulated entities that are not necessary for the conduct of Agency business.
+Nonrecord materials are identified in 44 U.S.C. Section 3301 and 36 CFR Section 1220.14. NARA guidance says: Nonrecord materials should be destroyed when no longer needed for reference. NARA determined copies of news clippings are nonrecord materials as part of N1-412-96-2.
+Custodians:
+Multiple units
+Related Schedules:
+EPA 0999 EPA 1006
+Previous NARA Disposal Authority:
+NC1-412-76-1I8 NC1-412-76-1II6 7 15 16 and 19 NC1-412-76-1III27 NC1-412-76-417 NC1-412-76-715 NC1-412-76-824 NC1-421-76-933 NC1-412-76-155 NC1-412-77-128 NC1-412-77-516 NC1-412-78-26 NC1-412-78-38 and 13 NC1-412-82-724 NC1-412-83-57 NC1-412-85-49 and 11 NC1-412-85-631 and 45 NC1-412-85-129 NC1-412-85-1720 NC1-412-85-186 11 12 15 20 NC1-412-85-196 NC1-412-85-209 and 13 NC1-412-85-2216 NC1-412-85-238 and 13 NC1-412-85-2416 N1-412-86-116 N1-412-86-324 and 27 N1-412-87-420 N1-412-87-57 N1-412-96-2
+Entry: 03251991
+EPA Approval: Not applicable
+NARA Approval: Not applicable

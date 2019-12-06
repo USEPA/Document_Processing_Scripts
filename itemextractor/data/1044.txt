@@ -1,0 +1,149 @@
+EPA Records Schedule 1044
+Status: Final 05312017
+Title: Compliance and Enforcement
+Program: All Programs
+Applicability: Agency-wide
+Function: 108 - Environmental Management
+NARA Disposal Authority:
+ DAA-0412-2013-0017-0001 (Item a)
+ DAA-0412-2013-0017-0002 (Item b)
+ DAA-0412-2013-0017-0003 (Item c)
+ DAA-0412-2013-0017-0004 (Item d)
+ DAA-0412-2013-0017-0005 (Item e)
+ DAA-0412-2013-0017-0006 (Item f)
+Description:
+This schedule covers records of activities that support all EPA pollution prevention and control programs through monitoring and oversight of specific individuals groups industries or communities participating in a regulated activity via market mechanisms command and control features or other means to control or govern conduct or behavior. Includes but is not limited to: inspections and compliance monitoring as well as direct measurement of pollutants or substances of interest in permitted discharges or in the ambient environment standard setting and reporting guideline development involving the establishment of allowable limits associated with a regulated activity and the development of reporting requirements necessary to monitor and control compliance with allowable limits activities to enforce compliance with regulations through legal means including criminal investigations and prosecutions cases of the Environmental Appeals Board (EAB) and environmental impact statements (EIS).
+Excludes: Permits which are covered by schedule 1047.
+Disposition Instructions:
+Item a: Historically significant compliance and enforcement records
+Includes but is not limited to:
+ Administrative Law Judge (ALJ) case files for landmark cases consisting of hearings concerning various environmental laws administrative documents arranging hearings public notices of hearings prehearing and hearing transcripts orders all exhibits entered case index and other related records
+ Clean Air Act Section 309 review and comment files with official Agency comments regarding EISs regulations legislation and other major federal actions associate reviewer comments reviewed materials and associated records
+ Development and enforcement of air and water standards by states including documents pertaining to waterways within and bordered by the states the industries within states activities of the states relative to the permit program development of state clean water acts and agencies to monitor and enforce them and cases referred to the Department of Justice (DOJ) for action
+ Enforcement action files for landmark or precedent cases referred to the Office of Regional Counsel or other offices with enforcement authority for action against a pollution source or discharger consisting of correspondence meeting documentation inspections field notebooks evaluations notices of deficiency information requests warning letters administrative compliance orders documentation of civil and criminal actions corrective action orders attorney work products case summaries pleadings state and local enforcement records settlement documents including consent decrees and discovery requests
+ Enforcement records maintained by the Office of Enforcement and Compliance Assurance (OECA) and related to enforcement of EPA statutes regulations and standards including case development and litigation support files background studies and surveillance reports legal opinions attorney work products violation notices press releases compliance orders and related records
+ EAB case files for landmark cases that are precedent setting change the way EPA operates involve a significant policy of national importance or the subject of review by an appellate court of the United States
+ Environmental impact statements including drafts final and supplemental documents filed with the Office of Federal Activities (OFA) pursuant to 1506.9 of the Council on Environmental Quality (CEQ) regulations for implementing the National Environmental Policy Act (NEPA) (Excludes the 309 review and comment files maintained in the regional offices which are covered by item b.) (Note: Beginning in 2012 NEPA-related documents are directly input into the ENEPA system by submitting entities. OFA manages ENEPA and is responsible for transferring the record copy to the National Archives.)
+ EPA-prepared EISs and environmental assessments (EAs) including draft final and any supplemental documents findings of no significant impact records of decision reference materials and documents such as notices of intent and availability in the Federal Register comments on EPA-prepared EISs or EA documents made by interested parties special studies or supplemental materials related to the EPA-prepared EIS or EA EPA-prepared categorical exclusions (CEs) any documents related to the distribution of the EPA-prepared CE special studies or supplemental material related to the EPA-prepared CE
+ National Historic Preservation Act (NHPA) compliance records documenting EPAs compliance with Section 106 of NHPA including agreements correspondence consulting parties lists case notes notification of adverse findings permit applications cultural resource surveys (CRS) final criteria of adverse effect report engineering report meeting notes areas of potential effects documentation and related records
+ Resource Conservation and Recovery Act (RCRA) corrective action files for RCRA land disposals documenting corrective action measures as imposed through a RCRA permit RCRA facility assessments (RFA) RCRA facility investigations (RFI) corrective measures studies (CMS) corrective measures implementation (CMI) and related records and
+ State and local agency air monitoring records used to monitor state and local air pollution programs consisting of quality assurance reports of state and local ambient monitoring networks national air monitoring station reports (NAMS) and state and local air monitoring station reports (SLAMS) staff reviews comments on Section 105 grant applications and audit reports showing performance of the agencies.
+NARA Disposal Authority: DAA-0412-2013-0017-0001
+ Permanent
+ Close when activity project or case is completed.
+ Transfer to the National Archives 15 years after file closure.
+Item b: Long-term compliance and enforcement records
+Includes but is not limited to:
+ Administrative hearing and judicial action case files containing documents on disputed Agency actions heard by Hearing Examiners or ALJs hearing notices subpoenas legal briefs transcripts judicial opinions court orders decisions by Examiners as well as technical support files for General Counsel in securing technical data obtaining and preparing expert witnesses reading witnesses for testimony witness lists and resumes scenarios technical data references lab reports and related records
+ ALJ case files for routine cases consisting of hearings concerning various environmental laws administrative documents arranging hearings public notices of hearings prehearing and hearing transcripts orders all exhibits entered and other related records
+ Criminal enforcement counsel cases investigated by the Criminal Investigation Division and prosecuted by DOJ including legal counsel and policy advice pertaining to specific criminal investigations and criminal prosecutions requests and responses for legal interpretations and opinions pertaining to the intent and application of environmental criminal laws and application regulations and policies and related criminal laws
+ Criminal investigation records for closed cases that are prosecuted by the DOJ consisting of completed criminal investigation packages search warrants interview reports investigation reports lab analyses indictments plea agreements business records affidavits and related records
+ Development and enforcement of air and water standards in states including submission progress and status of standards being enacted into law by states and territories and submitted to EPA for review and approval legal interpretations and opinions copies of state acts or programs and related records
+ Enforcement action files for judicial case files where routine legal actions are required whether a formal enforcement action is initiated or not including cases referred to the Office of Regional Counsel or other offices with enforcement authority for action against a pollution source or discharger consisting of correspondence meeting documentation inspections field notebooks evaluations notices of deficiency information requests warning letters administrative compliance orders documentation of civil and criminal actions corrective action orders attorney work products case summaries pleadings state and local enforcement records settlement documents including consent decrees and discovery requests
+ Enforcement records maintained by OECA and related to the interim program for controlling air pollutants compliance monitoring and enforcement program for controlling hazardous waste control of emissions from automobile engines and compliance monitoring and enforcement program for controlling toxic substances including statements of program analyses of state laws statements from Attorney General guidance policies strategies and interim and final authorities
+ EIS review and comment files maintained in EPA regional offices including comments made pursuant to Section 309 reviewer comments a copy of materials reviewed and other associated materials and
+ Printouts of pesticide production and distribution data reported under the Federal Insecticide Fungicide and Rodenticide Act (FIFRA) with information on pesticide establishments bearing an EPA number and data reported to EPA on quantities produced or distributed for each pesticide.
+NARA Disposal Authority: DAA-0412-2013-0017-0002
+ Disposable
+ Close when activity project or case is completed.
+ Destroy 20 years after file closure.
+Item c: Routine compliance and enforcement records
+Includes but is not limited to:
+ Credentials for inspections and enforcement issued by regional and headquarters organizations under the provisions of EPA Order 3510 EPA Federal Credentials for Inspections and Enforcement of Federal Environmental Statutes and Other Compliance Responsibilities (See file closure requirements in Guidance below.)
+ Criminal enforcement counsel cases investigated by the Criminal Investigation Division for which targets were identified but DOJ declined to prosecute including legal counsel and policy advice pertaining to specific criminal investigations and criminal prosecutions
+ Criminal investigation records for closed cases where targets were identified but the DOJ declined to prosecute consisting of completed criminal investigation packages search warrants interview reports investigation reports lab analyses indictments plea agreements business records affidavits and related records
+ Enforcement action files for administrative case files whether a formal enforcement action is initiated or not including cases referred to the Office of Regional Counsel or other offices with enforcement authority for action against a pollution source or discharger consisting of correspondence meeting documentation inspections field notebooks evaluations notices of deficiency information requests warning letters administrative compliance orders documentation of civil and criminal actions corrective action orders attorney work products case summaries pleadings state and local enforcement records settlement documents including consent decrees and discovery requests
+ Enforcement records maintained by OECA and related to motor vehicles rulemaking and vehicles and engines imported for sale and use including records on fuels
+ Enforcement records maintained by OECA and related to the collection of pesticide samples the laboratory analysis of the samples the conformity of the packages and labeling to standards and sample content discovery of violations and enforcement of activities
+ Enforcement records maintained by OECA and related to the emission control program including the development application and suspension of guidelines and rules for better control of the emissions from automobile engines records pertaining to the design and operation of programs for mobile units in production or planned for production and records pertaining to vehicles or motors already-in-use
+ EAB case files excluding those covered in item a including permit appeals enforcement appeals and Comprehensive Environmental Response Compensation and Liability Act (CERCLA) reimbursement petitions filed pursuant to CERCLA Sec. 106(b) petitions and responses pleadings motions or correspondence filed in connection with a petition notices of appeals appellate briefs exhibits oral argument transcripts orders and preliminary and final decisions of the EAB
+ Environmental impact assessments of nongovernmental activities including tourism in Antarctica preliminary environmental review memoranda (PERMs) initial environmental evaluations (IEEs) and comprehensive environmental evaluations (CEEs) completed by operators of nongovernmental expeditions organized in or proceeding from the United States to Antarctica
+ External discrimination complaints related to civil rights violations filed by individuals or groups alleging that their civil rights have been violated by EPA-funded entities complaints correspondence reports exhibits notices depositions transcripts and other related records
+ Federal agency liaison files for special projects including projects conducted or coordinated by federal agency liaison staff (e.g. interagency task force activities multiagency activities and reports Government Accountability Office (GAO) reports and other related project reports
+ Federal facilities data system consisting of reports showing the status of pollution abatement efforts by federal agencies including reports submitted under Office of Management and Budget (OMB) Circular A-106
+ Permit appeal files documenting the appeal process of permits issued by EPA regional offices including copies of the administrative record requests for evidentiary hearings responses andor petitions for review and responses reply briefs hearing transcripts research documents settlement records orders motions and final decisions of the Regional Administrator ALJ andor EAB
+ RCRA corrective action files for corrective actions except RCRA land disposals (item a)
+ Records of legal counsel and policy advice by criminal and civil enforcement attorneys that is not enforcement case specific such as legal opinions or policy advice that apply to more than one case or to the other mission-related activities of the enforcement and compliance assurance program and
+ State 305(b) water quality reports prepared by state governments and submitted to EPA for review and analysis and transmission to Congress as required by the Clean Water Act as amended.
+NARA Disposal Authority: DAA-0412-2013-0017-0003
+ Disposable
+ Close when activity project or case is completed.
+ Destroy 10 years after file closure.
+Item d: Short-term compliance and enforcement records
+Includes but is not limited to:
+ 309 review report of data summarizing official 309 reviews Federal Register notices and associated records
+ Air quality management files maintained in regional offices including annual air quality data reports air quality modeling reports annual source emissions and state action reports prevention of significant air quality deterioration (PSD) nonapplicability files notification forms Section 109(j) consistency reports correspondence and related records
+ Compliance files consisting of records used to determine compliance with pollution regulations and to recommend legal enforcement actions if necessary compliance schedules inspections reports correspondence inventories sampling and analytical data field notebooks notices of noncompliance and compliance orders that do not result in enforcement actions
+ Criminal enforcement counsel cases investigated by the Criminal Investigation Division but not referred to DOJ because no targets were identified including legal counsel and policy advice pertaining to specific criminal investigations and criminal prosecutions
+ Criminal investigation records for closed cases that are investigated but not referred to the DOJ because no targets were identified or allegations were unfounded consisting of completed criminal investigation packages search warrants interview reports investigation reports lab analyses indictments plea agreements business records affidavits and related records
+ Executive orders and OMB circulars review and comments file including EPA evaluations and comments originated or coordinated by other federal agencies correspondence evaluation documents and responses
+ Federal facilities monitoring files containing information used to monitor the environmental controls in use at installations and facilities operated by the federal government and military installations including correspondence with the facilities survey reports showing inventory of pollution control equipment in use discharges and other facts (excludes: site-specific records relating to hazardous waste sites at federal facilities submitted for preliminary assessments covered by schedule 1036.)
+ Federal facilities referrals records related to the referral and processing of requests from federal actions in federal installations that might affect the environment correspondence and worksheets reports showing actions proposed and taken and other related records
+ Federal Register notices for EIS filing and
+ Import and export notifications documenting the decisions regarding the importation of hazardous waste into the United States and the exportation of hazardous waste to foreign countries notifications to export or import filed by a facility manifests correspondence to the country involved and responses acknowledgement of consent letters to the facility allowing or denying import or export and related reports.
+NARA Disposal Authority: DAA-0412-2013-0017-0004
+ Disposable
+ Close when case is completed or end of calendar year.
+ Destroy 5 years after file closure.
+Item e: Other compliance and enforcement records
+Includes but is not limited to:
+ Enforcement records maintained by OECA and related to motor vehicles and motor vehicle engines including import declarations forms declarations of conformity code sheets for import declarations and listings of imported vehicle identification numbers and
+ Federal agency liaison files used to monitor and coordinate EPA contacts and activities with other federal agencies for specific federal agency actions correspondence with the agencies NEPA compliance federal facilities compliance and other related records.
+NARA Disposal Authority: DAA-0412-2013-0017-0005
+ Disposable
+ Close when activity project or case is completed or when no longer needed for current agency business.
+ Destroy 1 year after file closure.
+Item f: Administrative Law Judges repository file
+Includes: copies of background documents to case files submitted by witnesses or other parties that are not part of the official case record.
+NARA Disposal Authority: DAA-0412-2013-0017-0006
+ Disposable
+ Close upon completion or termination of case.
+ Return to submitting party after file closure.
+Guidance:
+Media neutral  This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information  When records are due for destruction according to the disposition instructions records containing sensitive information must be shredded or otherwise definitively destroyed to protect confidentiality.
+Copies of permanent electronic records transferred to the National Archives - The copy of permanent electronic records transferred to the National Archives (previously scheduled as EPA 0133a(1)(c) 0134a(1)(c) 0134a(2)(c) 0134a(3)(c) 0206a(3) 0207c(3) 0237a(3) 0399a(3) 0412a(3) 0412c(3) 0412d(3) 0508a(2)(c) 0509a(3) 0686b(2)(c) 0688b(3) 0689a(3) 0689b(3) 0690b(3) 0693b(3) maintained by the submitting office until they are notified by NARA that the transfer is successful is a nonrecord (EPA 0008 item a) and can be deleted when no longer needed.
+Delegated programs  If a state or other entity is authorized to implement a program and the delegated entity maintains the records for the period identified above or longer the EPA regional office may destroy the copies it receives when no longer needed. If recordkeeping requirements (e.g. what records to keep and how long to keep them) for authorized entities are not covered in EPAs regulations the requirements should be established in a memorandum of understanding.
+Disposition
+ The record copy of NEPA-related records formerly covered by schedules 134 National Environmental Policy Act (NEPA) Preparation Files and 135 309 Review and Comment Files are maintained by OFA at headquarters. Copies maintained by other offices may be destroyed after submission to OFA.
+ Landmark cases - Landmark cases are historic exceptional cases of major lasting interest at the national or regional level as well as cases of major precedential significance affecting the legal responsibilities of one or more industrial or commercial sectors across the country. Landmark cases typically involve substantial sustained interest on the part of the public and the media as well as significant interest on the part of elected officials.
+ Civil enforcement action files maintained in EPA regional offices  The regional unit with enforcement authority is responsible for maintaining the record copy and implementing the disposition including selecting landmark cases for recommendation to the Regional Administrator or the Regional Administrators designee. Criminal investigation files  Criminal investigation files are maintained by the Office of Enforcement and Compliance Assurances (OECAs) Criminal Investigation Division. Attorney files pertaining to criminal enforcement matters are held by the assigned attorneys office (Region or Headquarters). Selecting historically significant (landmark) criminal case files for recommendation to the OECA Assistant Administrator is the responsibility of the Director of the Criminal Investigation Division Office of Criminal Enforcement Forensics and Training.
+ Copies of these records incorporated into other files (e.g. site or facility files) are to be retained according to the disposition instructions for the records they support.
+ In situations where one file (e.g. facility file) contains records covered by more than one records schedule retain the records for the longest retention period.
+ UIC well monitoring reports - UIC Class II III and V wells are regulated under solution mining and other permits including deep and shallow injection wells pose no threat to human health or the environment. The monitoring reports maintained in the regional offices are used as compliance documents similar to other enforcement programs and are covered by item d.
+Field activities
+ The EPA QA Field Activities Procedure (CIO 2105-P-02.0) applies to both sampling and non-sampling field activities and provides records management requirements for field activities including field notebooks. To the extent possible legacy field notebooks should be reviewed and activities identified to be consistent with the Procedure and local applicable standard operating procedures.
+ EPAs Policy on the Use of Mobile Field Inspection Tools (https:www.epa.govcompliancepolicy-use-mobile-field-inspection-tools) establishes the use of electronic devices to access create use analyze and collect information as part of inspections field investigations or compliance evaluations. When using electronic devices it is very important to demonstrate that there has been no change to the original files and any edits made to the files must be tracked and retained according to the requirements of this records schedule as stated in section d (Preservation of Records) of the Policy.
+File closures
+ Compliance files - Close files upon completion of review and determination that no additional investigation is warranted and no enforcement is to be pursued.
+ Inspector credentials - Close files when the credential expires.
+ Regional administrative and civil or criminal judicial enforcement actions - Enforcement action files maintained in program offices and by case attorneys may be transferred to the federal records center (FRC) upon settlement of the case (issued consent agreementsfinal orders (CAFOs) issued administrative orders on consent (AOCs) or entered consent decrees or similar judicial settlement documents e.g. Judgments). Compliance and monitoring activities required by the settlement document are considered part of the enforcement action file. Program offices and case attorneys should establish a procedure for determining when the file is to be closed and transferred to the FRC so both sets of records have a consistent disposition. For example: The program office notifies the Office of Regional Counsel (ORC) when the compliance activities for an enforcement action are complete and the case attorney certifies the case is closed or the consent decree is terminated and the final close date. The program office updates the disposition date for records at the FRC if needed.
+Related records - Permits are covered by schedule 1047.
+Reasons for Disposition:
+The following changes were made in the 05312017 version:
+ Added guidance on file closures for compliance files and regional enforcement case files.
+The following changes were made in the 01312017 version:
+ Added inspector credentials to item c and added file closure instructions in guidance.
+ Updated guidance on disposition of UIC well monitoring reports maintained in regional offices.
+ Added guidance on EPAs Policy on the Use of Mobile Field Inspection Tools.
+The following changes were made in the 07312016 version:
+ Moved from draft status to final.
+ Added NARA approval date.
+The following changes were made in the 06302016 version:
+ Moved bullet for EIS review and comment files maintained in regional offices from item a to item b.
+ Revised guidance on landmark cases and added guidance on the EPA QA Field Activities Procedure.
+The following changes were made in the 02292016 version:
+ Added note to item a bullet for environmental impact statements and revised transfer instructions.
+ Added guidance on disposition of NEPA-related records.
+The following change was made in the 03312015 version:
+ Added guidance on disposition of UIC Class II well monitoring reports.
+This schedule combines and consolidates previously approved EPA and GRS schedule items.
+Custodians:
+Multiple units
+Related Schedules:
+EPA 0008 EPA 1047
+Previous NARA Disposal Authority:
+Previous NARA disposal authorities can be found at: http:intranet.epa.govrecordsscheduleconsolidationfiles1044_Compliance_and_Enforcement_crosswalk.docx.
+Entry: 09122012
+EPA Approval: 08092013
+NARA Approval: 06272016

@@ -1,0 +1,48 @@
+EPA Records Schedule 0537
+Status: Final 07312017
+Title: EPA Newsroom Database
+Program: Public Affairs
+Applicability: Headquarters
+Function: 305 - Public Affairs
+NARA Disposal Authority:
+ N1-412-08-9
+Description:
+The EPA Newsroom Database contains the text of speeches and remarks by EPA Administrators and Deputy Administrators and press releases posted to the EPA Internet Newsroom. The speeches and remarks of the Administrators are from November 1995 forward and for the Deputy Administrators from 1997 forward. The Headquarters Office of Public Affairs distributes national press releases while regional offices distribute local press releases. Both national and regional releases are posted in the database.
+Disposition Instructions:
+Item a: (Reserved)
+Item b: (Reserved)
+Item c: Electronic data
+This item is to be used only by the Office of the Administrator Office of Public Affairs at Headquarters.
+NARA Disposal Authority: N1-412-08-9c
+ Permanent
+ Transfer annually to the National Archives as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time.
+Item d: (Reserved)
+Item e: (Reserved)
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in electronic format only and is not media neutral. The electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Electronic software program - The electronic software program formerly item a is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. NARA regulations require that electronic records be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition.
+Input - Input formerly item b is covered by schedule 1012 item e.
+Output and reports - For disposition of output and reports formerly item d refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the later dates.
+System documentation - System documentation including system development documentation formerly item e refers to those records necessary to document how the system captures manipulates and outputs data. System documentation is transferred to the National Archives along with the electronic data. Disposition of system documentation is covered by schedule 1012 item a.
+If speeches are not added to the databases the disposition is covered by schedule 1051 for senior officials and 1022 for all other employees. Records used to produce outreach materials for the public are covered by schedule 1022.
+Reasons for Disposition:
+The following changes were made in the 07312017 version:
+ Deleted items a b d and e which are covered by other schedules.
+ Updated guidance and contact information.
+The following changes were made in the 04302008 version:
+ Revised disposition instructions for item b.
+ Added applicability to disposition items a c and e.
+ Revised title of disposition item e.
+This schedule was previously approved as N1-412-03-9 for the Administrators and Deputy Administrators Speeches Database. It has expanded to include final press releases that are kept in the same database.
+Custodians:
+Office of the Administrator Office of Public Affiars
+ Contact: Jeff Morin
+ Telephone: 202-564-6553
+Related Schedules:
+EPA 1012 EPA 1022 EPA 1051
+Previous NARA Disposal Authority:
+N1-412-03-9
+Entry: 03062001
+EPA Approval: 06092008
+NARA Approval: 07302008

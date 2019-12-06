@@ -1,0 +1,96 @@
+EPA Records Schedule 0329
+Status: Final 12312013
+Title: Pesticide Registration Information System (PRISM)
+Program: Pesticides
+Applicability: Headquarters
+Function: 108 - Environmental Management
+NARA Disposal Authority:
+ N1-412-09-16
+Description:
+The Office of Pesticide Programs (OPP) has migrated all of its major data systems including regulatory and scientific data workflow tracking and electronic document management into one integrated system the Pesticide Registration Information System (PRISM). PRISM provides a centralized source of information on all registered pesticide products including chemical composition toxicity name and address of registrant brand names registration actions and related data. It consolidates information stored on the mainframe the OPP LAN on stand-alone computers and in paper copy. The purpose of this system is to decrease the data entry burden increase analytical capabilities better track decision-making processes prevent loss of and improve access to critical decision documents and make OPP information readily available to those both within and outside of the Program.
+PRISM is the successor to the Office of Pesticide Programs Information System Network (OPPIN). Data has been migrated from the following databases: Chemical Vocabulary (CV) Company Name and Address (CNAD) Pesticide Document Management System (PDMS) Pesticide Product Information System (PPIS) Chemical Review Management System (CRMS) FIFRA CBI Access (FAS) Jackets Product Data Call-In (PDCI) Phones Pesticide Regulatory Action Tracking (PRAT) Reference System (REFS) Tolerance Indexes (TIS and TOTS). Sources of the input are paper copy and electronic data. EPAs Central Data Exchange (CDX) scheduled as EPA 097 is the gateway for electronic submissions.
+The system is designed mainly for use by OPP staff however read-only access to the non-confidential business information (CBI) portion of the data is available to the entire Agency. Non-CBI information is available to the public.
+Disposition Instructions:
+Item a: Electronic software program
+The Office of Chemical Safety and Pollution Prevention Office of Pesticide Programs Information Technology and Resources Management Division Information Services Branch at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-09-16a
+ Disposable
+ Destroy when no longer needed to ensure access to and use of the electronic records throughout the authorized retention period.
+Item b: Input
+NARA Disposal Authority: DAA-0412-2013-0009
+ Disposable
+ Follow instructions for schedule 1012.
+Item c: Registration and registration review data and documents
+Includes end use product data labeling and PRIA data.
+NARA Disposal Authority: N1-412-09-16c
+ Permanent
+ Close inactive records at completion of action.
+ Transfer data to the National Archives annually after file closure and completion of any ongoing audits involving review of data and documents with any related documentation and external finding aids as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time.
+Item d: (Reserved)
+Item e: (Reserved)
+Item f: Reference and information tracking databases
+NARA Disposal Authority: N1-412-09-16f
+ Disposable
+ Follow instructions for applicable schedule (EPA 0088 EPA 0089).
+Item g: Output and reports
+NARA Disposal Authority: Varies
+ Varies
+ File with related records and follow instructions for the related records.
+Item h: System documentation
+The Office of Chemical Safety and Pollution Prevention Office of Pesticide Programs Information Technology and Resources Management Division Information Services Branch at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-09-16h
+ Permanent
+ Transfer to the National Archives those records necessary to document how the system captures manipulates and outputs data as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time. The documentation is transferred with the electronic data item c.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+The pesticide program divisions in the Office of Pesticide Programs which maintain the records are responsible for the disposition of items b c f and h.
+Registration review is replacing the pesticide reregistration program including tolerance reassessment as these programs approach completion.
+The Section Seven Tracking System (SSTS) (EPA 0264) is considered part of the PRISM system however the Office of Enforcement and Compliance Assurance is solely responsible for maintaining the SSTS data.
+Specific legal citations include but are not limited to:
+ Federal Insecticide Fungicide and Rodenticide Act and Amendments (FIFRA)
+ 1996 Food Quality Protection Act (FQPA)
+ Pesticide Registration Improvement Act of 2003 (PRIA)
+Reasons for Disposition:
+PRISM is an integrated relational data system and document repository which allows data analysis required by statute. This system incorporates data and documentation from several previously approved schedules including the following systems listed below. EPA 0335 and 0349 were previously approved as permanent.
+Item c incorporates data and documentation from the following previously approved schedules:
+ EPA 0315 - Pesticide Registration Documents N1-412-07-39
+ EPA 0327 - Company Name and Address (CNAD) N1-412-95-28
+ EPA 0335 - Pesticide Document Management System (PDMS) N1-412-98-3
+ EPA 0349 - Pesticide Product Information System (PPIS) NC1-412-85-2439
+ EPA 0352 - Pesticide Incident Documents and Incident System N1-412-05-7
+ EPA 0363 - Pesticide Product Label System (PPLS) N1-412-07-47
+ EPA 0366 - Label Use Information System (LUIS) N1-412-95-213
+It replaces several minor systems listed on two of EPAs big bucket system schedules for temporary records. The Chemical Review Management System (CRMS) Jackets Pesticide Regulatory Action Tracking (PRAT) and Reference System are listed on EPA 0089. Tolerance Indexes are listed on EPA 0088.
+The following change was made in the 10312008 version:
+ Revised reasons for disposition.
+ Updated contact information.
+The following changes were made in the 09302008 version:
+ Changed title and added file closure instructions for item c.
+ Updated contact information.
+The following changes were made in the 08312008 version:
+ Deleted disposition item d for pesticide labeling data and disposition item e for PRIA tracking data since they are part of registration and reregistration review data and covered by disposition item c.
+ Revised title of disposition item h.
+ Revised guidance and reasons for disposition.
+ Updated contact information.
+The following change was made in the 07312008 version:
+ Revised reasons for disposition.
+The following changes were made in the 06302008 version:
+ Revised description.
+ Replaced disposition item c with items c-f item d with g and item e with h.
+ Revised guidance and reasons for disposition.
+The following changes were made in the 04302008 version:
+ Revised titles of schedule and disposition items a and e.
+ Revised description.
+ Revised disposition instructions for items a b d and e.
+Custodians:
+Office of Chemical Safety and Pollution Prevention Office of Pesticide Programs Information Technology and Resources Management Division
+ Contact: Robert Schultz
+ Telephone: 703-308-8186
+Related Schedules:
+EPA 0264 EPA 1012
+Previous NARA Disposal Authority:
+NC1-412-85-2439 N1-412-95-28 and 13 N1-412-98-3 N1-412-05-7 N1-412-07-39 N1-412-07-47
+Entry: 12172004
+EPA Approval: 09012009
+NARA Approval: 12212010

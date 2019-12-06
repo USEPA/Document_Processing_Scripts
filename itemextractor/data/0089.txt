@@ -1,0 +1,747 @@
+EPA Records Schedule 0089
+Status:Final 10312019
+Title:Information Tracking Systems
+Program:All Programs
+Applicability:Agency-wide
+Function:305 - Public Affairs
+NARA Disposal Authority:
+ DAA-GRS-2013-0002-0016
+Description:
+Consists of a broad range of paper and electronic systems used to track the processing of permits applications reports approvals and other actions relating to records that are disposable under NARAs General Records Schedules (GRS) or an approved Agency records schedule.
+Disposition Instructions:
+Item a:Record copy
+Includes tracking and control records used to provide access to and control of records authorized for destruction by the GRS or a NARA-approved records schedule including indexes lists registers inventories and logs.
+Excludes records containing abstracts of records content or other information that can be used as an information source apart from the related records which are covered by the schedules for the content (e.g. enforcement permits).
+NARA Disposal Authority: DAA-GRS-2013-0002-0016
+ Disposable
+ Close when no longer needed for current agency business.
+ Destroy immediately after file closure.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on theEPA records intranet site.
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+For electronic tracking systems the disposition instructions in this schedule apply to the electronic data. The disposition instructions are to be applied when the system is no longer needed to conduct Agency business.
+Electronic software program - The electronic software program is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. NARA regulations require the electronic records be retrievable and usable for as long as needed to conduct Agency business and meet NARA-approved disposition. The electronic software program is covered by schedule 1012 item e.
+Input - Input for the system is covered by schedule 1012 item e.
+Output and reports - For disposition of output and reports refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the longer retention period.
+System documentation - System documentation including system development documentation is covered by EPA 1012 item e.
+This schedule includes but is not limited to the following electronic systems listed by headquarters program or regional office:
+Office of the Administrator
+ Administrative Courtroom Calendar (ACC)
+ Administrative Enforcement Dockets
+ ADP Tracker
+ CSO Database (CSO DB)
+ DBE Docket Classification System
+ Econ Forum Intranet
+ Environmental Appeals Board Docket (EABD)
+ Environmental Appeals Board Web Docket (EAB-DS)
+ Environmental Appeals Board Tracking Systems
+ EPA Case Tracking Systems
+ NCEE Project Inventory and NCEE Project Inventory - Library
+ NCEE Regulatory Review Roles and NCEE Regulatory Review Roles - Economic Analysis Review
+ OCR Title VI Team Tracking System
+ Office of Administrative Law Judge Cases (OALJ-Case)
+ Office of Administrator Due Date Calendar (AO DDC)
+ OPEI Econ Info OPEI Econ Info - Interviews and OPEI Econ Info - Job Applicant
+ OPEI Economic Forum Intranet
+ OPEI Environmental Economics Report Inventory
+ OPEI Environmental Policy and Economics
+ OPEI Regulatory Economic Analysis Inventory - RIA
+ Regional Hearing Clerks Case Tracking System (RHCCTS)
+ Regional Hearing Clerk Tracking System (RHCTS)
+ Rule and Policy Information and Development System (RAPIDS)
+ SAB Products
+ SCOUT
+ State Innovation Grants Database
+Office of Administration and Resources Management
+ Agency Asset Management System (AAMS)
+ ARCS Contract Tracking System (ACT)
+ Audio Visual System (AUDIO)
+ Benefits Employee Services Tracking (BEST)
+ Change Management System (CMS)
+ Conference Scheduling System (CONFERENCE)
+ Critical Mail Tracking System (CMTS)
+ Environmental Protection Agency Personnel Access and Security System (EPASS)
+ EPA Parking Tracking System (EPA-PTS)
+ Federal Information Processing Resources Procurement Tracking System (FIPRPTS)
+ Master Inventory System (MAIS)
+ NSCEP Publication Mailing List Database
+ NSCEP Publication Ordering Database
+ Peregrine Network Management System (PNMS)
+ PM Photocopy Management System (PMS)
+ Printing Tracking System (PTS)
+ Program Office Interface (POI)
+ Security Incidents System (SECINCID)
+ Time Sharing Services Management System Online Registration System (TSSMS-ORS)
+Office of Air and Radiation
+ Air Quality Performance Tracking (AQPT)
+ Air Significant Violators System (AIRSVL)
+ Alternative Test Methods and Monitoring Database (ATMMD)
+ Assembly Line Test (ALT-SEA)
+ Automated Imports Tracking System (AITS)
+ Best Workplaces for Commuters Customer Relationship Management System (BWC-CRM)
+ Comments Database (Comments Db)
+ Fees
+ Integrated Strategic Tracking and Recruiting (iSTAR)
+ Laboratory Computer System (LCS)
+ Manufacturers Programs Branch Investigation Tracking System (MPBIT)
+ MAPSWeb
+ MPB Exemptions
+ Ozone Depleting Substance Tracking System (ODSTS)
+ Part 71 Tracking System (P71 TS)
+ Radiation Information System for Cleanup Sites (RISCS)
+ State Technology and Policy Option Query Tool (STPOQT)
+ Survey Data (Radon)
+ Thermoluminescent Dosimetry Instrument Control and Database Management System (TLD)
+ Title V Operating Permits System (TOPS)
+ Transportation Air Quality (TRAQ)
+Office of Chemical Safety and Pollution Prevention
+ Chemical Review Management System (CRMS)
+ Chemicals on Reporting Rules (CORR)
+ Comprehensive Assessment Information Rule Database (CAIR)
+ Data Call In System (DCI)
+ Distributor File Database
+ DOCLOG
+ Environmentally Preferable Purchasing Database (EPPD)
+ Federal Lead-Based Paint Program (FLPP) Database
+ Foreign Purchaser Acknowledgement Statement System (FPAS)
+ Integrated Hazard and Assessment Database (IHAD)
+ Interagency Testing Committee Tracking System (ITS)
+ JACKETS
+ Management Information Tracking System (New Chemicals) (MITS)
+ Master Testing List Database (MTL)
+ MEGA
+ Pesticide Indemnification (Administrative Claims) Tracking System
+ Pesticide Registration Document Tracking System (PRDTS)
+ Pesticide Registration Fee Response Database
+ Pesticide Regulatory Activity Tracking (PRAT)
+ P2 Grants Plus System
+ Simple Maintenance of ARTS (SMART)
+ TSCA 8(e) Initial Screening Database
+ VeFOIA
+Office of Chief Financial Officer
+ Asbestos Receivable Tracking System (ARTS)
+ Billing and Reimbursable Accounting Information Network System (BRAINS)
+ Fellowship Payment System (FPS)
+ Interagency Document Online Tracking System (IDOTS)
+ Performance and Environmental Results System (PERS)
+ Relocation Expense Management System (mLINQs moveLINQ)
+ Small Purchase Information Tracking System (SPITS)
+Office of Enforcement and Compliance Assurance
+ Consent Decree Tracking System (CDETS)
+ Enforcement and Compliance History Online (ECHO)
+ Enforcement Docket System (DOCKET)
+ Enforcement Document Retrieval System (EDRS)
+ Laboratory Integrity and Study Audit (LISA)
+ Pesticide Registration Enforcement System (PRES)
+ Supplemental Environmental Projects National Database (SEPs)
+Office of Environmental Information
+ American Recovery and Reinvestment EPA Recipient Submission Database (ARRA DB)
+ Error Correction Tracking System (ECTS)
+ Integrated Error Correction Process (IECP) Database
+ National Records Management Program (NRMP) Email Records Training Database
+Office of General Counsel
+ Assistance Disputes (ADTRACS)
+ Bid Protest Tracking System (BIDS)
+ General Counsel Defense Docket System (DEFENSIVE)
+Office of Inspector General
+ AutoAudit
+ Inspector General Operations and Reporting System (IGOR)
+ Suspension and Debarment System (SDS)
+[bookmark: _GoBack]Office of International and Tribal Affairs
+ International Visitors Reporting System
+ Tribal Consultation Opportunities Tracking System (TCOTS)
+ Tribal General Assistance Program Off-line (GAP Off-line)
+ Tribal Program Management System (TPMS)
+Office of Land and Emergency Management
+ Admin Tracking System (Admin)
+ Analytical Services Tracking System (ANSETS)
+ Construction Completion Tracking System (CCTS)
+ Contract Laboratory Program Support System (CLPSS)
+ Core Continuity of Operations Program Assessment Tool (CCAT)
+ Delisting Petition Tracking System (DPDMS)
+ Drum Trak
+ EPA OSC Websites (EPAOSC)
+ EPCRA Trade Secret Data Management (TSDM)
+ Health and Safety Program (HASP)
+ Information Request Tracking System (IRTS)
+ Institutional Controls Tracking System (ICTS)
+ National Partnership for Environmental Priorities Tracking Database (NPEP Tracking)
+ Office of Solid Waste and Emergency Response Calendaring System (OSWER-CS)
+ Orator
+ OWPE Controlled Correspondence (OWPE CCIS)
+ Personnel Tracking System (PTS)
+ Records of Decision (RODS)
+ Removal Cost Management System (RCMS 2000)
+ Resource Conservation and Recovery Act (RCRA) Confidential Business Information (CBI) System (RCRA CBI System)
+ Resource Conservation and Recovery Act (RCRA) Statistical Reporting System (RCRASRS)
+ Response Action Contract Management Information System (RACMIS)
+ Sample Tracking and Invoice Payment System (TIP)
+ Scribe NET
+ Sediment Remedy Tracking Tool (SRTT)
+ Site Listing and Post Construction Completion Tracking System (SLAPCCTS)
+ State Authorization Tracking System (STATS)
+ Superfund eFACTS (SeFACTS)
+ Superfund NPL Assessment Program (SNAP)
+ Superfund Project Request System (SUPRS)
+ Superfund Records Management Database (SRMD)
+ Superfund Redevelopment Database (SURE)
+ Superfund Reports Information System (SRIS)
+ Training Tracking Tool (Training)
+ TrainX
+ Underground Storage Tank Access (UST-ACCESS)
+ User Technical Support Tracking System (UTSTS)
+Office of Research and Development
+ ACT Barriers and Suggestions (ACTBnS)
+ Animal Procurement Application (AP)
+ AOS Funding (AOSF)
+ Assembly Line Test (MPBALT)
+ Athens Awards Database (AADB)
+ Athens Facilities Help Desk (AFHD)
+ Athens Facilities Work Orders (AFWO)
+ Athens Purchase Order System (APOS)
+ Budget and Expense Tracking System (BETS)
+ Contract Administration and Tracking System (CATSys)
+ Electronic Laboratory Animal Project Review Application (eLAPR)
+ Environmental Science Connector (ESC)
+ ERL-Duluth Travel Protection System (TPS)
+ Facility Key Tracking System (KTRK)
+ Facility Tracking System (FTS)
+ Financial Commitment System (FCS)
+ Freedom of Information Act Log (FOIA Log)
+ Gas Acquisition System (GAS)
+ Gas Cylinder Tracking System (GCT)
+ GED - ILL_Requests (GED ILLR)
+ GED - Library Orders Database (GED LODB)
+ GED - Literature Search Requests (GED LSR)
+ GED - Receiving Reports (GED RR)
+ GED - Reservations
+ GED - Seawater Delivery System Data (GED SDSD)
+ GED - Seawater QA Monitoring (GED SQAM)
+ GED - Standard Toxicity Data (GED STD)
+ GED - Toxic Release Inventory (GED-TRI)
+ GED - Weather Data (GED WD)
+ GED - Wet Lab Data (GED WLD)
+ Grants and Fellowship System - 2000 (GFS-2000)
+ Help Desk Software (GWI)
+ Histology Database (MED-Histology)
+ Integrated Resource Management System (IRM Sys)
+ Inventory of Ecological Restoration Projects within the MAIA Region (MAIA Inventory)
+ Laboratory Corrective Action Tracking System (LCATS)
+ Management Reporting Information System (MRIS)
+ MED Headquarters Action Response Tracking System (HARTS)
+ National Health and Environmental Effects Research Laboratory Bankcard Application (NHEERL BankCard)
+ NCER Peer Review (NCER PR)
+ NERL Purchase Card (NERL PC)
+ NHEERL Web Tracking (NHEERL WG)
+ Office of Science Policy Cooperative Research and Development Agreements Database (OSP CRADA)
+ Office of Science Policy Regulatory Support (OSP Reg Support)
+ Ongoing Research Summary Database for MED (MED-RSDB)
+ ORD c.Support (c Support)
+ ORMA Action Transmittal Log (ORMA ATL)
+ ORMA Extramural Package Tracking System (ORMA EPTS)
+ PC Waste (Sewer) System (PCWaste  Misc)
+ Personnel System (PersonnelSys)
+ Public Information Request Tracking System (PIRTS)
+ Quality Assurance Information Management System (QAIMS)
+ Quality Assurance Tracking System (QATS)
+ Records Management Database (RMD)
+ Regional Applied Research Effort Tracker (RARE Tracker)
+ Regional Methods Tracker (RM Tracker)
+ Research Tracking System (RTS)
+ RTO Request for Support Services (RTO IT RSS)
+ Task Information System (TIS)
+ Task Order Data System (TODS)
+ Warehouse Catalogue Online Ordering System (WARECAT)
+ Warehouse Inventory Control (WIC)
+ WebTracker Mach II
+ Work Request System (MED-WRS2)
+ Work Request Tracking System (WRTS)
+Office of Water
+ 301(h) Application Tracking System (301(H)INFO)
+ Aircraft Reporting and Compliance System (ARCS)
+ Arsenic Occurrence Database (AOD)
+ Assessment Total Maximum Daily Loads Tracking and Implementation System (ATTAINS)
+ Clean Water Act Indian Set Aside Tracking (CWA-ISAT)
+ Clean Water State Revolving Fund National Information Management System (CWNIMS)
+ Drinking Water Research Information Network (DRINK)
+ Electronic Notice of Intent Database (eNOI)
+ EPA Primacy Tracking Tool
+ Inventory and Measures Reporting System (IMRS)
+ Microbial and Disinfection Byproducts (M-DBP) Research Tracking System (M-DBPTrk)
+ National Aquatic Resource Surveys Information Management System (NARS IM)
+ National Assessment and TMDL Tracking System (NATTS)
+ National Estuary Program On-Line Reporting Tool (NEPORT)
+ National Total Maximum Daily Load (TMDL) Tracking System (NTTS)
+ Office of Water Waters Intelligence (OW WI)
+ Permit Management Oversight System (PMOS)
+ Section 319 Grants Reporting and Tracking System (GRTS)
+ Special Appropriations Act Projects Tracking System (STAG Earmarks)
+ State Revolving Fund Award List
+ Total Maximum Daily Loads Tracking System (TMDL Tracking)
+ Vessel Disposal Database (VDD)
+ Water Alliances for Voluntary Efficiency Program (WAVE)
+Region 1
+ Checklist
+ Chemical Emergency Preparedness (CAMEO)
+ Chemical Inventory System (CHEMINV)
+ Clean Air Act Federal Programs Database (MACT)
+ Current Actions Tracker (CAT)
+ Enforcement Action Response System (EARS)
+ Fellowship Application Review Database (FARD)
+ GOV Reservation Tracking System (GOV)
+ Health and Safety Tracking System (HSTRACK)
+ Laboratory Standard Operating Procedures (LabSOP)
+ Manifest Tracking System (MANIFEST)
+ Map Tracker (MAPTRACKER)
+ National Pollutant Discharge Elimination System Permit Tracking System (PERWIN)
+ Quality Management Plan Tracking System (QMP)
+ Regional Inventory and Catalog History (RICH)
+ Regional Systems Inventory (RSI)
+ Request for Assistance (RFA)
+ Sched Tracking and Reg for Training (START)
+ SF Records Center Project Tracking (SFRC)
+ State Implementation Plan Tracking System (SIPS)
+ Transit Subsidy System (TRANSIT)
+ VideoInternetDesign Information (ViDi)
+Region 2
+ Executive Correspondence Control System (ECC)
+ Facility Location Improvement Tracking System (LIT)
+ Position Management System (PMR)
+ Quality Assurance Tracking System
+ Safe Drinking Water Information SystemState Version (SDWISState)
+ ScheduleR2
+ Stockroom Management (STCMGT)
+ Superfund Enforcement Support System (SESS)
+ Superfund File Management System (SFR2FMS)
+ Supplemental Environmental Projects (SEP)
+ Toxic Substances Section Controlled Correspondence Tracking System (CCTS)
+ UST Enforcement Database
+Region 3
+ Air Action Tracking System (AIRTRAX)
+ Activtrak
+ Air Protection Division File Summary System (APDFSS)
+ Air Protection Division Outreach Tracking (APD OT)
+ Amtrak Sample Tracking (AST)
+ APD Financial Tracking System (AFTS)
+ Arch Street Personal Computer Inventory (PCI)
+ ARCS Contract Invoice Tracking (ACIT)
+ Assigned Keys (AK)
+ Automated Procurement Tracking System (PRTRACK)
+ Brownfields Information System (BFIS)
+ Brownfields Outreach Contacts (BOC)
+ Call TrackingInventory (CTI)
+ Case Status Tracking Databases (CSTD)
+ Chesapeake Assistance Tracking (CATS)
+ Chesapeake Bay Financial Tracking System (CBFTS)
+ Chesapeake Bay Office Hardware and Software Inventory (CBPO HSI)
+ Chesapeake Bay Program Office Contractor Tasks (CBPO CT)
+ Citizen Complaints (CC)
+ Complete Sample Delivery Group Files (CSF Database)
+ Construction Grants Tracking (CGT)
+ Correspondence Tracking System (CTS)
+ Credit Card Log Database (CCLD)
+ CRL TimeTravelTraining Accounting System (CTTTAS)
+ CST Analytical Requests (APR)
+ CST RASDAS Laboratory Assignments (CST LA)
+ DAT
+ Disadvantaged Business Enterprise Contractors (DBEC)
+ Disadvantaged Business Enterprise Grantees (DBEG)
+ District of Columbia Drinking Water Grants Tracking (DCDWG)
+ Document Review Inventory Forms (DRIF)
+ Dun and Bradstreet Tracking System (DBTS)
+ EJEC Inspection Tracking (EJECIT)
+ Enforcement Pipeline (EP)
+ Environmental Management System (EMS)
+ Environmental Science Center Customer Service (ECS)
+ Environmental Science Center FMSB Facility Budget (FMSBFB)
+ Environmental Science Center Service Support (ESS)
+ Environmental Services Assistance Team (ESAT) Deliverables Task Assignment System
+ ESAT Tracking System (ETS)
+ ESC Library InventoryCirculation System
+ eSignificant Notification of Imp Tasks (ESNITCH)
+ Facility Compliance Tracking System (FCTS)
+ Federal Record Center (FRC) Database
+ Fedex Tracker (FT)
+ General Dynamics Deliverables Task Assignment System
+ Geospatial Information System Team Project Tracking (GIS TPT)
+ Hazardous Site Cleanup Division Administrative System (HSCD)
+ Hazardous Site Cleanup Division Awards Tracking (HAT)
+ Hazardous Site Cleanup Division Equipment Loan Tracking (HELT)
+ Hazardous Site Cleanup Division Freedom of Information Management Act Tracking System (HFOIA)
+ Hazardous Site Cleanup Division Full Time Employee Tracking (HFTE)
+ Health Safety System (HSS)
+ High Priority Violators System (HPVS)
+ Hotline Database (HD)
+ HRMB Service Award (HSA)
+ HRMB Training Log (HTL)
+ Idea Bank for Support Environmental Projects (IBS)
+ Interagency Agreement Tracking (IAGT)
+ Laboratory Procurement Request and Sample Testing Assignment Tracking System
+ Library Reference Requests (LRR)
+ New Source Review Tracking System (NSR)
+ OASYS
+ Office of Analytical Services and Quality Assurance File Tracking System
+ Office of Analytical Services and Quality Assurance Laboratory Equipment Inventory Tracking System
+ Office of Analytical Services and Quality Assurance Sample Analytical Data Tracking System
+ Office of Environmental Information Priorities (OEIP)
+ Office of Regional Counsel File Room System (FRS)
+ Permit Tracking (PT)
+ Pesticide Information Database (PID)
+ Pesticides and Asbestos Programs and Enforcement Branch Case Tracking System (PAPEB)
+ Press Call Log (PCL)
+ Press Release System (PRS)
+ Pretreatment Compliance Monitoring and Enforcement System (PCME)
+ PROMIUM ELEMENT Database
+ Prospective Purchaser Agreement Tracking (PPAT)
+ Public Water Supervision System (PWSS)
+ Quality Assurance Document Tracking System (QA Document Tra)
+ RACS Contract (RC)
+ Regional Enforcement Support Contractors (RESC)
+ Regional Laboratory Information Management System (RLIMS)
+ Regional Sample Control Center Database (RSCC)
+ Request WP (RWP)
+ Resource Conservation and Recovery Act Corrective Action Instruments (CAIC)
+ Resource Conservation and Recovery Act RC Document Tracking (RRDT)
+ RetrievalRefile Database
+ SAP Grant Projects (SAPGT)
+ Signal Database (SD)
+ SPILLS
+ State and Regional Training Database
+ Superfund Five Year Reviews and Closeout Reports
+ Superfund Oversight Billing Tracking (SOBTS)
+ Superfund Record Center Document Tracking (SRCDT)
+ Supply Tracking (ST)
+ System Inventory (SI)
+ Title V Tracking System (TITLEV)
+ Total Maximum Daily Load Tracking (TMDLT)
+ Total Maximum Daily Loads Handbook TC (TMDLH)
+ Training Course Registration Tracking (TCRT)
+ Transit Subsidy System (TSS)
+ Travel Voucher Tracking (TRVL1164)
+ UIC Field Inspectors Tracking System (UFITS)
+ User Identification Tracking System (IDTS)
+ Washington D.C. Manhole Explosion Tracking (DCMannhole)
+ Waste and Chemicals Management Division Caseload (WCMDC)
+ Waste and Chemicals Management Division Financial Tracking System (WCFTS)
+ Waste and Chemical Management Division Inspector Credentials (WIC)
+ Water Enforcement (WE)
+ Water Information Management System (WIMS)
+ Water Protection Division File Room System (WPDFR)
+ Water Protection Division Financial Tracking System (WPFTS)
+ Well Information Management System (WIMS)
+ Wetlands Enforcement Case Tracking (WECT)
+Region 4
+ Administrative Officers Tracking Plan (ADW)
+ Analytical Support Time Sheet Management
+ Budget Tracking System
+ Certified Mail Tracking (CTMAIL)
+ Compliance Activity Tracking System (CATS)
+ Conference Room Scheduler (CRSched)
+ Contract Lab Program Support System (CLPSS)
+ Data Management System (DMS)
+ EAD Attorney Hours Tracking (HOURS)
+ Equipment Tracking (EQP)
+ ESAT Tracking System
+ Facility Work Request Tracking (FACILITY)
+ Field Employee Training System (FETS)
+ Form SF50 Tracking (SF50trk)
+ Freedom of Information Management Act Administrative Costs Tracking System (FACTS)
+ GIS Project Tracking System (GPTS)
+ Grant Payment History Tracking System (GRANTS)
+ Information Center Equipment Scheduling System (INFOCEN)
+ Manpower and Staff Tracking (MSTrk)
+ Oversight Tracking System
+ Payroll Transmittal Log (TX)
+ Personnel Information Management System (PIMS)
+ Pesticide Enforcement Tracking (PET)
+ Phone Calling Card Tracking (PCTS)
+ Procurement Tracking (PRT)
+ PSD Log System (PSDL)
+ Purchase Request Tracking System (PRTS)
+ Records Series Tracking (RecSerTrk)
+ Regional Mailing Labels (LABELS)
+ Safety Tracking
+ Superfund Cost Recovery (SF)
+ Superfund Oversight Tracking (OVERSIGHT)
+ Superfund Quick Records Management System (SQUIRM)
+ Supply Ordering and Tracking (SUPPLY)
+ Transmittal Memo Log (TML)
+ Underground Storage Tank (USTE)
+ Vehicle Reserve and Tracking (VEHICLE)
+ Versatile Document Management System (VSSENT)
+ Virus Log (VLOG)
+ Wetlands Enforcement Tracking System
+ Wetlands Permit Regulatory Tracking System
+ Wireless Phone Tracking (WIRELESS)
+Region 5
+ 303(d) List
+ 404 Public Notice
+ Air and Radiation Division Correspondence Tracking (ARDCORRE)
+ Air and Radiation Division Significant Violators Tracking System (AIRSVL)
+ ARCS PRkt Tracking (ARCS)
+ Brownfields Proposal Management System (BPMS)
+ CBI On-line Training
+ Citizen Complaints Database
+ Citizen Complaints for WECA
+ Clean Air Act Confidential Business Information Database (CAA CBI DB)
+ Coal Tracker
+ Complaint Resolution System (CRSys)
+ Congressional Information System (CIS)
+ CSO SSO
+ Drinking Water Enforcement Action Tracking System (EATS)
+ Drinking Water Total Maximum Daily Load Tracking (DWTMDL)
+ Electronic Air Permits Online (EPERMITS)
+ Electronic Air Permits Online Global Warming (GLOBAL2)
+ Enforcement Action Response System (EARS)
+ Enforcement Tracking System (ETS)
+ Field Services Section Lab Tracking (FSS Lab)
+ Five Year Review Tracking (5yrReview)
+ Freedom of Information Management Act Log (R5FOIA)
+ GHG SEPs (GHG Mitigation Project Database)
+ GLI Administrative Record
+ Grants
+ Great Lake Committment Tracking
+ Great Lakes Initiative (GLI) Toxicity Data Clearinghouse
+ Great Lakes Project Tracking System (GLNPO_PTD)
+ GWDW Database
+ Health and Safety Section Training
+ Illinois Title V Air Permit Database (IL_PERMT)
+ Indiana Title V Air Permit Database (IN_PERMT)
+ Innovation Projects
+ Master Metals Tracking (MMT)
+ MaxiFlex 410
+ Michigan Title V Air Permit Database (MI_PERMT)
+ Michigan Wetlands Prog PN
+ New State Implementation Plans (NEWSIPS)
+ NPDES Admin Record
+ Ohio EPA Title V Air Permit Database (OH-TVPERMIT)
+ Oil Cost Document Tracking (OCDT)
+ Program Management and Information Section Training Database (PMIS)
+ PSR View Tracking (PSR)
+ Record Center Tracking (RCT)
+ Regional Methods Initiative Tracker (RMI Tracker)
+ Safe Drinking Water Information SystemState Version (SDWISState)
+ Site Assign Tracking (SAT)
+ Site Track Tracking (STT)
+ Slick Tracking (SlickT)
+ Superfund Billing Tracking System (BTS)
+ Superfund Division Database Tracker (SFD DB Track)
+ TMDL Tracking
+ TMDL Updates
+ Transit Subsidy Request
+ Travel Comp Time-Off
+ UIC Class V Database
+ UIC Deep Well Data Management System
+ UIC Deepwell Database
+ Water Division Assessment Strategy (WD SOP Tracking System)
+ Water Division Quality Assurance Tracking System (WDQA)
+ Water Program Consolidated Database
+ Water Quality Standards Tracking System (WQSTS)
+ Watershed Implementation Tracking
+ WD Current Activities
+ WD Hot IssuesSignificant Activity Reports
+ Well Tracking System for Underground Injection Control Program (WTsys)
+ Wetlands Enforcement Tracking
+ Wisconsin Air Emissions (WIEMISS2)
+ Wisconsin Title V Air Permit Database 2 (WISCON)
+ WW Accountability Database
+ WW Contract Deliverables
+Region 6
+ Archival Procedure for Controlled Correspondence (ARCHIVE)
+ Bank Card Log (BANKLOG)
+ Branch Calendar Template (BCT)
+ CAED Internal Application (CAEDINT)
+ CAED Transparency Openness Communications and Accountability Repository (CAED TOCAR)
+ Chemical Analysis Reporting System (CARS)
+ Consolidated Credential Database (CCD)
+ CONTROLS
+ Enforcement Actions Tracking System (EATS)
+ Federal Insecticide Fungicide and Rodenticide ActToxic Substance Control Act Tracking Systems (FFTS DB)
+ FIFRA Notice of Arrival (eNOA)
+ Grants Regional Image Processing System (GRIPS)
+ HAZTRAKS
+ HELPDESK
+ HR Turnover Tracker Template (HRTTT)
+ IT Training Reports (ITTR)
+ National Pollutant Discharge Elimination System (NPDES)
+ Personnel Property System (PPS)
+ QTRAK
+ Records Tracking System (RTS)
+ Registrar
+ Safe Drinking Water Information SystemState Version (SDWISState)
+ Secure
+ Security Investigation Tracking System (SITS)
+ SF-52 Tracking Template (SF52)
+ SITREP Template (SITREP)
+ State Legislative Sessions Template (SLST)
+ Supply Inventory and Distribution Ordering System (SIDOS)
+ TrackIT Help Desk Application (TRACKIT)
+Region 7
+ Accomplishments Tracking System (ATS)
+ ACT!
+ Air Compliance Complaint Database (ACCD)
+ Chemical Inventory System (CHiM-Vertere)
+ Contact Media Tracking System (CMTS)
+ Drycleaner Database (DryClndb)
+ Human Resources Applications System (HR MDI 8)
+ INFO Bank Card Request (INFO Bank Card)
+ Inspection Targeting Planning and Tracking Database (INSPTRA)
+ Inspection Tracking System (ITS)
+ Internal Copy Tracking System (ICTsys)
+ Labor and Sample Tracking (LAST)
+ Lead-Based Paint Compliance Database (LBP Compliance)
+ Pesticide Enforcement Tracking System (PETS)
+ Purchase Request (PR Tracking)
+ Quality Assurance Training Tracking System (QATTS)
+ Transit Subsidy
+ Vertere CHiM (CHIMR7)
+ Visual Help Desk (VHD)
+ Web Air Permits
+Region 8
+ Biosolids Database Management System (BDMS)
+ Brownfields Database
+ CHEMINV
+ Colorado Private Pesticide Applicators System (CPPAS)
+ Compliance Activity Tracking System (CATS)
+ Conference Room Scheduler
+ Consolidated Funding Process (CFP)
+ Environmental Information Service Center Call Log (EISC Call Log)
+ EPA Task Manager
+ Federally Enforceable State Implementation Plans (AirSIPs)
+ Geographic Information System (GIS2K1)
+ Geographic Information System Continuity of Operations Data (COOP1)
+ GIS Production Database
+ HealthSafety
+ Information Services Request (ISP Service)
+ IpMonitor
+ Laboratory Requests (LabReq)
+ Lead-based Paint Tracking System (LbPTsys)
+ Legal Enforcement Program Tracking System (LEPTRACK)
+ Libby Server System (Libby)
+ LogRhythm
+ Physical Access Control System
+ RCRA Enforcement Action Tracking System (REATS)
+ Regional Hearing Clerk Tracking System (RHCTS)
+ Safe Drinking Water Information SystemState Version (SDWISState)
+ Service Desk Management Tool
+ START Training Application
+ State and Regional Programs Branch - State Authorization Tracking System (STATS)
+ Superfund Site Identifer
+ TempMon
+ Title 5 Permit Tracking (Title5Permit)
+ TMDL Document Tracker
+ Underground Storage Tank (USTRAC (Permit)
+ Versatile Enterprise
+ Visual Help Desk (VHD)
+Region 9
+ Air Division Indian Team (ADIT)
+ Air Enforcement System (AES)
+ Air Pollution Control District Comment Letter Database (APCD Comment)
+ Electronic Permit Submittal System (EPSS)
+ Enforcement Support Tracking System
+ ERC Tracker (ERCTrk)
+ Federal Insecticide Fungicide and Rodenticide Act (FIFRA) Enforcement (FIFRA)
+ Graphics Requests (Graphics)
+ Helpline Tracking System
+ MACT Hammer on Notes 7 (MACT)
+ Oil Spill Prevention (OilSpill)
+ Permits Discussion Comb
+ Permits Office (PermitOffice)
+ Pesticide Applicator Certification (PAC)
+ Pesticide Episode Reports (PER)
+ Pesticide Issues (PestIssue)
+ Private Actions Public Good (PvtAction)
+ Publication Request Tracking System (PRT)
+ Quality Assurance Corrective Action (QACA)
+ Removal Data
+ Registrar Training Administration System (Registrar)
+ Release Profiles (Release)
+ Site Overview
+ Stationary Source Tracking System (SSTsys)
+ Stratospheric Ozone Protection (Ozone)
+ Superfund Guidance Review (SuperfundGuid)
+ Superfund R.C. Express LInk (SuperfundExpr)
+ Title 5 Applications Tracker (Title5)
+ Toxic Release Inventory (TRI) Enforcement Database (TRIdb)
+ Toxic Substances Control Act (TSCA) Database (TSCA)
+Region 10
+ Aquaculture Database (AQUA)
+ Automated TDD Generator System (ATGS)
+ Awards Tracking Worksheets (AWDTRK)
+ Bankcard Log (BANKCARD)
+ Bankcard Purchase Orders (BPO)
+ Congressional Correspondence Tracking System (CCTS)
+ Discharge Monitoring Report Tracking (DMR Tracking)
+ Diver Tracking System (DTS)
+ Enforcement Tracking System (ETS)
+ Environmental Management System
+ ESD Laboratory Service Request Tracking (ESD)
+ Essential Help Desk (EHD)
+ Federal Facilities Tracking System (FFTS)
+ FOIA Tracking System (FTS)
+ Grant Tracking System (GTS)
+ Grants Tracking (R10 GRANTRAC)
+ Help Desk Tracking System (HELP)
+ Inventory Management System (IMS)
+ Invoice Tracking System (ITS)
+ Lab Purchasing (LabPurch)
+ Library Circulation System (LCS)
+ Maxiflex - Region 10 (R10 Maxiflex)
+ National Pollutant Discharge Elimination System Compliance and Enforcement Program (NCEP)
+ National Pollutant Discharge Elimination System Compliance Unit Office Manager (NCU Office)
+ National Pollutant Discharge Elimination System File Track (NPDES)
+ Noncompliance Hotline (Noncompldb)
+ Office of Environmental Assistance Project Tracking (OEA Project)
+ Outreach Calendar (OutreachCal)
+ Personal Computer Support Task Tracking (PCSup)
+ Project Tracking (PT)
+ Regional Matter Tracking System (RMTS)
+ Regional User Management System (RUM)
+ Resource Conservation and Recovery Act Reports (RCRA Report)
+ Safe Drinking Water Information SystemState Version (SDWISState)
+ SF52 System (SF52)
+ Superfund Document Tracking System (SFDS)
+ Training Reservation System (TRS)
+ Tribal Grants Tracking (IGAP)
+ Web Help Desk
+ Work Request Tracking
+ Workplan Tracking (WPT)
+Electronic information systems with long-term or permanent retention such as EPA 0496 Air Quality System (AQS) are scheduled separately. Other disposable systems not requiring specific schedules have been categorized into this schedule or one of the other generic or big bucket schedules:
+ EPA 0062 - Laboratory Information Management Systems
+ EPA 0063 - Electronic Models and Expert Systems
+ EPA 0088 - Bibliographic and Reference Systems
+ EPA 0090 - Administrative Support Databases
+ EPA 0094 - Electronic Bulletin Boards
+ EPA 0096 - Data Standards and Registry Services
+ EPA 0098 - Data Marts and Data Warehouses
+Reasons for Disposition:
+The following change was made in the 12312015 version:
+ Revised name of Office of Solid Waste and Emergency Response to Office of Land and Emergency Management in guidance.
+The following change was made in the 11302015 version:
+ The NARA disposal authority and disposition instructions were revised to conform to GRS 4.1 item 010.
+The following changes were made in the 07312014 version:
+ Revised guidance.
+ Revised list of systems covered in guidance.
+The following changes were made in the 06302014 version:
+ Deleted cross reference to schedule 0179 which is covered by schedule 1012 item e.
+ Revised list of systems covered in guidance.
+The following changes were made in the 04302014 version:
+ Updated cross references in guidance.
+ Revised the list of systems covered in guidance.
+The following changes were made in the 02282014 version:
+ Updated cross references in guidance.
+ Revised list of systems covered in guidance.
+The following change was made in the 05312010 version:
+ Revised name of Office of International Affairs to Office of International and Tribal Affairs in guidance.
+The following change was made in the 04302010 version:
+ Revised name of Office of Prevention Pesticides and Toxic Substances to Office of Chemical Safety and Pollution Prevention in guidance.
+Conforms to GRS 23 item 8.
+Custodians:
+Multiple units
+Related Schedules:
+EPA 0062 EPA 0063 EPA 0088 EPA 0090 EPA 0094 EPA 0096 EPA 0098 EPA 1012
+Previous NARA Disposal Authority:
+GRS 2129 GRS 238
+Entry:09241992
+EPA Approval:10071993
+NARA Approval:08002015

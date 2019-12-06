@@ -1,0 +1,58 @@
+EPA Records Schedule 0041
+Status: Final 04302015
+Title: Clean Air Markets Division Business System (CAMDBS)
+Program: Air
+Applicability: Agency-wide
+Function: 108 - Environmental Management
+NARA Disposal Authority:
+ N1-412-05-8
+Description:
+The Clean Air Markets Division Business System (CAMDBS) is a set of interrelated systems operating against a single integrated database in the market-based emissions trading program i.e. the Acid Rain Program and the SIP Call126 program for ozone transport. It allows regulated entities to perform various reporting tasks directly online. CAMDBS streamlines certain business functions which were previously distributed redundantly in a variety of legacy systems. One of the main subsystems of CAMDBS is the Source Management System (SMS) which consolidates the numerous separate systems into a single inventory of related information. Other subsystems include: Allowance Management System (AMS) Emissions Collection and Monitoring Plan System (ECMPS) Compliance and Permit Tracking System (CPTS) and CAMD System Administration (CSA).
+CAMDBS replaces the following paper forms: allowance transfer form submission of forms identifying responsible parties annual compliance forms retired unit exemption forms and new unit exemption forms. It also replaces the following legacy systems: the Allowance Tracking System (ATS) the Emissions Tracking System (ETS) and the NOx Allowance Tracking System (NATS).
+Disposition Instructions:
+Item a: (Reserved)
+Item b: (Reserved)
+Item c: Electronic data - source management data
+NARA Disposal Authority: N1-412-05-8c
+ Permanent
+ Transfer to the National Archives annually as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time.
+Item d: Electronic data - allowance tracking data
+NARA Disposal Authority: N1-412-05-8d
+ Disposable
+ At the end of each major version change transfer current data sets to tape along with tape specifications and send to NTSD. Delete 20 years after transfer.
+Item e: Electronic data - emissions tracking data
+NARA Disposal Authority: N1-412-05-8e
+ Permanent
+ Transfer to the National Archives annually as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time.
+Item f: (Reserved)
+Item g: (Reserved)
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+The Allowance Tracking System has been expanded to include nitrogen oxides (NOx) allowances issued under the NOx Budget Program and for that programs use it is called the NOx Allowance Tracking System (NATS).
+Once a year ETS summarized emissions data is transferred to the Emissions Inventory System (EIS) which is scheduled as EPA 0002.
+Electronic software program - The electronic software program formerly item a is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. NARA regulations require the electronic records be retrievable and usable for as long as needed to conduct Agency business and meet NARA-approved disposition and is covered by schedule 1012 item e.
+Input - Input for the system formerly item b is covered by schedule 1012 item e.
+Output and reports - For disposition of output and reports formerly item f refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the later dates.
+System documentation - System documentation formerly item g including system development documentation is covered by EPA 1012 item a for permanent data and item e for disposable data.
+Reasons for Disposition:
+The following changes were made in the 04302015 version:
+ Updated cross references in guidance.
+The following changes were made in the 01312014 version:
+ Deleted items a b f and g which are covered by other schedules.
+ Updated guidance and contact information.
+The following changes were made in the 10312009 version:
+ Revised wording of disposition instructions for items a f and g.
+ Revised title of disposition item g.
+CAMDBS migrates two major legacy systems the Allowance Tracking System (ATS) (N1-412-99-101) and the Emissions Tracking System (ETS) (N1-412-99-102) to a new more open architecture permitting total electronic reporting. The retentions for the data in those two systems remain as previously approved.
+Custodians:
+Office of Air and Radiation Clean Air Markets Division
+ Contact: Paula Branch
+ Telephone: 202-343-9168
+Related Schedules:
+EPA 0002 EPA 1012
+Previous NARA Disposal Authority:
+N1-412-99-101 and 2
+Entry: 05242004
+EPA Approval: 04112005
+NARA Approval: 11012005

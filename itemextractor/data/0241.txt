@@ -1,0 +1,45 @@
+EPA Records Schedule 0241
+Status: Final 06302017
+Title: High Production Volume Information System (HPVIS)
+Program: Toxic Substances
+Applicability: Headquarters
+Function: 108 - Environmental Management
+NARA Disposal Authority:
+ N1-412-09-19
+Description:
+The High Production Volume Information System (HPVIS) provides access to health and environmental effect information obtained through the HPV Challenge Program which challenges companies to make data on chemicals produced or imported into the United States in quantities of one million pounds or more per year publicly available. The system allows users to search for summary information test plans and new data on high production volume chemicals as they are developed.
+Test data is voluntarily submitted to EPA by chemical manufacturers and trade associations. HPVIS submissions contain data on up to 50 endpoints organized into four disciplines: physicalchemical properties (e.g. melting point vapor pressure) environmental fate and pathways (e.g. biodegradation stability in soil) ecotoxicity (e.g. fish toxicity toxicity to aquatic plants) and mammalian health effects (e.g. reproductive toxicity developmental toxicity). HPVIS data is available on EPAs Internet site and users may search by either chemical name or CAS number. HPVIS also contains HPV Chemical Hazard Characterizations prepared during EPAs ongoing review of the health and environmental effects data as well as Risk-Based Prioritization documents prepared from EPAs examination of hazard and exposure information.
+Disposition Instructions:
+Item a: (Reserved)
+Item b: (Reserved)
+Item c: Electronic data
+The Office of Chemical Safety and Pollution Prevention Office of Pollution Prevention and Toxics Information Management Division at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-09-19c
+ Permanent
+ Transfer data in 2011 and every 5 years thereafter to the National Archives as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time.
+Item d: (Reserved)
+Item e: (Reserved)
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in electronic format only and is not media neutral. The format of the permanent records is specified in a records schedule approved by NARA and the electronic records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. The electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Electronic software program - The electronic software program formerly item a is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period. The electronic software program is covered by schedule 1012 item e.
+Input - Input formerly item b is covered by schedule 1012 item e.
+Output and reports - For disposition of output and reports formerly item d refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the later dates.
+System documentation - System documentation including system development documentation formerly item e refers to those records necessary to document how the system captures manipulates and outputs data. System documentation is transferred to the National Archives along with the electronic data. Disposition of system documentation is covered by schedule 1012 item a.
+Reasons for Disposition:
+The following changes were made in the 06302017 version:
+ Deleted items a b d and e since they are covered by other schedules.
+ Updated guidance and contact information.
+The following change was made in the 03312011 version:
+ Changed the disposition of the electronic data (item c) and system documentation (item e) to permanent.
+Custodians:
+Office of Chemical Safety and Pollution Prevention Office of Pollution Prevention and Toxics Information Management Division
+ Contact: Donald Frank
+ Telephone: 202-564-0302
+Related Schedules:
+EPA 1012
+Previous NARA Disposal Authority:
+None
+Entry: 05062009
+EPA Approval: 09162009
+NARA Approval: 03292011

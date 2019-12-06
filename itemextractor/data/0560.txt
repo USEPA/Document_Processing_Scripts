@@ -1,0 +1,35 @@
+EPA Records Schedule 0560
+Status: Final 12312013
+Title: Notifications of Personnel Actions - Standard Form 50
+Program: Personnel
+Applicability: Agency-wide
+Function: 403 - Human Resources Management
+NARA Disposal Authority:
+ General Records Schedule 114
+Description:
+Consists of Standard Form (SF) 50 documenting all individual personnel actions such as employment promotions transfers separation exclusive of the copy in the Official Personnel Folders.
+Disposition Instructions:
+Item a: Chronological file copies including fact sheets maintained in personnel offices
+NARA Disposal Authority: General Records Schedule 114a
+ Disposable
+ Destroy when 2 years old.
+Item b: All other copies maintained in personnel offices
+NARA Disposal Authority: General Records Schedule 114b
+ Disposable
+ Destroy when 1 year old.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Official Personnel Folders - Civilian are scheduled as EPA 0553. Agency Personnel Folders - Public Health Service Corps Commissioned Personnel are covered in EPA 0554 and Appointment Files as EPA 0557.
+Reasons for Disposition:
+Conforms to NARAs General Records Schedule 1 item 14.
+Item c for electronic mail and word processing system copies deleted 08222006 pursuant to NARA Bulletin 2006-04.
+Custodians:
+Multiple units
+Related Schedules:
+EPA 0553 EPA 0554 EPA 0557
+Previous NARA Disposal Authority:
+N1-412-75-47 NC1-412-85-2810
+Entry: 07301993
+EPA Approval: Not applicable
+NARA Approval: 12001998

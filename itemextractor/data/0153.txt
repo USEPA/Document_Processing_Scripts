@@ -1,0 +1,81 @@
+EPA Records Schedule 0153
+Status: Final 02282015
+Title: TRI Processing System (TRIPS)
+Program: Environmental Information
+Applicability: Agency-wide
+Function: 108 - Environmental Management
+NARA Disposal Authority:
+ N1-412-10-1 (Items a c d and f)
+ DAA-GRS-2013-0001-0001 (Item b)
+Description:
+The TRI Processing System (TRIPS) was established under the Emergency Planning and Community Right-To-Know Act of 1986 (EPCRA) and expanded by the Pollution Prevention Act of 1990. The inventory contains information on toxic chemical releases and other waste management activities reported annually by certain covered industry groups as well as federal facilities. Data include chemical identity amount of on-site users releases and off-site transfers including publicly-owned treatment works (POTWs) on-site treatment and minimizationprevention actions. Also contains data collected via EPA Form 9350-1 Toxic Chemical Release Inventory Reporting Form trade secret claims made by submitters and submissions received in both paper and electronic format. Output and reports are used by citizens and community organizations national organizations businesses and educational institutions as well as EPA. EPA uses the data for a wide variety of activities including targeting environmental problems compliance and enforcement and risk assessment.
+Disposition Instructions:
+Item a: Input - Electronic submissions with electronic signatures electronic data extracted from paper submissions and magnetic media submissions.
+This includes but is not limited to TRI-MEweb Central Data Exchange (CDX) and floppy 3.5 and compact disks. The Office of Environmental Information Office of Information Analysis and Access TRI Program Division is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-10-1a
+ Disposable
+ Close after information is entered into the electronic system and verified.
+ Delete when 5 years old.
+Item b: Input - Paper submissions
+The Office of Environmental Information Office of Information Analysis and Access TRI Program Division is responsible for the disposition of this item.
+NARA Disposal Authority: DAA-GRS-2013-0001-0001
+ Disposable
+ Close after information is entered into the electronic system and verified.
+ Destroy after file closure.
+Item c: Trade secret claims
+The Office of Environmental Information Office of Information Analysis and Access TRI Program Division is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-10-1c
+ Permanent
+ Close every 5 years.
+ Transfer to the National Archives when most recent record is 15 years old as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time. If any claims are submitted in electronic form produce a paper copy to serve as the record copy and delete the electronic copy when no longer needed.
+Item d: Trade secret claims - Tracking system (Automated Ledger Function (ALF))
+The Office of Environmental Information Office of Information Analysis and Access TRI Program Division is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-10-1d
+ Disposable
+ Delete when obsolete or no longer needed.
+Item e: (Reserved)
+Item f: TRIPS electronic data
+The Office of Environmental Information Office of Information Analysis and Access TRI Program Division is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-10-1f
+ Permanent
+ Transfer to the National Archives annually as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time.
+Item g: (Reserved)
+Item h: (Reserved)
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Electronic software program formerly item e - The electronic software program is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. NARA regulations require that electronic records be retrievable and usable for as long as needed to conduct Agency business and meet NARA-approved disposition. The electronic software program is covered by schedule 1012.
+Output and reports formerly item g - For disposition of output and reports refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the later disposition dates.
+System documentation formerly item h - System documentation consisting of file specifications for relational tables code books record layouts and other records necessary to describe the data transferred to the National Archives is permanent and covered by schedule 1012 item a.
+The Chemical Update System (CUS) is covered by schedule 0273. See schedule 0088 - Bibliographic and Reference Systems for the EPCRA Targeting System (ETS) and the TSCA Chemical Inventory File is covered by schedule 1035.
+Specific legal citations include:
+ SARA Title III - Emergency Planning and Community Right-To-Know Act of 1986 Section 313 42 U.S.C. 11023
+ Pollution Prevention Act of 1990 42 U.S.C. 13101 et seq.
+ 40 CFR Part 372
+Reasons for Disposition:
+The following change was made in the 02282015 version:
+ Updated GRS disposal authority for item b due to revision of NARAs General Records Schedule transmittal 23.
+The following changes were made in the 12312012 version:
+ Revised the disposition instructions for item b.
+ Deleted items e for electronic software program g for output and reports and h for system documentation and added them to guidance.
+The following changes were made in the 09302009 version:
+ Added file closure instructions to item a.
+ Revised retention for items a and b to 5 years.
+The following changes were made in the 06302008 version:
+ Revised title of schedule and disposition items e f g and h.
+ Revised wording of disposition item a.
+ Added wording about applicability for disposition items a-f and h.
+ Updated contact information.
+The 5-year retention for submissions has been changed to be consistent with the federal statute of limitations 28 U.S.C. 2462. The retention for the data in the TRI electronic system has not changed.
+Item i for electronic copies created with word processing and electronic mail applications was deleted 08162006 pursuant to NARA Bulletin 2006-04.
+Custodians:
+Office of Environmental Information Office of Information Analysis and Access TRI Program Division
+ Contact: Shane Knipschild
+ Telephone: 202-564-6189
+Related Schedules:
+EPA 0088 EPA 0273 EPA 1012
+Previous NARA Disposal Authority:
+NC1-412-88-319 N1-412-95-73 N1-412-04-11
+Entry: 01051993
+EPA Approval: 10052009
+NARA Approval: 01112010

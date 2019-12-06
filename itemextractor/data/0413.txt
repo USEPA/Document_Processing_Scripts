@@ -1,0 +1,78 @@
+EPA Records Schedule 0413
+[bookmark: _GoBack]Status: Final 07312018
+Title: SDWISOperational Data System (SDWISODS)
+Program: Water
+Applicability: Agency-wide
+Function: 108 - Environmental Management
+NARA Disposal Authority:
+ N1-412-03-6
+Description:
+The SDWISOperational Data System (SDWISODS) is a national database storing routine information which the Agency needs to monitor approximately 175000 public water systems (PWS) and their compliance with monitoring requirements maximum contaminant level (MCL) regulations and other requirements of the Safe Drinking Water Act Amendments of 1986 and 1996. On October 1 2005 a modernized version of SDWISFED replaced the legacy mainframe-based version. This new version is composed of several components notably the SDWISOperational Data System (SDWISODS) and the SDWIS Data Warehouse. The SDWISODS database receives processes and stores data from the states. The Data Warehouse extracts data from SDWISODS quarterly and makes it available for end user access. SDWISODS is not accessible to end users. The complete set of data from the legacy SDWISFED was copied over into SDWISODS.
+Information tracked includes: PWS ID number location (including city county) whether system is active or inactive the type of system (community non-transient non-community transient non-community) population served number of service connections water systems source of water primary source of drinking water past names dates of the most recent update whether or not the system is a significant non-complier service area characteristics longitude and latitude treatment data milestones for lead and copper and surface water treatment rules and unregulated monitoring data.
+Data is input by the states and used by EPA headquarters to provide required quarterly reports to other components of EPA and to satisfy external reporting requirements. It is also used by headquarters regional offices and states to perform oversight.
+The system contains compliance information from 1980 to present and relates follow-up actions to specific violations.
+Disposition Instructions:
+Item a: (Reserved)
+Item b: Input
+NARA Disposal Authority: N1-412-03-6b
+ Disposable
+ Close when data have been successfully transferred by the states and when data have been successfully tested.
+ Delete input after file closure.
+Item c(1): Electronic data - Excluding sensitive enforcement data and sensitive location data
+The Office of Water Office of Ground Water and Drinking Water Drinking Water Protection Division Infrastructure Branch at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-03-6c(1)
+ Permanent
+ Close when program is discontinued or system is terminated.
+ While system is in operation transfer data annually in January to the National Archives as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time. Transfer final data to the National Archives one year after system is closed.
+Item c(2): Electronic data - Enforcement data
+The Office of Water Office of Ground Water and Drinking Water Drinking Water Protection Division Infrastructure Branch at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-03-6c(2)
+ Permanent
+ Close when enforcement action is concluded and data have changed from sensitive to nonsensitive status.
+ While system is in operation transfer closed data annually in January to the National Archives as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time. Transfer final data to the National Archives one year after system is closed.
+Item c(3): Electronic data - Sensitive location data
+The Office of Water Office of Ground Water and Drinking Water Drinking Water Protection Division Infrastructure Branch at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-03-6c(3)
+ Permanent
+ Close when program is discontinued or system is terminated.
+ While system is in operation transfer data annually as Critical Infrastructure Information to the Department of Homeland Security. Transfer final data as Records of Concern restricted from access under Freedom of Information Act 5 U.S.C. 552 exemption (b)(2) to the National Archives as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time one year after system is closed.
+Item d: (Reserved)
+Item e: (Reserved)
+Guidance:
+Electronic software program - The electronic software program formerly item a is covered by EPA 1012 item e. The electronic software program is to be kept as long as needed to ensure access to and use of the SDWISODS electronic data throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. NARA regulations require that electronic records be retrievable and usable for as long as needed to conduct Agency business and meet NARA-approved disposition.
+Transfers of Nonsensitive Data while System is in Operation (items c(1) and c(2)) - Initial Transfer: Transfer data from January 1 1976 through compliance year ending September 30 2016. Subsequent Annual Transfers: In January transfer new data or changes to existing data through preceding compliance year ending September 30.
+Output and reports - For disposition of output and reports formerly item d refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule item applies follow the disposition instructions with the later dates.
+System documentation - System documentation formerly item e is covered by EPA 1012 item a for historically significant records necessary to document how the system captures manipulates and outputs data and includes software source code data systems specifications file specifications codebooks code translations record layouts user guides and output specifications.
+Media neutral - This schedule authorizes the disposition of the record copy in electronic format only and is not media neutral. The format of the permanent records is specified in a records schedule approved by NARA and the electronic records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. The electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+This system also covers the Long Term 2 Enhanced Surface Water Treatment (LT2) Rule Data Collection System (LT2ESWTR). LT2ESWTR contains cryptosporidium E. coli and turbidity data generated during the Long Term 2 monitoring program.
+Formerly known as the Federal Reporting Data System (FRDS) and Safe Drinking Water Information System - FED (SDWISFED).
+The Drinking Water Supply File is a component of the Reach File which is the responsibility of the U.S. Geological Survey. Drinking water management and direct implementation files are scheduled as EPA 1035 item c.
+Reasons for Disposition:
+The following changes were made in the 10312016 version:
+ Deleted item a - Electronic software program which is covered by EPA 1012 item e.
+ Updated wording of disposition instructions in item b - Input to conform to current style.
+ Deleted item c and replaced with items c(1) c(2) and c(3).
+ Deleted item d - Output and reports which is covered by other schedules as explained in the Guidance.
+ Deleted item e - System documentation which is covered by EPA 1012 item a.
+ Revised Guidance to include cutoff and transfer dates for Nonsensitive Data while System is in Operation.
+ Revised Guidance that the schedule is not media neutral because it covers electronic records only.
+ Updated references to Related Schedules.
+The following changes were made in the 04302009 version:
+ Added applicability to disposition items a c and e.
+ Revised wording for file closure and disposition instructions for item c.
+ Revised title of item e.
+ Revised guidance to include information on LT2ESWTR.
+ Updated contact information.
+This is a major system supporting operations required by statute and regulations for compliance and enforcement. In 1997 SDWISFED replaced the system known as the Federal Reporting Data System (FRDS). FRDS was previously appraised as permanent by the National Archives. SDWIS - States a counterpart to this system is scheduled as EPA 0089.
+Custodians:
+Office of Water Office of Ground Water and Drinking Water Drinking Water Protection Division Infrastructure Branch
+ Contact: Towana Dorsey
+ Telephone: 202-564-4099
+Related Schedules:
+EPA 0089 EPA 1035
+Previous NARA Disposal Authority:
+NC1-412-81-184
+Entry: 01041993
+EPA Approval: 11262002
+NARA Approval: 08282003

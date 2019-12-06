@@ -1,0 +1,86 @@
+EPA Records Schedule 0098
+Status: Final 12312015
+Title: Data Marts and Data Warehouses
+Program: All Programs
+Applicability: Agency-wide
+Function: 404 - Technology Management
+NARA Disposal Authority:
+ N1-412-09-8
+Description:
+Includes data marts and warehouses that are repositories of data copied or downloaded from other information systems at specific intervals. They provide easy access and facilitate analysis and reporting regardless of the datas source. They may contain data from databases as well as geographic information allowing data to be mapped.
+Disposition Instructions:
+Item a: (Reserved)
+Item b: (Reserved)
+Item c: Electronic data
+NARA Disposal Authority: N1-412-09-8c
+ Disposable
+ Delete data when superseded by next scheduled update or when system is discontinued or obsolete.
+Item d: (Reserved)
+Item e: (Reserved)
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+The offices responsible for the individual systems from which the data marts and warehouses are retrieved are responsible for the disposition of their data under their specific schedules.
+Electronic software program - The electronic software program is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. NARA regulations require the electronic records be retrievable and usable for as long as needed to conduct Agency business and meet NARA-approved disposition. The electronic software program is covered by schedule 1012 item e.
+Input - Input for the system is covered by schedule 1012 item e.
+Output and reports - For disposition of output and reports refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the later dates.
+System documentation - System documentation including system development documentation is covered by EPA 1012 item e.
+This schedule includes but is not limited to the following systems listed by headquarters program or regional office:
+Office of Administration and Resources Management
+ OARM Data Marts (ODM)
+Office of Air and Radiation
+ Air Quality System Data Mart (AQS Data MartAQSMart)
+ AIRQuest Data Warehouse (AIRQuest)
+Office of Chief Financial Officer
+ Administrative Data Mart (ADAM)
+ Administrative Data Warehouse (ADW)
+Office of Environmental Information
+ Envirofacts
+Office of Land and Emergency Management
+ Cleanups in My Community (CIMC)
+ Katrina Air Quality System (Katrina AQS)
+ Katrina Enviromapper (Katrina EM)
+ Katrina STORET)
+ Office of Solid Waste and Emergency Response Performance Assessment Tool (PAT)
+Electronic information systems with long-term or permanent retention such as schedule 0496 Air Quality System (AQS) are scheduled separately. Other disposable systems not requiring specific schedules have been categorized into this schedule or one of the other generic or big bucket schedules:
+ EPA 0063 - Electronic Models and Expert Systems
+ EPA 0088 - Bibliographic and Reference Systems
+ EPA 0089 - Information Tracking Systems
+ EPA 0090 - Administrative Support Databases
+ EPA 0094 - Electronic Bulletin Boards
+ EPA 0096 - Data Standards and Registry Services
+Electronic records not requiring their own schedules or covered in one of the big bucket schedules above may be segments or phases of information systems covered by schedule 1012 Information and Technology Management.
+Reasons for Disposition:
+The following change was made in the 12312015 version:
+ Revised the name of Office of Solid Waste and Emergency Response to Office of Land and Emergency Management in guidance.
+The following changes were made in the 07312014 version:
+ Deleted items a b d and e which are covered by other schedules.
+ Deleted cross reference to schedule 0179 which is covered by schedule 1012 item e.
+ Updated cross references.
+The following changes were made in the 04302009 version:
+ Revised title of disposition item e.
+ Revised list of systems covered in guidance.
+The following change was made in the 02282009 version:
+ Revised the schedule title.
+ Revised the disposition instructions for item b.
+The following changes were made in the 07312008 version:
+ Revised the schedule title and description.
+ Expanded applicability to all programs.
+ Revised guidance and reasons for disposition.
+The following change was made in the 04302008 version:
+ Revised disposition instructions for item b.
+The following changes were made in the 03312008 version:
+ Revised title of disposition item a.
+ Changed the disposition instructions for items a and b.
+ Added applicability to disposition items a c and e.
+ Revised title and disposition instructions for item e.
+This schedule was originally approved for Envirofacts as N1-412-00-1. It has been expanded to cover data marts and warehouses in all program and regional offices.
+Custodians:
+Multiple units
+Related Schedules:
+EPA 0063 EPA 0088 EPA 0089 EPA 0090 EPA 0094 EPA 0096 EPA 1012
+Previous NARA Disposal Authority:
+N1-412-00-1
+Entry: 08091995
+EPA Approval: 04172009
+NARA Approval: 07212009

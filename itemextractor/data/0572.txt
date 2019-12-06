@@ -1,0 +1,49 @@
+[bookmark: _GoBack]EPA Records Schedule 0572
+Status: Final 02282018
+Title: Employee Awards Files
+Program: Personnel
+Applicability: Agency-wide
+Function: 403 - Human Resources Management
+NARA Disposal Authority:
+ General Records Schedule 112
+Description:
+Files contain records related to employee awards.
+Disposition Instructions:
+Item a(1): General awards case files
+Includes recommendations approved nominations correspondence reports and related handbooks pertaining to Agency-sponsored cash and noncash awards such as incentive awards within-grade merit increases suggestions and outstanding performance.
+NARA Disposal Authority: General Records Schedule 112a(1)
+ Disposable
+ Destroy 2 years after approval or disapproval.
+Item a(2): General awards correspondence for awards from other federal agencies or non-federal organizations
+NARA Disposal Authority: General Records Schedule 112a(2)
+ Disposable
+ Destroy when 2 years old.
+Item b: Length of service and sick leave awards files
+Includes correspondence reports computations of service and sick leave and lists of awardees.
+NARA Disposal Authority: General Records Schedule 112b
+ Disposable
+ Destroy when 1 year old.
+Item c: Letters of commendation and appreciation
+Includes letters recognizing length of service and retirement and letters of appreciation and commendation for performance and excludes copies filed in the official personnel file (OPF).
+NARA Disposal Authority: General Records Schedule 112c
+ Disposable
+ Destroy when 2 years old.
+Item d: Lists of or indexes to Agency award nominations
+NARA Disposal Authority: General Records Schedule 112d
+ Disposable
+ Destroy when superseded or obsolete.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Incentive awards program reports are scheduled as EPA 0574.
+Reasons for Disposition:
+Disposition conforms to the General Records Schedule 1 item 12.
+Item e for electronic mail and word processing system copies deleted 08232006 pursuant to NARA Bulletin 2006-04.
+Custodians:
+Multiple units
+Related Schedules:
+Previous NARA Disposal Authority:
+NC-412-75-410a NC1-412-85-2813a
+Entry: 11172000
+EPA Approval: Not applicable
+NARA Approval: 12001998

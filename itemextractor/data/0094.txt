@@ -1,0 +1,97 @@
+EPA Records Schedule 0094
+Status: Final 11302016
+Title: Electronic Bulletin Boards
+Program: All Programs
+Applicability: Agency-wide
+Function: 305 - Public Affairs
+NARA Disposal Authority:
+ N1-412-96-11
+Description:
+Includes a broad range of systems used to provide ready user-friendly access to frequently used information in a public forum format. Announcements and messages can be posted and read by any user. Information may be drawn from Agency databases publicly available sources or a combination of sources. Also includes other types of on-line dialogue including chat rooms discussion forums blogs wikis listservs Lotus Notes Teamrooms and QuickPlace.
+Information is brought together to simplify access and provide specialized support for specific information needs. Often used to distribute software programs models or text files.
+Disposition Instructions:
+Item a: (Reserved)
+Item b: (Reserved)
+Item c: Electronic data
+NARA Disposal Authority: N1-412-96-11c
+ Disposable
+ Delete when no longer needed.
+Item d: (Reserved)
+Item e: (Reserved)
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in electronic format only and is not media neutral. The electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Substantive information which meets the definition of an Agency record and is disseminated via a bulletin board or other on-line system must be documented in an Agency recordkeeping system and retained in accordance with approved records schedules. If the bulletin board information is unique and not documented elsewhere a separate records schedule is required.
+Electronic software program - The electronic software program is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. NARA regulations require the electronic records be retrievable and usable for as long as needed to conduct Agency business and meet NARA-approved disposition. The electronic software program is covered by schedule 1012 item e.
+Input - Input for the system is covered by schedule 1012 item e.
+Output and reports - For disposition of output and reports refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the later dates.
+System documentation - System documentation including system development documentation is covered by EPA 1012 item e.
+This schedule includes but is not limited to the following systems listed by headquarters or regional office:
+Office of the Administrator
+ Flow of the River
+ Greenversations
+ Lean Manufacturing
+ Office of Homeland Security (OHS) Teamroom (OHS-TR)
+Office of Administration and Resources Management
+ Office of Environmental Justice Bulletin Board System (OEJ BBS)
+Office of Air and Radiation
+ Control Technology Center (CTC)
+ EPA Model Clearinghouse
+ Management and Accountability Process System (MAPS)
+ Technology Transfer Network (TTN)
+Office of Environmental Information
+ AMIGEOSS Knowledge Management Environment (ASKME)
+Office of General Counsel
+ E-discovery QuickPlace
+Office of Land and Emergency Management
+ Clean-Up Information Bulletin Board System (CLU-IN)
+ RCRA Financial Assurance System (RCRA FAS)
+Office of Research and Development
+ Center for Exposure Assessment Modeling Electronic Bulletin Board System (CEAM BBS)
+ Office of Research and Development Electronic Bulletin Board System (ORD BBS)
+Office of Water
+ EPA Decentralized Wastewater Management Web-Based Discussion Forum
+ Nonpoint Source (NPS) Electronic Bulletin Board
+ Nonpoint Source Pollution Info (NPSInfo)
+Region 3
+ IndicatorsOutcomes
+ ISB Team Room (ITR)
+ Office of Watersheds Team Room (OW-TR)
+ Water Protection Division Front Office Team Room (WPDFOT)
+Region 7
+ Bulletin Board (Bulletin Boa)
+Region 9
+ Air Toxics Team Database (ATTdb)
+Other disposable systems not requiring specific schedules have been categorized into this schedule or one of the other generic or big bucket schedules:
+ EPA 0063 - Electronic Models and Expert Systems
+ EPA 0088 - Bibliographic and Reference Systems
+ EPA 0089 - Information Tracking Systems
+ EPA 0090 - Administrative Support Databases
+ EPA 0096 - Data Standards and Registry Services
+ EPA 0098 - Data Marts and Data Warehouses
+Electronic records not requiring their own schedules or covered in one of the big bucket schedules above may be segments or phases of information systems covered by schedule 1012 Information and Technology Management.
+Reasons for Disposition:
+The following change was made in the 11302016 version:
+ Revised the media neutral paragraph in Guidance to state that this schedule is not media neutral and covers the electronic format only.
+The following change was made in the 12312015 version:
+ Revised the name of Office of Solid Waste and Emergency Response to Office of Land and Emergency Management in guidance.
+The following changes were made in the 07312014 version:
+ Deleted items a b d and e which are covered by other schedules.
+ Deleted cross reference to schedule 0179 which is covered by schedule 1012 item e.
+The following changes were made in the 04302008 version:
+ Revised title of disposition item a.
+ Revised the description.
+ Revised disposition instructions for item b.
+ Reorganized guidance.
+The following changes were made in the 03312008 version:
+ Changed the disposition instructions for items a and b.
+ Revised the title and wording of the disposition instructions in item e.
+Bulletin boards are used as a means to disseminate information captured in other places. Bulletin boards and Web sites with unique information are scheduled separately.
+Custodians:
+Multiple units
+Related Schedules:
+EPA 0063 EPA 0088 EPA 0089 EPA 0090 EPA 0096 EPA 0098 EPA 1012
+Previous NARA Disposal Authority:
+Entry: 02171994
+EPA Approval: 04281995
+NARA Approval: 01201999

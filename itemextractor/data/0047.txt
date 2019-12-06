@@ -1,0 +1,73 @@
+EPA Records Schedule 0047
+Status: Final 12312015
+Title: System for Risk Management Plans (SRMP)
+Program: Emergency Prevention Preparedness and Response
+Applicability: Agency-wide
+Function: 108 - Environmental Management
+NARA Disposal Authority:
+ N1-412-05-2
+Description:
+The System for Risk Management Plans (SRMP) is a major application system hosted within the EPA Central Data Exchange (CDX). SRMP is composed of multiple subsystems that process display maintain and report risk management plan information submitted by facilities in accordance with the Clean Air Act (CAA) Section 112(r). RMP regulated facilities are to develop risk management programs which will prevent and minimize consequences of accidental releases of certain hazardous chemicals that could harm public health and the environment.
+Facilities submit RMPs every five years or more frequently per 40 CFR Part 68. RMPs consist of the submitters registration an executive summary providing a description of the submitters activities as they relate to covered processes and program elements graphics files that supplement required textual information and data elements that address compliance with each of the rule elements.
+The SRMP major application system is comprised of the following subsystems.
+RMPeSubmit online software enables facilities to prepare validate certify and submit RMPs to EPA in a secure electronic format. This application may also be used by the RMP Reporting Center to electronically enter RMPs that were submitted by facilities to EPA in paper format and to generate associated notification letters.
+RMPAdministration includes the database in which RMPs are stored and various utilities for: entering tracking information for RMP-related mail maintaining RMP Datasets maintaining users who may download the datasets via RMP Download Dataset maintaining RMPInfo users generating management reports maintaining EPA Facility IDs and de-registering facilities and marking facilities administratively closed.
+RMPInfo provides authorized users (known as covered persons) with the ability to query view and print RMPs and generate RMP-related reports. A non-sensitive version of the application (RMPInfo) allows users to view RMP data with the sensitive Offsite Consequence Analysis (OCA) data redacted. RMPInfo OCA allows covered persons to view all RMP data fields.
+RMPReview enables users to analyze complete RMPs including the processing data added at the RMP Reporting Center and audit and user-defined-field data that they enter. Non-covered persons can use RMPReview with the sensitive data omitted. RMPReview is the only RMP subsystem that is still implemented as a standalone desktop application (MS Access).
+RMPComp is used by facilities to calculate worse case and alternative release scenarios for flammable and toxic substances. This application is publicly accessible without a login.
+RMP Download Dataset is used by covered persons to electronically download RMP Datasets. These datasets may be viewed by users using MS Access or the RMPReview application.
+RMPREPORT is a data flow that was created in 2015 to support secure RMP data exchange to EPA-approved nodes. This flow was deployed to the production environment in the summer of 2015.
+The RMPs as originally submitted to EPA and records for carrying out the RMP program by the implementing agencies are scheduled separately. Electronic copies of submitted RMP information (including all RMP sections the Executive Summary and graphics) are maintained in the RMPAdministration database.
+Output and reports from the system are used by EPA other federal agencies states and local government officials including emergency personnel industry academia the media and the public. EPA uses the data for risk assessment compliance emergency response analysis of national trends in accident prevention and chemical process safety vulnerability analysis and related activities. Other federal agencies as well as state and local governments have turned to the database for counterterrorism analysis and other activities.
+Disposition Instructions:
+Item a: (Reserved)
+Item b: (Reserved)
+Item c: RMPAdministration electronic data
+NARA Disposal Authority: N1-412-05-2c
+ Permanent
+ Close file when program discontinued or no longer needed for current agency business whichever is longer.
+ Transfer the data to the National Archives after file closure as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time.
+Item d: (Reserved)
+Item e: (Reserved)
+Item f: (Reserved)
+Item g: All other electronic data
+NARA Disposal Authority: N1-412-05-2g
+ Disposable
+ Close file when superseded.
+ Delete after file closure.
+Item h: (Reserved)
+Item i: (Reserved)
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII) offsite consequence analysis (OCA)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+OLEM headquarters through the RMP Reporting Center is responsible for the original RMPs that were submitted on diskdiskette or in paper format and data in the CDX as well as the record copy of all software and software documentation. The implementing agencies will manage the records they use for implementing the program etc. The original RMPs which may have been submitted by facilities and the RMP implementation-related records managed by the implementing agencies are all covered by schedule 1035 item c. By default EPA regions are the RMP implementing agencies.
+States can choose to take delegation of this program and if so they become the implementing agency. If the state is the implementing agency they are responsible for the program records. Records related to EPA oversight of the state program are covered by schedule 1016 item c.
+Electronic software program - The electronic software program formerly item a is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. NARA regulations require that electronic records be retrievable and usable for as long as needed to conduct agency business and to meet NARA-approved disposition and is covered by schedule 1012 item e.
+Input - Input formerly item b is covered by schedule 1012 item e.
+RMPAdministration - Item c for RMPAdministration includes the Executive Summary (formerly RMPMaintain Executive Summary) the electronic data (formerly item d) RMPMaintain data) and the graphics (formerly item e RMPMaintain Graphics). Data formerly contained in RMPMaintain has been migrated to the RMP database that is currently in use.
+RMPReview audit and user-defined data - Recipients of the data can use RMPReviewAdmin to enter audit and user-defined data formerly item f into their databases and are therefore responsible for the management of it.
+Output and reports - For disposition of output and reports formerly item h refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the later date.
+System documentation - Supporting or system documentation including system development documentation formerly item i refers to those records necessary to document how the system captures manipulates and outputs data. System documentation is transferred to the National Archives along with the electronic data. Disposition of system documentation is covered by schedule 1012 item a.
+Related schedules - The CDX is covered by schedule 0097.
+Reasons for Disposition:
+The following changes were made in the 11302015 version:
+ Revised the schedule description.
+ Deleted items a b h and i which are covered by other schedules.
+ Combined items d and e into item c and revised the disposition instructions.
+ Deleted item f since the audit and user-defined data are the responsibility of the users.
+ Revised guidance.
+The following change was made in the 01312014 version:
+ Revised function code.
+The following change was made in the 11302009 version:
+ Revised title of disposition item i.
+SRMP is a vehicle for facilities to submit RMPs to the implementing agency and also serves as a national repository of data on hazard assessments. The system maintains the RMPs for on-going analysis. June 20th is the anniversary date for the first submission of RMPs in 1999.
+Custodians:
+Office of Land and Emergency Management Office of Emergency Management
+ Contact: Margaret Gerardin
+ Telephone: 202-564-2491
+Related Schedules:
+EPA 1012 EPA 1016 EPA 1035
+Previous NARA Disposal Authority:
+Entry: 03171997
+EPA Approval: 09152004
+NARA Approval: 02092005

@@ -1,0 +1,30 @@
+EPA Records Schedule 0760
+Status:Final 01312018
+Title:Legacy Email
+Program:All Programs
+Applicability:Agency-wide
+Function:401 - Administrative Management
+NARA Disposal Authority:
+ DAA-0412-2017-0003-0001
+[bookmark: _GoBack]Description:
+This schedule covers senders and recipients versions of electronic mail messages and any attachments to the messages maintained in the legacy email system. It also covers available functions of the email program such as calendarsappointments task lists (to do lists) and chat. The format is Lotus Notes using version 8.53 and includes the incoming and outgoing emails from all EPA employees from approximately 1998 through December 31 2006. Emails are duplicative of records maintained elsewhere with the records to which they relate. EPA used a traditional records management print and file policy prior to adoption of the Enterprise Content Management System (ECMS).
+Disposition Instructions:
+Item a:Legacy email
+NARA Disposal Authority: DAA-0412-2017-0003-0001
+ Disposable
+ Close file after NARA approval.
+ Delete after file closure.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in electronic format only and is not media neutral. The electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site.
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Reasons for Disposition:
+EPA plans to adopt NARAs Capstone approach for managing email. The previous EPA email records schedule 165 was based on NARAs General Records Schedule (GRS) 20 item 14 and instructed users to delete the email from the email system after the email record was copied to a recordkeeping system.
+Custodians:
+Multiple units
+Related Schedules:
+EPA 0759
+Previous NARA Disposal Authority:
+General Records Schedule 2014
+Entry:05022017
+EPA Approval:07072017
+NARA Approval:12212017

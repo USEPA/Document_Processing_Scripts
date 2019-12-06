@@ -1,0 +1,125 @@
+EPA Records Schedule 1012
+Status: Final 11302016
+Title: Information and Technology Management
+Program: Information and Technology Management
+Applicability: Agency-wide
+Function: 404 - Technology Management
+NARA Disposal Authority:
+ DAA-0412-2013-0009-0001 (Item a)
+ DAA-0412-2013-0009-0002 (Item b)
+ DAA-0412-2013-0009-0003 (Item c)
+ DAA-0412-2013-0009-0004 (Item d)
+ DAA-0412-2013-0009-0005 (Item e)
+ DAA-GRS-2013-0001-0002 (Item f)
+Description:
+This schedule covers records related to the coordination of information and technology (IT) resources and systems required to support or provide a service. Includes: system development activities associated with the design and development of software applications life cycle and change management processes system maintenance activities for software applications IT infrastructure maintenance to support automated needs (i.e. platforms networks servers printers etc.) information systems security functions to protect information and information systems as well as the creation and implementation of security policies procedures and controls.
+Excludes: individual IT systems (e.g. AQS Bulletins Live) which must be scheduled separately.
+Disposition Instructions:
+Item a: Historically significant IT management records
+Includes but is not limited to:
+ Information Board of Directors records related to the development of EPA information technology and information governance consisting of meeting records including agendas talking papers reports summaries or minutes of meetings and related records and
+ System documentation for permanent electronic records consisting of data system specifications file specifications codebooks record layouts user guides output specifications and final reports relating to a master file database or other electronic records that are scheduled for permanent retention.
+NARA Disposal Authority: DAA-0412-2013-0009-0001
+ Permanent
+ Close input and source documents and system documentation when system data is transferred to the National Archives and QIC records at the end of the calendar year.
+ Transfer system documentation to the National Archives with the related electronic file. Transfer other electronic records to the National Archives 5 years after file closure. Transfer non-electronic records to the National Archives 15 years after file closure.
+Item b: IT implementation and compliance records
+Includes but is not limited to:
+ Chief Information Officer (CIO) committee records (e.g. CIO Strategic Advisory Committee formerly the Quality and Information Council) consisting of records maintained by committees boards task forces conferences or other IT advisory governing or policy bodies for which the CIO has designed sponsorship leadership or recordkeeping responsibilities (excluding the Information Board of Directors which is covered by item a) and including meeting minutes summaries agendas transcripts reports studies publications membership records correspondence and related records
+ Enterprise architecture records consisting of records identifying the IT systems and networks required to perform the Agencys mission and the transitional processes required to implement comprehensive programs to support that mission including technical reference manuals diagrams graphics and narratives that describe the Agencys baseline architecture target architecture and related sequencing plans
+ IT capital investment records documenting the IT investments with Agency-wide strategic planning budgeting procurement and management including routine and periodic reports on IT capital investments capital asset plans business cases for major investments identified in the Agencys capital investment portfolio and clearance and review records
+ IT infrastructure design and implementation files for projects that are implemented
+ IT program planning records related to the development of Agency IT programs including Agency-wide IT goals specific milestones to be achieved performance measures for the IT portfolio strategic and tactical plans documenting the implementation and maintenance of IT systems in support of the Agency mission:
+ Records documenting compliance with federal information resources management (IRM) laws and regulations (e.g. Section 508 of the Rehabilitation Act) mandates of the Office of Management and Budget (OMB) General Accountability Office (GAO) and other federal information management oversight agencies EPA IT policies directives and plans including performance measurements and benchmarks certification and accreditation of equipment quality assurance reviews and reports reports on implementation of plans compliance reviews and data measuring or estimating impact and compliance
+ System development records for systems that are implemented including project proposals feasibility studies cost analyses requirements documents and documentation of planning decision making designing programming testing evaluation and problem solving (excluding system development records for environmental models and systems used for regulatory decision making) and
+ User identification profiles authorizations and password files for systems containing information that may be needed for audit or investigative purposes and those that contain classified records.
+NARA Disposal Authority: DAA-0412-2013-0009-0002
+ Disposable
+ Close at end of calendar year or when superseded by a new iteration or no longer needed for investigative or security purposes whichever is later or when system is terminated defunded removed from public access or otherwise does not serve the original purpose.
+ Destroy 7 years after file closure.
+Item c: Routine IT management records
+Includes but is not limited to:
+ Computer security incidents reporting and follow-up activities including reports of Web site defacement security hacks break-ins and failures improper usage by staff and virus threats
+ Facility site management and equipment support services files identifying IT facilities and sites site visit reports trouble reports equipment service histories reports of follow-up actions
+ Financing of IT resources and services including agreements formalizing performance criteria for quantity and quality of service files related to managing third-party services identification and allocation of charges and tracking of payments for computer usage data processing and other IT services
+ General files related to communications and telecommunications equipment requests for installation changes and service telephone use or call detail records
+ Installation and testing records
+ IT maintenance asset management performance and capacity management system management configuration and change management planning follow-up and impact assessment of operational networks and systems routine maintenance on the network infrastructure documenting preventative corrective adaptive and perfective (enhancement) maintenance actions including requests for service work orders service histories
+ Reports on operations including benchmarks performance indicators critical success factors and exception reporting self-assessments performance monitoring and management reports and
+ System development records for systems that are not implemented including project proposals feasibility studies cost analyses and requirements documents.
+NARA Disposal Authority: DAA-0412-2013-0009-0003
+ Disposable
+ Close when activity or project completed or when superseded or obsolete.
+ Destroy 3 years after file closure.
+Item d: Short-term IT management records
+Includes but is not limited to:
+ IT infrastructure design and implementation files for projects that are not implemented:
+ IT system implementation and change management including performance and capacity management system management configuration and change management planning follow-up and impact assessment of operational networks and systems
+ Short-term asset and configuration records including inventories of IT assets network circuits and building or circuitry diagrams
+ Short-term IT operations records including workload schedules run reports schedules of maintenance and support activities problem reports customer service files help desk logs and reports telecommunications statistical reports
+ System security plans and disaster recovery plans risk assessments actions to mitigate risks test files and data and
+ Telecommunications operational files such as message registers and logs performance reports daily load reports.
+NARA Disposal Authority: DAA-0412-2013-0009-0004
+ Disposable
+ Close when superseded updated replaced or no longer needed for current agency business.
+ Destroy 1 year after file closure.
+Item e: Transitory IT management records
+Includes but is not limited to:
+ Data files consisting of summarized or aggregated information and data files consisting of records extracted from a single database that are approved as disposable
+ Derived data that provide user access in lieu of hard copy reports that are authorized for disposal and metadata or reference data such as format range or domain specifications
+ Downloaded and copied data including derived data used for ad hoc or one-time inspection analysis or review if the derived data is not needed to support the results of the inspection analysis or review
+ Electronic files or records created solely to test and monitor system performance including log-in files password files audit trail files system usage files
+ Electronic files or records used to create or update a database or master file
+ Electronic software programs (excluding electronic software programs scheduled for permanent retention in the General Records Schedule (GRS) or in a NARA-approved agency schedule)
+ Input and source records in electronic format entered into a system during an update process and not required for audit and legal purposes and electronic records received from another agency and used as inputsource records by EPA (excluding records produced by another agency under the terms of an interagency agreement or records created by another agency in response to the specific information needs of the receiving agency) input and source records in hard copy format not covered elsewhere in this schedule computer files or records containing uncalibrated and unvalidated digital or analog data collected during observation or measurement activities or research and development programs and used as input for digital master file or database
+ Print files extracted from a database without changing it and used solely to produce hard copy
+ System and security backups and tape library records
+ System documentation for electronic records that are scheduled for destruction in the GRS or in a NARA-approved agency schedule including data systems specifications file specifications codebooks record layouts user guides output specifications and final reports relating to a master file database or other electronic records (excluding system documentation for electronic records that are scheduled for permanent retention)
+ Technical reformat files of data copied from a complete or partial master file or database made for the specific purpose of information interchange and written with varying technical specifications (excluding files created for transfer to the National Archives and
+ User identification profiles authorizations and passwords for routine systems.
+NARA Disposal Authority: DAA-0412-2013-0009-0005
+ Disposable
+ Close when superseded updated replaced or no longer needed for current agency business.
+ Destroy immediately after file closure.
+Item f: Hardcopy or analog input and source records previously scheduled as permanent
+Includes hardcopy or analog input and source records previously scheduled as permanent that are used to create update or modify electronic records and whose content is incorporated in its entirety into an electronic system in accordance with NARAs electronic records standards (see exclusions in Guidance).
+NARA Disposal Authority: DAA-GRS-2013-0001-0002
+ Disposable
+ Close 60 days after submitting notification to NARA per 36 CFR 1225.24(a)(1) and verification of successful conversion.
+ Destroy immediately after file closure.
+Guidance:
+This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in this schedule. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+IT infrastructure - IT infrastructure refers to the basic systems and services used to supply staff with access to computers and data telecommunications. Components include hardware such as printers computers network and Web servers routers hubs and network cabling as well as software such as operating systems (e.g. Microsoft Windows and Novell NetWare) and shared applications (e.g. electronic mail word processing and database programs). The services necessary to design implement test validate and maintain components are also considered part of the IT structure. Records related to specific electronic systems that support or document mission goals (e.g. schedule 0027 ICIS) are covered by the individual schedules for those systems.
+Electronic software programs - Electronic software programs are to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. NARA regulations require that electronic records be retrievable and usable for as long as needed to conduct agency business and meet NARA-approved disposition. Examples of software covered by this schedule include Air Explorer Tool (AirExplorer) eDiscovery Service Tier2 Submit and EPA Dashboard formerly covered by EPA 0179 and GRS 2010.
+System development records - System development records for environmental models and systems used for regulatory decision making may warrant permanent preservation and should follow the records schedule for the activity supported by the system (e.g. schedule 1023 for rulemaking records).
+Electronic system data - The electronic data for an electronic system is covered by the system-specific records schedule (e.g. schedule 0027 ICIS) or one of the generic or big bucket system schedules (e.g. schedule 0063 electronic models and expert systems).
+Input for electronic systems - Input and source records for an electronic system that is produced by another agency under the terms of an interagency agreement or records created by another agency in response to the specific information needs of EPA must be included in the disposition instructions for the specific system schedule. In cases where hard copy documents that contain information that is not or cannot be captured in the electronic version of the records (e.g. certain handwritten annotations) including those scanned into an electronic recordkeeping system follow the records schedule for the activity supported by the system.
+Output and reports for electronic systems - Output and reports for electronic systems are covered by the applicable records schedule for the activity supported by the input and reports.
+Hardcopy or analog input and source records previously scheduled as temporary (item e) - As authorized by GRS 4.3010 temporary records may be destroyed after they have been converted to scanned images and reviewed for quality.
+Hardcopy or analog input and source records previously scheduled as permanent (item f) - Per GRS 4.3011 exclusions to the disposition instructions for item f include: hardcopy or analog input and source records that NARA has specifically designated as permanent records that must be transferred to NARA in hardcopy format or hardcopy records when the electronic versions do not meet NARAs electronic records standards or hardcopy records that are not incorporated in their entirety into an electronic system or original hardcopy still pictures graphic materialsposters aerial film maps plans charts sound recordings motion picture film or video recordings. In these cases the records are covered by the previously approved schedule.
+Copies of permanent electronic records transferred to the National Archives - The copy of permanent electronic records transferred to the National Archives (previously scheduled as schedule 0188a(3)) maintained by the submitting office until they are notified by NARA that the transfer is successful is a nonrecord (schedule 0008 item a) and can be deleted when no longer needed.
+Reasons for Disposition:
+The following changes were made in the 11302016 version:
+ Revised item a to include the Information Board of Directors.
+ Revised item b to include the CIO Strategic Advisory Committee.
+ Revised guidance to include hardcopy or analog input and source records previously scheduled as temporary and destruction of paper records after scanning.
+ Revised guidance to include GRS reference for hardcopy and source input and source records previously scheduled as permanent.
+The following change was made in the 11302015 version:
+ Deleted first bullet in item a for hardcopy or analog input and source records previously scheduled as permanent and moved it to Guidance.
+The following change was made in the 09302015 version:
+ Revised the first bullet in item a and added item f to conform to General Records Schedule (GRS) 4.3.
+The following changes were made in the 10312014 version:
+ Moved from draft to final status and added NARA approval date.
+The following changes were made in the 06302014 version:
+ Revised disposition instructions for item a.
+ Revised title of disposition item e.
+This schedule combines and consolidates previously approved EPA and GRS schedule items.
+Custodians:
+Multiple units
+Related Schedules:
+Previous NARA Disposal Authority:
+Previous NARA disposal authorities can be found at: http:intranet.epa.govrecordsscheduleconsolidationfiles1012_Information_technology_management_crosswalk.docx.
+Entry: 04192011
+EPA Approval: 05072013
+NARA Approval: 10032014

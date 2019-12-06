@@ -1,0 +1,75 @@
+EPA Records Schedule 0744
+Status: Final 12312013
+Title: Beach Advisory and Closing On-line Notification (BEACON)
+Program: Water
+Applicability: Agency-wide with exceptions
+Function: 108 - Environmental Management
+NARA Disposal Authority:
+ N1-412-09-18
+Description:
+The Beach Advisory and Closing On-line Notification (BEACON) is an electronic system that receives and displays nonrecord copies of state beach water quality and swimming advisory data. The Beaches Environmental Assessment and Coastal Health Act of 2000 requires EPA to collect store and maintain a public right-to-know pollution occurrence database on state designated coastal recreation waters. These record copies are stored in the Program Tracking Advisories Water Quality Standards and Nutrients (PRAWN) database.
+State agencies send beach data via EPAs Central Data Exchange (CDX). Input for the system flows through the Electronic Beaches Environmental Assessment and Coastal Health (eBeaches) system and includes: (1) monitoring and station location information from the Water Quality Exchange (WQX) and STORET (2) notification data flows from the Program tracking Beach Advisory Water quality standard and Nutrient database (PRAWN) and (3) beach location data from the Reach Address Database (RAD). BEACON was formerly known as the National Health Beach Survey (NHBS).
+Excludes: STORET (including WQX) scheduled as EPA 400 Reach (including RAD) which is the responsibility of the United States Geological Survey and PRAWN which is scheduled separately.
+Disposition Instructions:
+Item a: Electronic software program
+The Office of Water Standards and Health Protection Division at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-09-18a
+ Disposable
+ Close when no longer needed to ensure access to and use of the electronic records throughout the authorized retention period.
+ Destroy after file closure.
+Item b: Input
+NARA Disposal Authority: N1-412-09-18b
+ Disposable
+ Close when information has been transferred to the master file and verified.
+ Delete after file closure.
+Item c: Electronic data
+The Office of Water Standards and Health Protection Division at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: N1-412-09-18c
+ Disposable
+ Close when program is discontinued or system is terminated.
+ Delete after file closure.
+Item d: Output and reports
+NARA Disposal Authority: Varies
+ Varies
+ File with related records and follow instructions for the related records.
+Item e: System documentation
+The Office of Water Standards and Health Protection Division at Headquarters is responsible for the disposition of this item.
+NARA Disposal Authority: DAA-0412-2013-0009
+ Disposable
+ Follow instructions for schedule 1012.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+See EPA 0097 for CDX EPA 0400 for STORET and EPA 0753 for PRAWN.
+Reasons for Disposition:
+The following changes were made in the 11302010 version:
+ Revised the description.
+ Added cross reference to EPA 0753 for PRAWN.
+ Updated contact information.
+The following change was made in the 01312010 version:
+ Updated the systems excluded in the description and cross references in the guidance.
+The following change was made in the 06302009 version:
+ Removed file closure instructions for item e.
+The following changes were made in the 04302009 version:
+ Removed reference to WebRIT from description since it has been decommissioned.
+ Revised file closure instructions for item c.
+ Added file closure instructions to item e.
+The following changes were made in the 05312008 version:
+ Revised wording about applicability for disposition items a c and e.
+ Deleted file closure instructions and revised wording of disposition instructions for item e.
+The following changes were made in the 03312008 version:
+ Removed statement that PRAWN is scheduled as 0089 since it is covered by this schedule. (Note: As of 11302010 PRAWN is being rescheduled as EPA 0753.)
+ Added file closure instructions and revised the disposition instructions for items a b c and e.
+ Revised the title of disposition item e.
+Retention meets EPAs program needs.
+Custodians:
+Office of Water Office of Science and Technology Standards and Health Protection Division
+ Contact: Bill Kramer
+ Telephone: 202-566-0385
+Related Schedules:
+EPA 0097 EPA 0400 EPA 0753 EPA 1012
+Previous NARA Disposal Authority:
+None
+Entry: 01042008
+EPA Approval: 09012009
+NARA Approval: 12212010

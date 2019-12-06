@@ -1,0 +1,55 @@
+W
+astewater Security:
+An Operators Perspective
+In 2002 Congress passed the Public Health Security and Bioterrorism
+Preparedness and Response Act (Public Law 107-188) commonly referred
+to as the Bioterrorism Act or BT Act. The BT Act required certain drinking
+water systems to conduct a vulnerability assessment (VA) and update or
+create an emergency response plan (ERP).
+Although wastewater systems
+are not currently required to comply with the BT Act Congress is giving the
+matter consideration.
+The U.S. Environmental Protection Agency strongly
+encourages wastewater systems to assess their vulnerabilities and use the
+findings to update or develop an emergency response plan.
+Through interviews with real-life wastewater system operators and manager
+this program reveals why it is important for wastewater systems to be
+prepared to handle emergencies. The program highlights:
+real life examples of security incidents at wastewater systems
+the six basic steps of a vulnerability assessment
+some software tools available to help small systems complete the
+VA and ERP
+the core elements of an ERP and
+the need to practice and revise the completed ERP regularly.
+After viewing the program the wastewater system should:
+know the basic steps involved in preparing a vulnerability assessment
+know enough about a vulnerability assessment to ask informed questions
+if they need assistance from EPA Regional Offices State Agencies third
+party providers or other resources
+know the core elements of an ERP
+understand the decision making process involved in activation of an ERP
+and
+recognize the importance of practicing the ERP and keeping it updated.
+Should you have any security related questions contact EPAs Water 
+Wastewater Security Division at:
+202-564-3779 or visit our website at:
+http:cfpub.epa.govsafewaterwatersecurityindex.cfm
+Should you have a security related emergency
+contact the local authorities by dialing 911
+call the National Emergency Operations Center at:
+202-564-3850.
+
+
+
+
+
+
+
+
+
+
+1.
+2.
+Wastewater Security:
+An Operators
+Perspective

@@ -1,0 +1,67 @@
+EPA Records Schedule 0575
+Status: Final 12312013
+Title: Grants Information and Control System (GICS)
+Program: Grants
+Applicability: Agency-wide
+Function: 205 - Federal Financial Assistance
+NARA Disposal Authority:
+ N1-412-00-4
+Description:
+The Grants Information and Control System (GICS) is a national information management system containing administrative project and financial data for all EPAs grants interagency agreements and cooperative agreements. The system has the following components:
+Municipal construction grants program - Provides information on wastewater treatment grant applications and active construction grant projects.
+State revolving fund (SRF) program - Tracks federal funding provided to the states.
+Non-construction grants program - Contains any programs nonconstruction grants information including Superfund Pesticides and Research and Development.
+Information is entered by headquarters regions or states. Input data includes data from automated systems. The system offers a customized data entry module report writer look-up tables batch capabilities and an online dictionary.
+GICS will be replaced by the Integrated Grants Management System (IGMS).
+Disposition Instructions:
+Item a: Electronic software program
+This item is to be used only by the Office of Administration and Resources Management at Headquarters.
+NARA Disposal Authority: N1-412-00-4a
+ Disposable
+ Destroy when no longer needed to ensure access to and use of the electronic records throughout the authorized retention period.
+Item b: Input
+NARA Disposal Authority: DAA-0412-2013-0009
+ Disposable
+ Follow instructions for schedule 1012.
+Item c: Electronic data
+This item is to be used only by the Office of Administration and Resources Management at Headquarters.
+NARA Disposal Authority: N1-412-00-4c
+ Disposable
+ Maintain individual records at least 7 years after completion of grant or agreement then delete when no longer needed.
+Item d: Output and reports
+NARA Disposal Authority: Varies
+ Varies
+ File with related records and follow instructions for the related records.
+Item e: System documentation
+This item is to be used only by the Office of Administration and Resources Management at Headquarters.
+NARA Disposal Authority: DAA-0412-2013-0009
+ Disposable
+ Follow instructions for schedule 1012.
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+The Grants Administration Division with the assistance of the Enterprise Systems Division of the Office of Administration and Resources Management is responsible for implementing the disposition of items a c and e. All related records held in other offices should be destroyed according to instructions for items b and d.
+Ad hoc and monthly reports needed to document program management should be included in program management files covered by schedule 1006 otherwise they may be destroyed when no longer needed.
+Grant records for programs other than Superfund are covered by schedule 1003 and Superfund site specific as schedule 1036. Waste Water Construction and State Revolving Fund Grants are covered by 1003.
+The replacement system IGMS will be a paperless administrative system. Phase 1 includes development and deployment of the modules of the Partnership 2000 (P2000) project to States. Phase 2 includes development and deployment of modules for post award management and closeout integration with IFMS and development of a replacement database for GICS. Phase 3 integrates IGMS with the government-wide electronic grant application system links grants with environmental goals and results and extends electronic commerce to tribes and other grantees.
+Reasons for Disposition:
+The following change was made in the 07312008 version:
+ Moved statement about destruction of ad hoc and monthly reports from disposition item d to guidance.
+The following changes were made in the 04302008 version:
+ Revised disposition instructions for items a b and e.
+ Added appllicability to disposition items a c and e.
+ Revised title of disposition item e.
+This national system is used by headquarters regions and states to administer and monitor grants. It is used for program planning and oversight project tracking and management and information reporting. Proposed retention will meet all audit and litigation documentation purposes. The paper records scheduled separately are disposable.
+Custodians:
+Office of Administration and Resources Management Grants Administration Division
+ Contact: Kathleen Herrin
+ Telephone: 202-564-5346
+Office of Administration and Resources Management Enterprise Systems Division
+ Contact: Betty McClaugherty
+ Telephone: 202-260-5398
+Related Schedules:
+EPA 1003 EPA 1006 EPA 1012 EPA 1036
+Previous NARA Disposal Authority:
+Entry: 08101993
+EPA Approval: 11141995
+NARA Approval: 04272000

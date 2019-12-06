@@ -1,0 +1,94 @@
+EPA Records Schedule 0738
+Status: Final 07312017
+Title: Audiovisual Records
+Program: All Programs
+Applicability: Agency-wide
+Function: 401 - Administrative Management
+NARA Disposal Authority:
+ General Records Schedule 212 (item b)
+ General Records Schedule 2111 (item i)
+ General Records Schedule 2118 (item n)
+ General Records Schedule 2122 (item q)
+ General Records Schedule 2123 (item r)
+Description:
+Consists of audiovisual and related records created by or for EPA as well as those acquired in the course of business. Audiovisual records include still images sound recordings moving images and graphic arts. Related documentation includes (1) production files or other files documenting the creation justification ownership and rights to the records and (2) finding aids used to identify or access the records.
+Excludes: Audiovisual records related to EPAs environmental missions that are covered by specific mission-related schedules (e.g. photographs related to Superfund site-specific cleanup activities) audiovisuals received as contract or other deliverables covered by schedules for the content (e.g. 1006 Administrative Management 1035 Environmental Programs and Projects and 1036 Environmental Programs and Projects - Site-Specific) audiovisuals used for training covered by schedule 1029 and audiovisuals used for public affairs activities covered by schedule 1022.
+Disposition Instructions:
+Item a: (Reserved)
+Item b: Still photography - Personnel identification or passport photographs
+NARA Disposal Authority: General Records Schedule 212
+ Disposable
+ Destroy when 5 years old or when superseded or obsolete whichever is later.
+Item c: (Reserved)
+Item d: (Reserved)
+Item e: (Reserved)
+Item f: (Reserved)
+Item g: (Reserved)
+Item h: (Reserved)
+Item i: Motion pictures - Routine surveillance footage
+NARA Disposal Authority: General Records Schedule 2111
+ Disposable
+ Destroy when 6 months old.
+Item j: (Reserved)
+Item k: (Reserved)
+Item l: (Reserved)
+Item m: (Reserved)
+Item n: Video recordings - Routine surveillance recordings
+NARA Disposal Authority: General Records Schedule 2118
+ Disposable
+ Destroy when 6 months old.
+Item o: (Reserved)
+Item p: (Reserved)
+Item q: Audio recordings - Recordings of meetings made exclusively for note taking or transcription
+NARA Disposal Authority: General Records Schedule 2122
+ Disposable
+ Destroy immediately after use.
+Item r: Audio recordings - Dictation belts or tapes
+NARA Disposal Authority: General Records Schedule 2123
+ Disposable
+ Destroy immediately after use.
+Item s: (Reserved)
+Item t: (Reserved)
+Item u: (Reserved)
+Item v: (Reserved)
+Guidance:
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+NARA standards for managing audiovisual records - NARAs standards for managing audiovisual records are found at 36 CFR 1237.
+Disposition
+ The organization responsible for producing or acquiring the audiovisuals maintains the record copy and implements the disposition. All other copies may be destroyed when no longer needed.
+ In cases where an item has been deleted from this schedule the audiovisuals are covered by the records schedule for the activity supported by the audiovisuals (e.g. audiovisuals for an enforcement case are covered by schedule 1044 Compliance and Enforcement).
+Related schedules
+ If audiovisuals are maintained separately from the records they support and they are related to EPAs environmental missions (e.g. enforcement actions site cleanups etc.) they must be linked to the appropriate file (e.g. cross reference in the case file and notation on the audiovisual label) and dispositioned according to the instructions for the records they support.
+ Collections of audiovisuals supporting EPAs environmental missions and not covered by existing schedules must be scheduled separately. Training audiovisuals are covered by schedule 1029. Audiovisuals used for public affairs purposes are covered by schedule 1022.
+Reasons for Disposition:
+The following change was made in the 07312017 version:
+ Added guidance about items deleted from the schedule.
+The following changes were made in the 04302017 version:
+ Deleted items a c d e f g h k l m p s t and u to conform to GRS 2.6 and 6.4 transmittal no. 27 issued January 2017.
+ Updated guidance and cross references.
+The following changes were made in the 11302016 version:
+ Deleted items j and o since they were rescinded in GRS transmittal no. 26 issued September 2016.
+The following changes were made in the 11302015 version:
+ Deleted item v - Related documentation - Finding aids to conform to GRS revision and added a reference to schedule 0089 in guidance.
+Conforms to NARAs General Records Schedule 21.
+The following EPA schedules were deleted and combined into this schedule:
+ EPA 0708 - Routine Photographs and Slides. See item a.
+ EPA 0713 - Audiovisual Finding Aids and Related Documentation. See items u and v.
+ EPA 0714 - Viewgraphs. See item d.
+ EPA 0717 - Routine Surveillance Motion Pictures. See item i.
+ EPA 0718 - Routine Scientific Medical or Engineering Motion Pictures. See item j.
+ EPA 0721 - Routine Meeting and Award Presentation Videos. See item p.
+ EPA 0723 - Internal Management News or Information Videos. See item p.
+ EPA 0726 - Videos Acquired from Outside Sources. See item k.
+ EPA 0727 - Sound Recordings of Meetings for Notetaking or Transcription. See item q.
+ EPA 0728 - Pre-Mix Sound Recording Elements. See item s.
+ EPA 0729 - Daily or Spot News Sound Recordings. See item t.
+Custodians:
+Multiple units
+Related Schedules:
+EPA 1022 EPA 1029
+Previous NARA Disposal Authority:
+NC1-412-83-1I3 NC1-412-83-1II1 N1-412-06-66
+Entry: 08242006
+EPA Approval: Not applicable
+NARA Approval: 01002017

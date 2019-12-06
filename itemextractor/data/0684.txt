@@ -1,0 +1,54 @@
+EPA Records Schedule 0684
+Status: Final 04302016
+Title: Criminal Case Reporting System (CCRS)
+Program: Enforcement and Compliance Assurance
+Applicability: Agency-wide
+Function: 108 - Environmental Management
+NARA Disposal Authority:
+ N1-412-09-10
+Description:
+The Criminal Case Reporting System (CCRS) maintains information pertaining to individuals and companies associated with the Criminal Investigation Divisions criminal leads and cases as well as other information related to the conduct of criminal investigations. The information collected in CCRS includes investigative activity reports investigative summary reports subject information and sentencing information. The information is obtained as a result of various investigative activities including tips complaints interviews surveillance records review evidence collection and analysis and judicial action. The data is used to document the progress and results of criminal investigations.
+Disposition Instructions:
+Item a: (Reserved)
+Item b: (Reserved)
+Item c: Electronic data
+This item is to be used only by the Office of Enforcement and Compliance Assurance Criminal Investigation Division.
+NARA Disposal Authority: N1-412-09-10c
+ Permanent
+ Transfer data annually to the National Archives as specified in 36 CFR 1235.44-1235.50 or standards applicable at the time.
+Item d: (Reserved)
+Item e: (Reserved)
+Guidance:
+Media neutral - This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality.
+Electronic software program - The electronic software program formerly item a is to be kept as long as needed to ensure access to and use of the electronic records throughout the authorized retention period to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. NARA regulations require that electronic records be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition. The electronic software program is covered by EPA 1012 Information and Technology Management item a.
+Input - Input formerly item b is covered by schedule 1012 item e.
+Output and reports - For disposition of output and reports formerly item d refer to the records schedule for the activity supported by the output and reports. Follow the disposition instructions for the applicable records schedule item. If more than one records schedule or item applies follow the disposition instructions with the later dates.
+System documentation - System documentation including system development documentation formerly item e refers to those records necessary to document how the system captures manipulates and outputs data. System documentation is transferred to the National Archives along with the electronic data. Disposition of system documentation is covered by schedule 1012 item a.
+CCRS replaced the Criminal Docket System (CRIMDOCK) in 2006. Criminal enforcement counsel records criminal investigation records and enforcement actions are covered by schedule 1044 except for site-specific records which are covered by schedule 1036.
+Access to CCRS data is restricted to OECA Office of Criminal Enforcement Forensics and Training (OCEFT) employees and Regional Criminal Enforcement Counsels (RCECs).
+Collection of CCRS information is inherent to CIDs investigative responsibilities as mandated by Title 18 United States Code Section 3063 (18 USC 3063) enacted under Public Law 100-582.
+Reasons for Disposition:
+The following changes were made in the 04302016 version:
+ Deleted items a b d and e which are covered by other schedules.
+ Revised guidance cross references and contact information.
+The following changes were made in the 09302008 version:
+ Revised schedule title and description.
+ Updated contact information.
+ Revised guidance and reasons for disposition.
+The following changes were made in the 04302008 version:
+ Revised disposition instructions for items a and b.
+ Added applicability to disposition items a c and e.
+ Revised title of disposition item e.
+Disposition previously approved by the National Archives.
+Custodians:
+Office of Enforcement and Compliance Assurance Criminal Investigation Division
+ Contact: Matthew Shepherd
+ Telephone: 202-564-1164
+Related Schedules:
+EPA 1012 EPA 1036 EPA 1044
+Previous NARA Disposal Authority:
+NC1-412-81-132
+Entry: 11021993
+EPA Approval: 05142009
+NARA Approval: 08172009

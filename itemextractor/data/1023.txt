@@ -1,0 +1,83 @@
+EPA Records Schedule 1023
+Status: Final 04302017
+Title: Regulatory Development and Implementation and Dockets
+Program: All Programs
+Applicability: Agency-wide
+Function: 306 - Regulatory Development
+NARA Disposal Authority:
+ DAA-0412-2013-0010-0001 (Item a)
+ DAA-0412-2013-0010-0002 (Item b)
+ DAA-0412-2013-0010-0003 (Item c)
+ DAA-0412-2013-0010-0004 (Item d)
+Description:
+This schedule covers records related to the activities associated with developing amending or repealing regulations policies and guidance to implement law. This includes but is not limited to: rulemaking policy and guidance development to assist in the interpretation and implementation of regulations public comments regarding proposed and final rules rule publication of proposed and final rules in the Federal Register and Code of Federal Regulations. It also covers general nonrulemaking dockets and Federal Register notices used to provide information to and ask for comments from the public for nonrulemaking activities.
+Disposition Instructions:
+Item a: Final rulemakings and related development and implementation records
+Includes but is not limited to:
+ Substantial rulemaking records that receive intense public or media attention or congressional scrutiny set legal precedents relate to major historical events or are involved in extensive litigation including published or to be published regulations standards and guidelines including public and internal comments Office of Management and Budget (OMB) comments hearing transcripts meeting minutes workgroup records background documents regulatory impact analyses under Executive Order 12866 and other technical support material (e.g. risk assessments scientific reports) generated during the process to develop and approve the regulation standard or guideline including all documents that make up the final regulatory docket and administrative record
+ Designation petitions for sole source aquifers as authorized by section 1424(e) of the Safe Drinking Water Act of 1974 consisting of petitions information released to the public public notices hearing documentation correspondence memoranda of understanding narratives maps engineering reports comments from the public and related records
+ Directives and policy guidance documents issued by programs and regions providing the mandates for overall and specific program direction and action to assist with the implementation of regulations including official policy decisions delegations of authority memos setting policy or issuing guidance operating guidance procedures manuals technical resource documents related background materials and similar records that may be in the form of a program directives system or a program compendium
+ Petitions to issue amend or repeal a rule (e.g. Toxic Substances Control Act as amended Section 21 citizens petitions) or an order consisting of records of EPA action taken in response to a petition determinations to grant or deny the petition and substantiate the decision which could result in an issuance of a new rule amendment to an existing rule or repeal of an existing rule
+ State and other entity program authorization and approval files consisting of records that document the process for authorizing operation of a program by states and other entities in lieu of a federal program including applications with background and supporting documentation correspondence copies of statutes and regulations interim authorizations documentation of public participation activities documents related to EPAs review and determination of the program development of enforcement and environmental standards as well as authorization withdrawals as they apply to the initial program authorization and subsequent revisions and
+ State tribal and federal implementation plans (SIPs TIPs and FIPs) consisting of records documenting the process for approving plans for the attainment and maintenance of national ambient air quality standards for certain criteria pollutants in a given area under section 110 of the Clean Air Act (CAA) including plans establishing emission standards to control designated pollutants upon EPA publication of final emission guidelines for designated facilities in accordance with section 111(d) of the CAA amendments correspondence copies of statutes and regulations documentation of public participation activities EPAs review and determination of the program technical support documents Federal Register notices action memoranda communications strategies public comments review forms records related to the inspection and maintenance programs required by implementation plans and related records.
+NARA Disposal Authority: DAA-0412-2013-0010-0001
+ Permanent
+ Close at end of calendar year or upon completion of action.
+ Transfer to the National Archives 15 years after file closure.
+Item b: General dockets and nonsubstantial rulemaking records
+Includes:
+ Nonsubstantial rulemaking records that have not met the threshold for substantial rulemaking records covered in item a and
+ General dockets containing documents not directly related to EPAs regulations that are made available for public review and often associated public comments.
+NARA Disposal Authority: DAA-0412-2013-0010-0002
+ Disposable
+ Close at end of calendar year or upon completion of action.
+ Destroy 20 years after file closure.
+Item c: Nonfinal rulemakings and state standards records
+Includes but is not limited to:
+ Directives and policy guidance documents that are not issued or released to the public
+ Nonfinal regulations standards and guidelines including public and internal comments OMB comments hearing transcripts meeting minutes background documents and other technical support material generated during the development and approval process
+ Records related to the development of enforcement and environmental standards by states and territories and submitted to EPA for review and approval consisting of letters requesting legal interpretation and opinions copies of state acts or programs regional office reviews and comments technical reviews and related records and
+ Rulemaking committees and workgroup materials for nonfinal regulations including meeting records organizing charters reports and related records.
+NARA Disposal Authority: DAA-0412-2013-0010-0003
+ Disposable
+ Close at end of calendar year or upon completion of action.
+ Destroy 10 years after file closure.
+Item d: Other regulatory development and implementation records
+Includes but is not limited to:
+ Federal Register notices that are not maintained in a docket
+ Information Collection Requests (ICR) and Information Collection Budgets (ICB) submitted to OMB and Congress including reports responses to OMBs request for information supporting statements OMB forms correspondence statistics comments and other records relating to the justification of the information collection and its approval by EPA and OMB and
+ Transportation plans developed to achieve national ambient air quality consisting of transportation control plans that become part of SIPs conformity determinations studies and related records.
+NARA Disposal Authority: DAA-0412-2013-0010-0004
+ Disposable
+ Close at end of calendar year or upon completion of action.
+ Destroy 5 years after file closure.
+Guidance:
+Media neutral  This schedule authorizes the disposition of the record copy in any media (media neutral). However if the format (e.g. electronic) of permanent records is specified in a records schedule approved by NARA the records are to be transferred to the National Archives in accordance with NARA standards at the time of transfer. If the record copy is created in electronic format or digitized (e.g. imaged) and maintained electronically (e.g. Data on Aquatic Resources Tracking for Effective Regulation (DARTER) maintained in the Office of Water) the electronic records must be retrievable and usable for as long as needed to conduct Agency business and to meet NARA-approved disposition to comply with 36 CFR Sections 1236.10 1236.12 1236.14 and 1236.20. Retention and disposition requirements for the various components of electronic systems (e.g. software input output system documentation) are covered in schedule 1012 Information and Technology Management. In addition to 36 CFR 1236 see Basic Requirements of an Electronic Recordkeeping System at EPA on the EPA records intranet site [http:intranet.epa.govrecordstoolserks.html].
+Federal Docket Management System - Additional information on creating maintaining and properly managing records including file closures for final and non-final rulemakings in the Federal Docket Management System (FDMS) is provided in EPAs Procedures for Electronic Management of Rulemaking and Other Docketed Records in the Federal Docket Management System. Records related to the Office of Environmental Informations (OEIs) operation of FDMS are covered by schedule 0152.
+Sensitive information - When records are due for destruction according to the disposition instructions records containing sensitive information (e.g. confidential business information (CBI) personally identifiable information (PII)) must be shredded or otherwise definitively destroyed to protect confidentiality except in the case of information that is submitted to EPA where the submitter is notified that it will be posted publicly and the submitter has no expectation of privacy.
+Final rulemakings and related development and implementation records - The issuing office is responsible for overseeing the implementation of the disposition instructions determining whether a rulemaking is substantial (item a) or nonsubstantial (item b) and ensuring that a permanent record is maintained for substantial rulemakings. The official set of these records must include those items specified in the Administrative Procedure Act (APA) and other statutory requirements (e.g. Clean Air Act) and are to be sufficiently complete so that they can serve as the administrative record if necessary. The issuing office determines what background materials and drafts are necessary to fully document the development of the rulemaking or other Agency action. Working papers with no significant information and information copies maintained by offices other than the issuing office should be destroyed in accordance with EPA 0008 when no longer needed for current Agency business. The issuing office is also responsible for implementing the disposition instructions for rulemaking committees.
+State and other entity authorizations  The record copy of state and other entity authorizations is held by the EPA headquarters or regional office responsible for issuing the authorization to the state or other entity. This responsibility varies by statute and the level of authorization but primarily authorization is the responsibility of the regional office. Also known as primacy files in the water program. Draft applications may be destroyed after approval of the final application.
+State tribal and federal implementation plans - Draft SIPs TIPs and FIPs may be destroyed after approval of the final plan.
+Site-specific and permit administrative records  Superfund site-specific administrative records are covered by EPA 1036 and administrative records for permits are covered by schedule 1047.
+Compliance and enforcement records  Records supporting EPAs compliance and enforcement activities (e.g. monitoring reports annual air quality data reports) are covered by schedule 1044.
+Cited sources  Copies of published material cited in a report or similar document do not need to be included as part of the official record if they are publicly available. If the cited material is available on a website the citation must include the specific website address (e.g. http:www.epa.gov...) and the date the material was accessed. If however the website material is critical to support the decision conclusion recommendation or guidance provided in the document the material must be filed in the recordkeeping system with the report or document if possible.
+Permanent electronic records transferred to the National Archives - The copy of permanent electronic records transferred to the National Archives (previously scheduled as EPA 0007a(3) EPA 0149a(3) EPA 0204a(3) EPA 0212a(3) EPA 0217a(3) EPA 260a(3) EPA 0294a(3) EPA 0296a(3) EPA 0332a(3) EPA 0412a(3) EPA 0412c(3) EPA 0412d(3) EPA 0486a(3) EPA 0518a(3)) maintained by the submitting office until they are notified by NARA that the transfer is successful is a nonrecord (EPA 0008 item a) and can be deleted when no longer needed.
+Reasons for Disposition:
+The following change was made in the 04302017 version:
+ Added wording from predecessor schedule 007 to third bullet of item a.
+The following changes were made in the 02292016 version:
+ Reorganized bullets in items a and b.
+The following changes were made in the 11302015 version:
+ Divided rulemaking records into item a for substantial rulemaking records and item b for nonsubstantial rulemaking records.
+The following change was made in the 02282014 version:
+ Revised list of schedule items in paragraph in Guidance related to permanent electronic records transferred to the National Archives.
+This schedule combines and consolidates previously approved EPA schedule items.
+Custodians:
+Multiple units
+Related Schedules:
+EPA 0008 EPA 0152 EPA 1036 EPA 1044 EPA 1047
+Previous NARA Disposal Authority:
+Previous NARA disposal authorities can be found at: http:intranet.epa.govrecordsscheduleconsolidationfiles1023_Regulatory_Developmen_crosswalk.docx.
+Entry: 10172011
+EPA Approval: 07022013
+NARA Approval: 03022016
