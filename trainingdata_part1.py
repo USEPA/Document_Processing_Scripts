@@ -27,6 +27,7 @@ for filename in qq:
             # copyfile(filename, copypath+recordid+'\\'+file)
             shutil.move(filename, copypath+recordid+'\\'+file)  
     # For ezEmail, if file is in the pdf folder extract record ID from begining of filename
+        continue
     if 'attachment' in filename:
         print(file.rsplit( ".", 1)[0].rsplit('_')[0])
         recordid = file.rsplit( ".", 1)[0].rsplit('_')[0]
@@ -36,6 +37,7 @@ for filename in qq:
             # copyfile(filename, copypath+recordid+'\\'+file)
             shutil.move(filename, copypath+recordid+'\\'+file)
     # For ezDesktop records grab the record at the root of the LAN ID folder
+        continue
     if 'desktop' in filename:
         print(file.rsplit( ".", 1)[0].rsplit('_', 1)[1])
         recordid = file.rsplit( ".", 1)[0].rsplit('_', 1)[1]
@@ -44,4 +46,5 @@ for filename in qq:
         if recordid in filename:
             # copyfile(filename, copypath+recordid+'\\'+file)
             shutil.move(filename, copypath+recordid+'\\'+file)
+        continue
 
