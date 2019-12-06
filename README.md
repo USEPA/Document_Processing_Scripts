@@ -1,5 +1,6 @@
 # ERMD Document Processing Scripts
 
+# Categorized Training Data
 ###### This is a guide for how to download and then process categorized documents from ECMS. To prepare the documents for a machine learning model the files need to have text extracted and saved into a txt file within a folder with a record schedule as the folder name.
 
 1. Records from Documentum are downloaded as a zip file using the Documentum API. The filename contains the Object ID. To download records from Documentum use the following script: **Dctmdl.py**.
@@ -19,7 +20,7 @@
 2) Run extractitem.py which extracts item description from text files containing the full record schedule details into a spreadsheet. 
 3) Run excel-itemdescription.py to create the appropriate text files from the extracted item descriptions<br />
 
-# Training Data
+# Uncategorized Training Data
 ###### The following set of scripts are used to process exported records from ECMS that are uncategorized and prepare them for categorization. These records will ultimatly be saved to our training dataset once categorized.
 **trainingdata_part1.py** - this script moves the files into the appropriate folder named by record schedule id. This sets up the files for manual categorization.<br />
 **trainingdata_part2.py** - this script moves the files into the appropriate folder named by record schedule based on the results of manual categorization. This script also extract the text using tika services and converts the files to txt format for ingestion into the ML model.
