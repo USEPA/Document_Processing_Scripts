@@ -7,11 +7,6 @@
 2. To unzip all of the records and create folders with the correct record schedule names use **Unzip_Rename.py**. This script is capable of crosswalking old record schedules with the new consolidated record schedule.
 3. Now that the files have been unzipped they need to be converted to txt files so that they can be ingested by the machine learning model. Use the **extract.py** script to convert all PDFs, DOCs, PPTs, etc. to txt files. This script leverages the Tika component of the Content Ingestion Services to extract text and write it to a txt file.
 
-# Dependencies
-###### Some of the document processing scripts rely on other scripts to be imported to function, they will be listed here.
-**Buildfolder.py** - User can select a source and target folder for their files.<br />
-**Extractultil.py** - Cleans up text including removing unicode and special characters.
-
 # Record Schedules
 ###### We are currently using word documents that are then converted to txt files to extract the current record schedules, but this process may change in the future to being managed in a database.
 **excel-description.py, excel-guidance.py, excel-itemdescription.py** - pulls from an excel spreadsheet and creates txt files with record schedule descriptions, item descriptions and their guidance. These scripts ensure that each record schedule folder in our training dataset contains at a minimum description and guidnace information.<br />
@@ -28,3 +23,9 @@
 # Testing
 ###### Once the ML model is updated, these scripts are used for load testing and to determine document processing time.
 **CIS Testing.py** - this script takes a record as an input and displays the prediction, summary and extracted keywords as an output. This script also displays the time it takes to process a record through each component of the Content Ingestion Services.<br />
+
+# Dependencies
+###### Some of the document processing scripts rely on other scripts to be imported to function, they will be listed here.
+**Buildfolder.py** - User can select a source and target folder for their files.<br />
+**Extractultil.py** - Cleans up text including removing unicode and special characters.<br />
+**trainingdata_part2.py** - trainingdata_part2.xlsx is required. This spreadsheet must contain Record ID, Record Schedule and Title/filename without extension<br />
