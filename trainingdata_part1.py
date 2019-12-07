@@ -9,6 +9,9 @@ copypath = "C:\\Users\\AYuen\\Environmental Protection Agency (EPA)\\ECMS - Docu
 # Get all files in the directory
 qq = []
 
+# Check for unwanted file extensions
+filterout = ['mp3','mov','mp4', 'vid', 'cad']
+
 for (root, dirs, files) in os.walk(basepath, topdown=False):
     if len(files) > 0:
         for file in files:
@@ -17,8 +20,9 @@ for (root, dirs, files) in os.walk(basepath, topdown=False):
 for filename in qq:
     # Get the filename
     file = filename.split('\\')[-1]
+    fileext = filename.split(".")[-1]
     # For ezEmail, if file is in the pdf folder extract record ID from end of filename
-    if 'pdf' in filename and 'attachment' not in filename:
+    if 'pdf' in filename and 'attachment' not in filename and fileext.lower() not in filterout:
         print(file.rsplit( ".", 1)[0].rsplit('_', 1)[1])
         recordid = file.rsplit( ".", 1)[0].rsplit('_', 1)[1]
         if not os.path.exists(copypath+recordid):
@@ -28,7 +32,7 @@ for filename in qq:
             shutil.move(filename, copypath+recordid+'\\'+file)  
     # For ezEmail, if file is in the pdf folder extract record ID from begining of filename
         continue
-    if 'attachment' in filename:
+    if 'attachment' in filename and fileext.lower() not in filterout:
         print(file.rsplit( ".", 1)[0].rsplit('_')[0])
         recordid = file.rsplit( ".", 1)[0].rsplit('_')[0]
         if not os.path.exists(copypath+recordid):
@@ -38,7 +42,7 @@ for filename in qq:
             shutil.move(filename, copypath+recordid+'\\'+file)
     # For ezDesktop records grab the record at the root of the LAN ID folder
         continue
-    if 'desktop' in filename:
+    if 'desktop' in filename and fileext.lower() not in filterout:
         print(file.rsplit( ".", 1)[0].rsplit('_', 1)[1])
         recordid = file.rsplit( ".", 1)[0].rsplit('_', 1)[1]
         if not os.path.exists(copypath+recordid):
@@ -47,4 +51,3 @@ for filename in qq:
             # copyfile(filename, copypath+recordid+'\\'+file)
             shutil.move(filename, copypath+recordid+'\\'+file)
         continue
-
