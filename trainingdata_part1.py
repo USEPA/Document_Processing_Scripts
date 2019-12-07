@@ -40,7 +40,7 @@ for filename in qq:
         if recordid in filename:
             # copyfile(filename, copypath+recordid+'\\'+file)
             shutil.move(filename, copypath+recordid+'\\'+file)
-    # For ezDesktop records grab the record at the root of the LAN ID folder
+    # For ezDesktop records grab the record in the desktop folder extract record ID from end of filename
         continue
     if 'desktop' in filename and fileext.lower() not in filterout:
         print(file.rsplit( ".", 1)[0].rsplit('_', 1)[1])
