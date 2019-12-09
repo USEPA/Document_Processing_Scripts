@@ -1,10 +1,11 @@
 import requests
+import os
 
 auth = 'Basic bW5ndXllbjpyYW5kb21wYXNzQDEyMw=='
 
 
 #use for streaming big files
-def stream_file(objid,auth=auth):
+def stream_file(objid,p=os.getcwd(),auth=auth):
     url = "https://ecms.epa.gov/dctm-rest/repositories/ecmsrmr65/archived-contents"
     querystring = {"object-id":objid}
     headers = {
@@ -20,8 +21,7 @@ def stream_file(objid,auth=auth):
 
         local_filename = r.headers['Content-Disposition'].replace('\"',"")
 
-        p = os.path.join(savepath,str(objid) + ' ' + local_filename)
-        with open(p, 'wb') as f:
+        with open(os.path.join(p,local_filename), 'wb') as f:
             for chunk in r.iter_content(chunk_size=8192): 
                 if chunk: # filter out keep-alive new chunks
                     f.write(chunk)
@@ -55,8 +55,7 @@ def getpackage(objid,auth=auth):
         'Authorization': auth
         }
 
-    logging.info('Getting objID: ' + objid)
-
+    
     return requests.request("GET", url, headers=headers, params=querystring)
 
 

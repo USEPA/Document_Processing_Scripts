@@ -1,0 +1,7 @@
+
+#insert this statement at head of script
+#then import dependencies modules
+
+import sys
+sys.path.insert(1,os.path.join('\\'.join(os.getcwd().split('\\')[:-1]),'dependencies'))
+import buildfolder as bf
