@@ -20,6 +20,7 @@ for (root, dirs, files) in os.walk(basepath, topdown=False):
 for filename in qq:
     # Get the filename
     file = filename.split('\\')[-1]
+    # Get the file extension
     fileext = filename.split(".")[-1]
     # For ezEmail - email content, if file is in the pdf folder extract record ID from end of filename
     if 'pdf' in filename and 'attachment' not in filename and fileext.lower() not in filterout:
