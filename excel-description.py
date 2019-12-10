@@ -9,7 +9,11 @@ basepath = "C:\\Users\\AYuen\\Environmental Protection Agency (EPA)\\ECMS - Docu
 wb = xlrd.open_workbook("Schedules Description.xlsx")
 sh = wb.sheet_by_index(0)
 
-for row in sh.get_rows():
+rows = sh.get_rows()
+# Skip header row
+next(rows)
+
+for row in rows:
     # Extract value from spreadsheet and save to variable
     schedule = row[0].value
     folder = row[3].value

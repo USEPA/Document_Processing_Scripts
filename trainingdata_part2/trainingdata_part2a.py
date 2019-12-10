@@ -1,3 +1,6 @@
+import sys 
+sys.path.insert(1,os.path.join('\'.join(os.getcwd().split('\')[:-1]),'dependencies')) 
+import buildfolder as bf
 import extractultil as eu
 import requests
 import os
@@ -59,9 +62,10 @@ next(rows)
 
 for row in rows:
     # Extract value from spreadsheet and save to variable
-    rid = row[1].value
+    rid = row[0].value
     rschedule = row[2].value
-    fname = row[3].value
+    fnameext = row[1].value
+    fname = fnameext.rsplit( ".", 1)[0]
     # Assign filename and schedule as key value pair to dictonary
     fd[fname] = rschedule
 # Get a list of all files under the sourcefiles directory

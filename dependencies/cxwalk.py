@@ -22,7 +22,9 @@ def makexwalk(file=xwalkpath):
 #name as full schedule code
 def pre_translate(name):
     pattern = re.compile('[\W_]+')
+    
     s = pattern.sub(' ',name).split()
+    print(s)
     numcount = 0
     function = ''
     schedule = ''

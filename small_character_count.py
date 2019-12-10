@@ -1,3 +1,5 @@
+import sys 
+sys.path.insert(1,os.path.join('\'.join(os.getcwd().split('\')[:-1]),'dependencies')) 
 import os
 import shutil
 import buildfolder as bf

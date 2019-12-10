@@ -1,3 +1,5 @@
+import sys 
+sys.path.insert(1,os.path.join('\'.join(os.getcwd().split('\')[:-1]),'dependencies')) 
 import buildfolder as bf
 import extractultil as eu
 import requests
