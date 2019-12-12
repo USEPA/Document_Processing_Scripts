@@ -30,7 +30,7 @@ if __name__ == "__main__":
             zipObj = zipfile.ZipFile(item, 'r')
             print(item)
             try:
-                (s,d,f) = cxwalk.translate(item,cxwalk.xwalk)
+                (f,s,d) = cxwalk.translate(item,cxwalk.xwalk)
                 foldername = f+"-"+s+"-"+d
             except TypeError:
                 foldername = 'No Map'

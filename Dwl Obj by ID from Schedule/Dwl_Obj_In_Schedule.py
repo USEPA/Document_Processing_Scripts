@@ -1,3 +1,6 @@
+### Track the count
+##
+
 import os
 import sys
 
@@ -26,9 +29,9 @@ count = 0
 
 for row in reader:
     count +=1
-    if count <20025: #continue from
+    if count <20024: #Continue from
         continue
-    if count == 20030:
+    if count == 40000: #End at
         break
     
     try:
@@ -39,10 +42,9 @@ for row in reader:
         f = open(detination + '\\' + row[1] + '\\' + h, 'wb')
         f.write(r.content)
         f.close()
-        logger.info(f'success: {row[0]}')
-        print(f'success: {row[0]}')
+        print(f'success {count} : {row[0]}')
 
     except:
         logger.warning(f'failed: {row[0]}')
-        print(f'fail: {row[0]}')
+        print(f'fail {count} : {row[0]}')
 

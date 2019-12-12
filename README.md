@@ -39,9 +39,10 @@ import buildfolder as bf
 
 **trainingdata_part2.py** - *trainingdata_part2.xlsx* is required. This spreadsheet must contain Record ID, Record Schedule, and Title/filename without extension.<br />
 **cxwalk.py** - *xwalk.csv* is required. This spreadsheet must contain Previous EPA Number,	Previous Item Number, New EPA Number, New Item Number, and	Function Code. <br />
-**excel-description.py** - *Schedules Description.xlsx* is required. **Need to add headers back in**. <br />
-**excel-guidance.py** - *Schedules Guidance.xlsx* is required. **Need to add headers back in**. <br />
-**excel-itemdescription.py** - *item_descriptions.xlsx* is required. **Need to add headers back in**. <br /><br/>
+**excel-description.py** - *Schedules Description.xlsx* is required. <br />
+**excel-guidance.py** - *Schedules Guidance.xlsx* is required. <br />
+**excel-itemdescription.py** - *item_descriptions.xlsx* is required. <br />
+**removesmallchar.py** - Removes all text files with less than 355 characters, this helps remove bad training data.<br /><br />
 
 **Unzip_Rename.py** - **buildfolder.py** is required. <br />
 **Extract.py** - **buildfolder.py**, **extractultil.py** and **cxwalk.py** are required.
