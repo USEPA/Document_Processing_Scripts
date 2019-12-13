@@ -1,9 +1,9 @@
-import sys 
-sys.path.insert(1,os.path.join('\'.join(os.getcwd().split('\')[:-1]),'dependencies')) 
+import sys
+import os
+sys.path.insert(1,os.path.join(os.getcwd(),'dependencies')) 
 import buildfolder as bf
 import extractultil as eu
 import requests
-import os
 import re
 import shutil
 import xlrd
@@ -44,14 +44,16 @@ def checkStructure(mime):
 
     return False
 
-basepath = "C:\\Users\\AYuen\\Environmental Protection Agency (EPA)\\ECMS - Documents\\Extract Documentum\\test extraction 1"
-sourcepath = "C:\\Users\\AYuen\\Environmental Protection Agency (EPA)\\ECMS - Documents\\Extract Documentum\\test extraction 1\\sourcefiles\\"
+#sourcepath = "C:\\Users\\AYuen\\Environmental Protection Agency (EPA)\\ECMS - Documents\\Extract Documentum\\test extraction 1\\sourcefiles\\"
+sourcepath = bf.getdrt()
 # Added finalpath which needs to be outside of the sourcefiles directory
-finalpath = "C:\\Users\\AYuen\\Environmental Protection Agency (EPA)\\ECMS - Documents\\Extract Documentum\\test extraction 1\\final\\"
+#finalpath = "C:\\Users\\AYuen\\Environmental Protection Agency (EPA)\\ECMS - Documents\\Extract Documentum\\test extraction 1\\final\\"
+finalpath = bf.getdrt() + '\\'
+
 log = open(os.path.join(finalpath,'logfile.txt'),'w+')
 
 # Change filename if applicable
-wb = xlrd.open_workbook("trainingdata_part2.xlsx")
+wb = xlrd.open_workbook("record schedule.xlsx")
 sh = wb.sheet_by_index(0)
 fd = {}
 qq = []
@@ -83,7 +85,12 @@ for p, i in enumerate(qq):
     noext = file.rsplit( ".", 1)[0]
 
     # Set the savefolder path to the final directory + filename
-    savefolder = finalpath+fd[noext]
+    try:
+        savefolder = finalpath+fd[noext]
+    except:
+        log.write('\nFile does not exist in spreadsheet: ' + i)
+        continue
+
     # Change Location to reflect where output folders are located
     if not os.path.exists(finalpath+rschedule):
         os.makedirs(finalpath+rschedule)
