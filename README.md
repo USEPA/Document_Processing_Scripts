@@ -6,6 +6,13 @@
 1. Records from Documentum are downloaded as a zip file using the Documentum API. The filename contains the Object ID. To download records from Documentum use the following script: **Dctmdl.py**.
 2. To unzip all of the records and create folders with the correct record schedule names use **Unzip_Rename.py**. This script is capable of crosswalking old record schedules with the new consolidated record schedule.
 3. Now that the files have been unzipped they need to be converted to txt files so that they can be ingested by the machine learning model. Use the **extract.py** script to convert all PDFs, DOCs, PPTs, etc. to txt files. This script leverages the Tika component of the Content Ingestion Services to extract text and write it to a txt file.
+4. Use **removesmallchar.py** to delete all txt files with less than 355 characters. Any txt files shorter than 355 characters will not be useful training data.
+
+###### Large zip files pulled from Documentum had to be extracted in a different way than the previous instructions.
+1. Download large zip files from Doocumentum using **Dwl_Obj_In_Schedule.py**.
+2. To unzip all of the records and create folders with the correct record schedule names use **unzip_all.py**. This script is capable of crosswalking old record schedules with the new consolidated record schedule.
+3. Now that the files have been unzipped they need to be converted to txt files so that they can be ingested by the machine learning model. Use the **extract.py** script to convert all PDFs, DOCs, PPTs, etc. to txt files. This script leverages the Tika component of the Content Ingestion Services to extract text and write it to a txt file.
+4. Use **removesmallchar.py** to delete all txt files with less than 355 characters. Any txt files shorter than 355 characters will not be useful training data.
 
 # Record Schedules
 ###### We are currently using word documents that are then converted to txt files to extract the current record schedules, but this process may change in the future to being managed in a database.
@@ -17,8 +24,8 @@
 
 # Uncategorized Training Data
 ###### The following set of scripts are used to process exported records from ECMS that are uncategorized and prepare them for categorization. These records will ultimatly be saved to our training dataset once categorized.
-**trainingdata_part1.py** - this script moves the files into the appropriate folder named by record schedule id. This sets up the files for manual categorization.<br />
-**trainingdata_part2.py** - this script moves the files into the appropriate folder named by record schedule based on the results of manual categorization. This script also extract the text using tika services and converts the files to txt format for ingestion into the ML model.
+**trainingdata_part1.py** - This script moves the files into the appropriate folder named by record schedule id. This sets up the files for manual categorization.<br />
+**trainingdata_part2.py** - This script moves the files into the appropriate folder named by record schedule based on the results of manual categorization. This script also extract the text using tika services and converts the files to txt format for ingestion into the ML model.
 
 # Testing
 ###### Once the ML model is updated, these scripts are used for load testing and to determine document processing time.
@@ -41,8 +48,7 @@ import buildfolder as bf
 **cxwalk.py** - *xwalk.csv* is required. This spreadsheet must contain Previous EPA Number,	Previous Item Number, New EPA Number, New Item Number, and	Function Code. <br />
 **excel-description.py** - *Schedules Description.xlsx* is required. <br />
 **excel-guidance.py** - *Schedules Guidance.xlsx* is required. <br />
-**excel-itemdescription.py** - *item_descriptions.xlsx* is required. <br />
-**removesmallchar.py** - Removes all text files with less than 355 characters, this helps remove bad training data.<br /><br />
+**excel-itemdescription.py** - *item_descriptions.xlsx* is required. <br /><br />
 
 **Unzip_Rename.py** - **buildfolder.py** is required. <br />
 **Extract.py** - **buildfolder.py**, **extractultil.py** and **cxwalk.py** are required.

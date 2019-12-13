@@ -29,9 +29,9 @@ count = 0
 
 for row in reader:
     count +=1
-    if count <20024: #Continue from
+    if count <40000: #Continue from
         continue
-    if count == 40000: #End at
+    if count == 80000: #End at
         break
     
     try:
