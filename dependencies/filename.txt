@@ -1,0 +1,131 @@
+Heres the next one..
+LASER HAZARD ANALYSIS REPORT
+Laser TypeDescription:
+na
+Manufacturer:
+na
+Model Number:
+na
+Serial Number:
+na
+System Classification:
+na
+Operating State:
+na
+Report ID:
+na
+Date of Analysis:
+na
+LASER INPUT DATA
+Wavelength:
+266 nm
+Mode of Operation:
+Repetitive Pulse
+Energy per Pulse
+1.5E-02 J
+Pulse Duration:
+5E-09 s
+Pulse Repetition Rate:
+1E+01 Hz
+Exposure Duration:
+1E+02 s
+Successive Day Exposure:
+No
+Beam Measurement Criteria:
+(1e2)
+Beam Spatial Profile:
+circular gaussian
+Major Axis Diameter:
+1E+00 mm
+Major Axis Divergence:
+1E+00 mrad
+Minor Axis Diameter:
+1E+00 mm
+Minor Axis Divergence:
+1E+00 mrad
+Intrabeam Observer Range:
+0 m
+Focal Length of Lens:
+na mm
+Spatial Profile on Lens:
+circular gaussian
+Major Diameter on Lens:
+na mm
+Minor Diameter on Lens:
+na mm
+Fiber Optic Type:
+none
+MFD  NA:
+na
+Diffuse Reflectivity:
+100 %
+Diffuse Viewing Angle:
+0 deg
+Diffuse Observer Range:
+0.1 m
+LASER SAFETY RESULTS
+Intrabeam Exposure
+Small Source Ocular MPE:
+3E-05 Wcm2
+Worst Case Optical Density:
+4.72 OD
+OD at Intrabeam Obsr. Range:
+4.72 OD
+Skin MPE:
+3E-05 Wcm2
+Times Skin MPE:
+5.2E+04
+NOHDNHZ Values
+Intrabeam Eye NOHD:
+1.13E+03 m
+Diffuse Reflection NHZ:
+3.99E-01 m
+Lens-On-Laser Eye NOHD:
+na m
+Fiber Optic Eye NOHD:
+na m
+Diffuse Reflection Exposure
+OD for Diffuse Obsr. Range:
+1.2 OD
+Fraction of Ocular MPE:
+na
+Times Skin MPE:
+1.59E+01
+OTHER CALCULATED VALUES
+Average Power:
+1.5E-01 W
+Peak Pulse Power:
+3E+06 W
+Energy per Pulse:
+na J
+Duty Cycle:
+5E-06 %
+Limiting Aperture for Eye:
+3.5 mm
+Limiting Aperture for Skin:
+3.5 mm
+Peak Irradiance in Eye LA:
+3.12E+07 Wcm2
+Avg Irradiance in Eye LA:
+1.56E+00 Wcm2
+Rule 1 MPE:
+3E-03 Jcm2
+Rule 2 MPE:
+3E-06 Jcm2
+Rule 3 MPE:
+1.49E-03 Jcm2
+Rule Used:
+2
+Pulses per Exposure:
+1E+03
+CA:
+na
+CB:
+na
+CC:
+na
+CP:
+3.16E-01
+T1:
+na
+Notes:

@@ -1,16 +1,21 @@
+import sys
 import os
+sys.path.insert(1,os.path.join(os.getcwd(),'dependencies')) 
+import buildfolder as bf
 import shutil
 # from shutil import copyfile
 
 # Change basepath if applicable
-basepath = "C:\\Users\\AYuen\\Environmental Protection Agency (EPA)\\ECMS - Documents\\Categorization Data\\"
-copypath = "C:\\Users\\AYuen\\Environmental Protection Agency (EPA)\\ECMS - Documents\\newfiles\\"
+#basepath = "C:\\Users\\AYuen\\Environmental Protection Agency (EPA)\\ECMS - Documents\\Categorization Data\\"
+basepath = bf.getdrt()
+#copypath = "C:\\Users\\AYuen\\Environmental Protection Agency (EPA)\\ECMS - Documents\\newfiles\\"
+copypath = bf.getdrt() + '\\'
 
 # Get all files in the directory
 qq = []
 
 # Check for unwanted file extensions
-filterout = ['mp3','mov','mp4', 'vid', 'cad']
+filterout = ['aiff','arc','asc','avi','bwf','csi','dbf','ddf','dht','dng','dpx','dqt','e00','ebcdic','flac','gdb','gml','ics','jfif','kml','mbox','mov','mp3','mpeg2','mpeg4','mxf','prc','pst','shp','shx','step','u3d','utf16','utf8','warc','wave','wmv','x3d','x3dv']
 
 for (root, dirs, files) in os.walk(basepath, topdown=False):
     if len(files) > 0:

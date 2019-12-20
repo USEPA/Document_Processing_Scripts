@@ -28,8 +28,11 @@ def detect(files):
     r = requests.put(url, files=files, headers = headers)
     return r.text
 
+#def checkvalid(mime):
+#    filterout = ['mp3','mov','mp4', 'vid', 'cad']
+    
 def checkvalid(mime):
-    filterout = ['mp3','mov','mp4', 'vid', 'cad']
+    filterout = ['aiff','arc','asc','avi','bwf','csi','dbf','ddf','dht','dng','dpx','dqt','e00','ebcdic','flac','gdb','gml','ics','jfif','kml','mbox','mov','mp3','mpeg2','mpeg4','mxf','prc','pst','shp','shx','step','u3d','utf16','utf8','warc','wave','wmv','x3d','x3dv']
     for i in filterout:
         if i in mime:
             return True
