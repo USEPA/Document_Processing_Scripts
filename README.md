@@ -25,7 +25,9 @@
 # Uncategorized Training Data
 ###### The following set of scripts are used to process exported records from ECMS that are uncategorized and prepare them for categorization. These records will ultimatly be saved to our training dataset once categorized.
 **trainingdata_part1.py** - This script moves the files into the appropriate folder named by record schedule id. This sets up the files for manual categorization.<br />
-**trainingdata_part2.py** - This script moves the files into the appropriate folder named by record schedule based on the results of manual categorization. This script also extract the text using tika services and converts the files to txt format for ingestion into the ML model.
+**generate_spreadsheet.py** - This script generates the spreadsheet needed for NRMP contractors to categorize the downloaded records from ECMS.<br />
+**trainingdata_part2.py** - This script moves the files into the appropriate folder named by record schedule based on the results of manual categorization. This script also extract the text using tika services and converts the files to txt format for ingestion into the ML model.<br />
+**analyze_update.py** - This script analyzes the resulting text files looking for and moving any files that contains less than 355 characters or do not meet a certain threshold of English/EPA Term words. This script is put in place to remove bad training data.
 
 # Testing
 ###### Once the ML model is updated, these scripts are used for load testing and to determine document processing time.
