@@ -6,12 +6,13 @@ sys.path.insert(1,os.path.join(os.getcwd(),'dependencies'))
 import buildfolder as bf
 import shutil
 import random
+import re
 
 sourcepath = bf.getdrt()
 finalpath = bf.getdrt() + '\\'
 
 def remove_punc(str):
-    return ''.join(c for c in str if c not in punctuation)
+    return re.sub("\d+", " ",''.join(c for c in str if c not in punctuation))
 
 def removesmallchar(sourcepath, finalpath=finalpath):
      sourcepath = sourcepath
