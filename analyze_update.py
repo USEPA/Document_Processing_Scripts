@@ -24,8 +24,13 @@ def removesmallchar(sourcepath, finalpath=finalpath):
             print('made folder ' + destpath)
             os.mkdir(destpath)
      for root, dirs, files in os.walk(sourcepath):
-          for file in files: 
-             infile=open(os.path.join(root, file), 'r')
+          for file in files:
+             try:
+                 infile=open(os.path.join(root, file), 'r', encoding="utf8")
+             except OSError:
+                 print("Could not open/read file:", file)
+                 #os.remove(os.path.join(root, file))
+                 continue
              lines=0
              words=0
              characters=0
@@ -36,7 +41,7 @@ def removesmallchar(sourcepath, finalpath=finalpath):
                  words=words+len(wordslist)
                  characters=characters+ len(line)
              infile.close()
-             if characters < 355:
+             if characters < 355 and "-description" not in file:
                  shutil.move(os.path.join(root, file),destpath)
                  print('Moved file: ' + os.path.join(root, file))
                  
@@ -84,7 +89,7 @@ for p, i in enumerate(qq): #set the counter here enumerate(qq[start:]):   exampl
     with open(i) as f:
         for line in f:
             # Check if file is greater than 60kb and randomly select lines to review to reduce overall processing time.
-            if filesize > 60000:
+            if filesize > 50000:
                 if random.random() < .5:
                     continue
             words = remove_punc(line).lower().split()
@@ -116,19 +121,17 @@ for p, i in enumerate(qq): #set the counter here enumerate(qq[start:]):   exampl
     print(f'{total} seconds')
 
     # Set the threshold levels where files are deemed in need of review and move those files to finalpath.
-    if eng_count < 100:
+    #add ocr issue message
+    if 1 <= eng_count <= 300:
+        if percentage_eng < 51:
+            move_file(i)
+    if 301 <= eng_count <= 500:
         if percentage_eng < 55:
             move_file(i)
-    elif eng_count < 300:
+    elif 501 <= eng_count <= 5000:
         if percentage_eng < 60:
             move_file(i)
-    elif eng_count < 500:
-        if percentage_eng < 65:
-            move_file(i)
-    elif eng_count < 5000:
-        if percentage_eng < 70:
-            move_file(i)
-    elif eng_count > 10000:
+    elif 5001 <= eng_count > 10000:
         if percentage_eng < 75:
             move_file(i)       
     count += 1

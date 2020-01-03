@@ -28,6 +28,7 @@ csvfile = open(sourcelist, newline='')
 reader = csv.reader(csvfile, delimiter=',')
 count = 0
 
+#stopped at 80,000
 for row in reader:
     count +=1
     if count <40000: #Continue from

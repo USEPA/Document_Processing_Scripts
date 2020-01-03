@@ -1,0 +1,9 @@
+#strikes multiple periods
+nodots = re.sub('.(\.\.+)', '', nodash)
+
+#strikes extra spaces
+nospaces = re.sub('(  +)', ',', nodots)
+
+#getting rid of double commas (i.e. - Evarts)
+comma = re.sub(',{2,3}', ',', flushleft)
+

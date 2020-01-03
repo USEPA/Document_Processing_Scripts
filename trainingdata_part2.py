@@ -56,23 +56,26 @@ finalpath = bf.getdrt() + '\\'
 log = open(os.path.join(finalpath,'logfile.txt'),'w+')
 
 # Change filename if applicable
-wb = xlrd.open_workbook("record schedule.xlsx")
+wb = xlrd.open_workbook("Training Data Master Spreadsheet.xlsx")
 sh = wb.sheet_by_index(0)
 fd = {}
 qq = []
 
-rows = sh.get_rows()
-# Skip header row
-next(rows)
+row_value = -1
 
-for row in rows:
-    # Extract value from spreadsheet and save to variable
-    rid = row[0].value
-    rschedule = row[2].value
-    fnameext = row[1].value
+for cell in sh.col(2):
+    row_value += 1
+    
+    rid = sh.cell(row_value, 0).value
+    fnameext = sh.cell(row_value, 1).value
+    rschedule = sh.cell(row_value, 2).value
     fname = fnameext.rsplit( ".", 1)[0]
-    # Assign filename and schedule as key value pair to dictonary
-    fd[fname] = rschedule
+    
+    if cell.ctype != xlrd.XL_CELL_EMPTY and fname != "Filename" and rschedule != "Record Schedule":
+        fd[fname] = rschedule
+    else:
+        continue
+    
 # Get a list of all files under the sourcefiles directory
 for (root, dirs, files) in os.walk(sourcepath, topdown=False):
     if len(files) > 0:
