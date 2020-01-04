@@ -86,7 +86,7 @@ for p, i in enumerate(qq): #set the counter here enumerate(qq[start:]):   exampl
     total_count = 0
     eng_count = 0
     filesize = os.path.getsize(i)
-    with open(i) as f:
+    with open(i, encoding="utf8") as f:
         for line in f:
             # Check if file is greater than 60kb and randomly select lines to review to reduce overall processing time.
             if filesize > 50000:
@@ -132,6 +132,6 @@ for p, i in enumerate(qq): #set the counter here enumerate(qq[start:]):   exampl
         if percentage_eng < 60:
             move_file(i)
     elif 5001 <= eng_count > 10000:
-        if percentage_eng < 75:
+        if percentage_eng < 65:
             move_file(i)       
     count += 1
