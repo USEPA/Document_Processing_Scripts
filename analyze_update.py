@@ -85,7 +85,11 @@ for p, i in enumerate(qq): #set the counter here enumerate(qq[start:]):   exampl
 
     total_count = 0
     eng_count = 0
-    filesize = os.path.getsize(i)
+    try:
+        filesize = os.path.getsize(i)
+    except OSError:
+        print("Could not open/read file:", i)
+        continue
     with open(i, encoding="utf8") as f:
         for line in f:
             # Check if file is greater than 60kb and randomly select lines to review to reduce overall processing time.

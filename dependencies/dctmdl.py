@@ -1,22 +1,19 @@
 import requests
 import os
 
-auth = 'Basic bW5ndXllbjpyYW5kb21wYXNzQDEyMw=='
-
 
 #use for streaming big files
-def stream_file(objid,p=os.getcwd(),auth=auth):
+def stream_file(objid,username,password,p=os.getcwd()):
     url = "https://ecms.epa.gov/dctm-rest/repositories/ecmsrmr65/archived-contents"
     querystring = {"object-id":objid}
     headers = {
-        'cache-control': 'no-cache',
-        'Authorization': auth 
+        'cache-control': 'no-cache'
         }
     
     #local_filename = url.split('/')[-1]
     # NOTE the stream=True parameter below
     
-    with requests.get(url, headers=headers, params=querystring, stream=True) as r:
+    with requests.get(url, headers=headers, params=querystring, auth=(username,password), stream=True) as r:
         r.raise_for_status()
 
         local_filename = r.headers['Content-Disposition'].replace('\"',"")
@@ -31,31 +28,30 @@ def stream_file(objid,p=os.getcwd(),auth=auth):
     #return local_filename
 
 #get only header, wehich contains file size information
-def getheader(objid,auth=auth):
+def getheader(objid,username,password):
     url = "https://ecms.epa.gov/dctm-rest/repositories/ecmsrmr65/archived-contents"
     querystring = {"object-id":objid}
 
     headers = {
         'cache-control': "no-cache",
-        'Authorization': auth
         }
 
 
-    return requests.head(url, headers=headers, params=querystring, allow_redirects=True)
+    return requests.head(url, headers=headers, params=querystring, auth = (username,password), allow_redirects=True)
 
 
 #direct download    
-def getpackage(objid,auth=auth):
+def getpackage(objid,username,password):
     
     url = "https://ecms.epa.gov/dctm-rest/repositories/ecmsrmr65/archived-contents";
     querystring = {"object-id":objid}
 
-    headers = {
-        'cache-control': "no-cache",
-        'Authorization': auth
-        }
+##    headers = {
+##        'cache-control': "no-cache",
+##        'Authorization': auth
+##        }
 
     
-    return requests.request("GET", url, headers=headers, params=querystring)
+    return requests.request("GET", url, auth = (username,password), params=querystring)
 
 
