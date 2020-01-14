@@ -18,7 +18,7 @@ for row in rows:
         lanidlist.append(lanid)
 
 with open("lanid.txt", "w") as text_file1:
-    text_file1.write(str(','.join(lanidlist)))
+    text_file1.write(str(', '.join(lanidlist)))
 
 
 with open("recordid.txt", "w") as text_file2:
