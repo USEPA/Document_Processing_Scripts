@@ -1,9 +1,11 @@
-import sys 
-sys.path.insert(1,os.path.join('\'.join(os.getcwd().split('\')[:-1]),'dependencies')) 
+import os
+import sys
+
+sys.path.insert(1,os.path.join('\\'.join(os.getcwd().split('\\')[:-1]),'dependencies'))
+
 import buildfolder as bf
 import extractultil as eu
 import requests
-import os
 import re
 import shutil
 
@@ -30,7 +32,7 @@ def detect(files):
  #   filterout = ['mp3','mov','mp4', 'vid', 'cad']
     
 def checkvalid(mime):
-    filterout = ['aiff','arc','asc','avi','bwf','csi','csv','dbf','ddf','dht','dng','doc','docx','dpx','dqt','e00','ebcdic','eml','flac','gdb','gif','gml','html','ics','jfif','jp2','jpeg','json','kml','mbox','mov','mp3','mpeg2',mpeg4','msg','mxf','odf','odp','ods','pdf','png','ppt','pptx','prc','pst','shp','shx','step','tiff','txt','u3d','utf16','utf8','warc','wave','wmv','x3d','x3dv','xlsx','xml','zip']
+    filterout = ['aiff','arc','asc','avi','bwf','csi','csv','dbf','ddf','dht','dng','doc','docx','dpx','dqt','e00','ebcdic','eml','flac','gdb','gif','gml','html','ics','jfif','jp2','jpeg','json','kml','mbox','mov','mp3','mpeg2','mpeg4','msg','mxf','odf','odp','ods','pdf','png','ppt','pptx','prc','pst','shp','shx','step','tiff','txt','u3d','utf16','utf8','warc','wave','wmv','x3d','x3dv','xlsx','xml','zip']
     for i in filterout:
         if i in mime:
             return True
@@ -174,7 +176,7 @@ if __name__ == "__main__":
 
         log.close()
 
-    #process(source_q)
+    process(source_q)
   
 
 

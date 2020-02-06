@@ -34,9 +34,9 @@ password = input('Password: ')
 #stopped at 80,000
 for row in reader:
     count +=1
-    if count <40000: #Continue from
+    if count <80000: #Continue from
         continue
-    if count == 40004: #End at
+    if count == 90001: #End at
         break
     
     try:

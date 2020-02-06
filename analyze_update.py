@@ -26,7 +26,7 @@ def removesmallchar(sourcepath, finalpath=finalpath):
      for root, dirs, files in os.walk(sourcepath):
           for file in files:
              try:
-                 infile=open(os.path.join(root, file), 'r', encoding="utf8")
+                 infile=open(os.path.join(root, file), 'r', encoding="utf8", errors="ignore")
              except OSError:
                  print("Could not open/read file:", file)
                  #os.remove(os.path.join(root, file))
