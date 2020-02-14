@@ -8,6 +8,10 @@ import shutil
 import random
 import re
 
+#### COMMENT THIS OUT TOO
+#stdoutOrigin=sys.stdout 
+#sys.stdout = open("log.txt", "w")
+
 sourcepath = bf.getdrt()
 finalpath = bf.getdrt() + '\\'
 
@@ -57,12 +61,13 @@ def move_file(i,finalpath=finalpath):
     except:
         return 0
 
-##start = time.time()
-##
-##punctuation = set(string.punctuation)
-##
-### Move all files with <355 characters into the smallfiles folder for review
-##removesmallfiles = removesmallchar(sourcepath)
+start = time.time()
+
+punctuation = set(string.punctuation)
+
+#### COMENT THIS OUT AS WELL
+# Move all files with <355 characters into the smallfiles folder for review
+removesmallfiles = removesmallchar(sourcepath)
 
 qq = []
 
@@ -73,16 +78,15 @@ for (root, dirs, files) in os.walk(sourcepath, topdown=False):
             qq.append(os.path.join(root,file))
 
 count = 0
-
-'''
+## START COMMENTING OUT HERE
 # Iterate through all of the files in the sourcfiles directory
-for p, i in enumerate(qq[11483:]): #set the counter here enumerate(qq[start:]):   example enumerate(qq[5:]):
+for p, i in enumerate(qq[2901:]): #set the counter here enumerate(qq[start:]):   example enumerate(qq[5:]):
 
 ##    To determine position run the following in the shell:
-        for p,i in enumerate(qq):
-	if 'erma_2_0_471419.txt' in i:
-		print(p)
-		break
+##        for p,i in enumerate(qq):
+##	if 'insert filename of last file here' in i:
+##		print(p)
+##		break
 	    
     # Get filename and filename with no extension
     file = i.split('\\')[-1]
@@ -90,7 +94,7 @@ for p, i in enumerate(qq[11483:]): #set the counter here enumerate(qq[start:]): 
 
     eng_words = open("words.txt").readlines()
     eng_words = [w.strip().lower() for w in eng_words]
-
+    eng_words = set(eng_words)
     total_count = 0
     eng_count = 0
 
@@ -102,23 +106,28 @@ for p, i in enumerate(qq[11483:]): #set the counter here enumerate(qq[start:]): 
     #with open(i, encoding="utf8") as f:
     with open(i, encoding="utf8", errors='ignore') as f:
         for line in f:
-            # Check if file is greater than 60kb and randomly select lines to review to reduce overall processing time.
-            if filesize > 50000:
-                if random.random() < .5:
-                    continue
-            words = remove_punc(line).lower().split()
-            wordlist = words
-            for item in wordlist:
-                    try:
-                        # Remove numbers from processing.
-                        if item.isnumeric():
-                            words.remove(item)
-                    except ValueError:
+            try:
+                # Check if file is greater than 60kb and randomly select lines to review to reduce overall processing time.
+                if filesize > 50000:
+                    if random.random() < .5:
                         continue
-            #print(words)
-            total_count += len(words)
-            eng_count += sum(1 for word in words if word.lower() in eng_words)
-
+                words = remove_punc(line).lower().split()
+                wordlist = words
+                for item in wordlist:
+                        try:
+                            # Remove numbers from processing.
+                            if item.isnumeric():
+                                words.remove(item)
+                        except ValueError:
+                            continue
+                #print(words)
+                total_count += len(words)
+                eng_count += sum(1 for word in words if word.lower() in eng_words)
+            except OSError:
+                print("Could not open/read file:", file)
+                #os.remove(os.path.join(root, file))
+                continue 
+            
     print (f'---------item {count} ------------')
     print ('%s English words found' % eng_count)
     print ('%s total words found' % total_count)
@@ -127,7 +136,7 @@ for p, i in enumerate(qq[11483:]): #set the counter here enumerate(qq[start:]): 
     print ('%s%% of words were English' % percentage_eng)
 
     finish = time.time()
-
+#
     total = finish-start
 
     print(f'File Size in bytes: {filesize}')
@@ -149,4 +158,5 @@ for p, i in enumerate(qq[11483:]): #set the counter here enumerate(qq[start:]): 
         if percentage_eng < 65:
             move_file(i)       
     count += 1
-'''
+#sys.stdout.close()
+#sys.stdout=stdoutOrigin
