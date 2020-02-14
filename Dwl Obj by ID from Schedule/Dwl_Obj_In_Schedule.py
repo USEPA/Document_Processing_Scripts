@@ -28,15 +28,15 @@ csvfile = open(sourcelist, newline='')
 reader = csv.reader(csvfile, delimiter=',')
 count = 0
 
-username = input('Username: ')
-password = input('Password: ')
+username = 'lmcoadmn'
+password = 'ecms1234'
 
 #stopped at 80,000
 for row in reader:
     count +=1
     if count <80000: #Continue from
         continue
-    if count == 90001: #End at
+    if count == 150000: #End at
         break
     
     try:

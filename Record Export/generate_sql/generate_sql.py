@@ -19,25 +19,38 @@ gen = {}
 sql_text = open('sql_text.txt','wt')
 
 for i in range(1,total):
-    num = round(sh.row(i)[1].value)
-    org = sh.row(i)[0].value.strip().lower()
+
+    try:
+        num = round(sh.row(i)[2].value)
+        org = str(sh.row(i)[1].value.strip().lower())
+    except TypeError:
+        break
     if num in gen.keys():
         gen[num].append(org)
     else:
         gen[num] = [org]        
 
 for key in gen.keys():
-    total = len(gen[key])*key
-
+    count = 0
     sql = sql_1
     
     for item in gen[key]:
-        sql += sql_2 + '\'%'+str(item)+'%\'' + ' or '
-        
 
-    sql = sql[:-3] + f'order by dbms_random.value fetch first {total} rows only;'    
+        count += key
+        sql += sql_2 + '\'%'+str(item)+'%\'' + ' or '
+
+        if count%1000 == 0:
+            
+            sql = sql[:-3] + f'order by dbms_random.value fetch first 1000 rows only;'    
+            sql_text.write(sql+'\n')
+
+            sql = sql_1
+            count = 0
+
+            continue
+
+    sql = sql[:-3] + f'order by dbms_random.value fetch first {count%1000} rows only;'    
     sql_text.write(sql+'\n')
-    
-    print(sql + '\n')
+
 
 sql_text.close()

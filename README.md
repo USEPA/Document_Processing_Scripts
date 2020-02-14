@@ -8,6 +8,11 @@
 3. Now that the files have been unzipped they need to be converted to txt files so that they can be ingested by the machine learning model. Use the **extract.py** script to convert all PDFs, DOCs, PPTs, etc. to txt files. This script leverages the Tika component of the Content Ingestion Services to extract text and write it to a txt file.
 4. Use **removesmallchar.py** to delete all txt files with less than 355 characters. Any txt files shorter than 355 characters will not be useful training data.
 
+# QA of Categorized Training Data
+###### This section goes over the QA process for user categorized training data. This script is meant to be run on the Test Training Data folder which contains a combination of user categorized and NRMP categorized training data. Features of this script includes: random selection of user categorized training data. Generation of a spreadsheet that contains the filename and record schedule of the random selection of user categorized training data. Generation of a folder containing the records to be QAed. CSV files that contains previously QAed records so that they are not randomly selected on subsequent runs of the script.
+1. nrmp_training_data_qa.py needs to be updated with correct locations of qa_records folder and the Test Training Data folder. Ensure that record_schedule = Path(root).parts[6] has the correct part #. This number will change if the location of the Test Training Data folder changes.
+2. nrmp_find_rename.py is used to suffix specific files specified in a csv.<br />
+
 ###### Large zip files pulled from Documentum had to be extracted in a different way than the previous instructions.
 1. Download large zip files from Doocumentum using **Dwl_Obj_In_Schedule.py**.
 2. To unzip all of the records and create folders with the correct record schedule names use **unzip_all.py**. This script is capable of crosswalking old record schedules with the new consolidated record schedule.
@@ -26,7 +31,7 @@
 ###### The following set of scripts are used to process exported records from ECMS that are uncategorized and prepare them for categorization. These records will ultimatly be saved to our training dataset once categorized.
 **trainingdata_part1.py** - This script moves the files into the appropriate folder named by record schedule id. This sets up the files for manual categorization.<br />
 **generate_spreadsheet.py** - This script generates the spreadsheet needed for NRMP contractors to categorize the downloaded records from ECMS.<br />
-**trainingdata_part2.py** - This script moves the files into the appropriate folder named by record schedule based on the results of manual categorization. This script also extract the text using tika services and converts the files to txt format for ingestion into the ML model.<br />
+**trainingdata_part2.py** - This script moves the files into the appropriate folder named by record schedule based on the results of manual categorization. This script also extract the text using tika services and converts the files to txt format for ingestion into the ML model. This script has been updated to suffix all training data reviewed and categorized by NRMP with _NRMP. This assist in QA of categorized data.<br />
 **analyze_update.py** - This script analyzes the resulting text files looking for and moving any files that contains less than 355 characters or do not meet a certain threshold of English/EPA Term words. This script is put in place to remove bad training data.
 
 # Testing
@@ -54,3 +59,6 @@ import buildfolder as bf
 
 **Unzip_Rename.py** - **buildfolder.py** is required. <br />
 **Extract.py** - **buildfolder.py**, **extractultil.py** and **cxwalk.py** are required.
+
+**nrmp_training_data_qa.py** - **previously_qa.csv** is required. <br />
+**nrmp_find_rename.py** - **12-6-19 files.csv** is required.

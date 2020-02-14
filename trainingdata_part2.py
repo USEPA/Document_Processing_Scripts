@@ -179,7 +179,7 @@ for p, i in enumerate(qq):
     #write the content to file
     try:
     #open the newly created txt file
-        t = open(os.path.join(savefolder, noext + '.txt'),'wt')
+        t = open(os.path.join(savefolder, noext + '_NRMP.txt'),'wt')
         #write the output returned from tika endpoint
         t.write(eu.cleanMe(content))
         #close the newly created txt file       

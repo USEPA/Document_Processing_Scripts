@@ -37,7 +37,7 @@ def xtika(files):
 def nlpbuddy(text):
     global snltime
     global fnltime
-    url = 'https://ecms-cis-nlpbuddy.edap-cluster.com/api/analyze'
+    url = 'https://ecms-cis-nlpbuddy-prod.edap-cluster.com/api/analyze'
     headers = {'Content-Type' : 'application/json'}
     data = {'text': text}
     snltime = time.time()

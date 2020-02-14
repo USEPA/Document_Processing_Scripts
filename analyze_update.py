@@ -26,7 +26,7 @@ def removesmallchar(sourcepath, finalpath=finalpath):
      for root, dirs, files in os.walk(sourcepath):
           for file in files:
              try:
-                 infile=open(os.path.join(root, file), 'r', encoding="utf8", errors="ignore")
+                 infile=open(os.path.join(root, file), 'r', encoding="utf8", errors='ignore')
              except OSError:
                  print("Could not open/read file:", file)
                  #os.remove(os.path.join(root, file))
@@ -57,12 +57,12 @@ def move_file(i,finalpath=finalpath):
     except:
         return 0
 
-start = time.time()
-
-punctuation = set(string.punctuation)
-
-# Move all files with <355 characters into the smallfiles folder for review
-removesmallfiles = removesmallchar(sourcepath)
+##start = time.time()
+##
+##punctuation = set(string.punctuation)
+##
+### Move all files with <355 characters into the smallfiles folder for review
+##removesmallfiles = removesmallchar(sourcepath)
 
 qq = []
 
@@ -74,8 +74,16 @@ for (root, dirs, files) in os.walk(sourcepath, topdown=False):
 
 count = 0
 
+'''
 # Iterate through all of the files in the sourcfiles directory
-for p, i in enumerate(qq): #set the counter here enumerate(qq[start:]):   example enumerate(qq[5:]): 
+for p, i in enumerate(qq[11483:]): #set the counter here enumerate(qq[start:]):   example enumerate(qq[5:]):
+
+##    To determine position run the following in the shell:
+        for p,i in enumerate(qq):
+	if 'erma_2_0_471419.txt' in i:
+		print(p)
+		break
+	    
     # Get filename and filename with no extension
     file = i.split('\\')[-1]
     noext = file.rsplit( ".", 1)[0]
@@ -85,12 +93,14 @@ for p, i in enumerate(qq): #set the counter here enumerate(qq[start:]):   exampl
 
     total_count = 0
     eng_count = 0
+
     try:
         filesize = os.path.getsize(i)
     except OSError:
         print("Could not open/read file:", i)
         continue
-    with open(i, encoding="utf8") as f:
+    #with open(i, encoding="utf8") as f:
+    with open(i, encoding="utf8", errors='ignore') as f:
         for line in f:
             # Check if file is greater than 60kb and randomly select lines to review to reduce overall processing time.
             if filesize > 50000:
@@ -139,3 +149,4 @@ for p, i in enumerate(qq): #set the counter here enumerate(qq[start:]):   exampl
         if percentage_eng < 65:
             move_file(i)       
     count += 1
+'''

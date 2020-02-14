@@ -65,11 +65,11 @@ if __name__ == "__main__":
     target = bf.getdrt('target')
 
     source_q = bf.buildq(source)
-    log = open(os.path.join(target,'logfile.txt'),'w+')
+    log = open(os.path.join(target,'logfile.txt'),'w+', encoding="utf8", errors='ignore')
     
     def process(q):
         
-        for p,i in enumerate(q):
+        for p,i in enumerate(q[38975:]):  #set the counter here enumerate(q[start:]):   example enumerate(q[5:]):
             content = ''
             filename = i.split('/')[-1]
             savefolder = os.path.join(target,i.split('\\')[-2])
@@ -162,7 +162,7 @@ if __name__ == "__main__":
             #write the content to file
             try:
                 f = filename.split('\\')[-1].split('.')[0]
-                t = open(os.path.join(savefolder, f + '.txt'),'wt')
+                t = open(os.path.join(savefolder, f + '.txt'),'wt', encoding="utf8", errors='ignore')
                 t.write(eu.cleanMe(content))                                                                                 
                 t.close()
                 print('content saved to: ' + savefolder)
