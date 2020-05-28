@@ -23,10 +23,9 @@ for fname in os.listdir(rootdir):
 workbook = xlsxwriter.Workbook(rootdir+'//'+'Training Data QA Spreadsheet'+'_'+now.strftime('%m-%d-%y')+'.xlsx')
 worksheet = workbook.add_worksheet("Sheet 1")
 
-qa_files = glob.glob('C:\\Users\\AYuen\\Documents\\Test Training Data Main\\qa_records\\*.txt')
+qa_files = glob.glob('E:\\TRAINING DATA FOR DEEP DETECT\\*.txt')
 for f in qa_files:
     os.remove(f)
-    #print('Files Removed from QA Records Folder')
 
 
 # Start from the first cell. 
@@ -48,7 +47,7 @@ for col_num, data in enumerate(header_data):
     worksheet.write(0, col_num, data, header_format)
 
 #check csv for duplicate files
-with open('C:\\Users\\AYuen\\Documents\\Test Training Data Main\\previously_qa.csv') as csvfile:
+with open('E:\\Test Training Data Main\\previously_qa.csv') as csvfile:
     readCSV = csv.reader(csvfile, delimiter=',')
     next(readCSV, None)
     for row in readCSV:
@@ -67,11 +66,11 @@ for root, dirs, files in os.walk(rootdir):
         
         if '_NRMP' not in filename and '-description' not in filename and '-guidance' not in filename:
             if filename not in duplicate_list:
-                src = 'C:\\Users\\AYuen\\Documents\\Test Training Data Main\\Test Training Data\\'
-                destination = 'C:\\Users\\AYuen\\Documents\\Test Training Data Main\\qa_records'
+                src = 'E:\\TRAINING DATA FOR DEEP DETECT'
+                destination = 'E:\\Test Training Data Main\\qa_records 05-28-20'
                 file_list.append(filename)
                 full_path.append(root)
-                record_schedule = Path(root).parts[6]
+                record_schedule = os.path.basename(root)
                 if random.random() < threshold:
                     sourceqa = os.path.join(src, record_schedule, file)
                     #print(file)
