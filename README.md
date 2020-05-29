@@ -12,6 +12,7 @@
 ###### This section goes over the QA process for user categorized training data. This script is meant to be run on the Test Training Data folder which contains a combination of user categorized and NRMP categorized training data. Features of this script includes: random selection of user categorized training data. Generation of a spreadsheet that contains the filename and record schedule of the random selection of user categorized training data. Generation of a folder containing the records to be QAed. CSV files that contains previously QAed records so that they are not randomly selected on subsequent runs of the script.
 1. nrmp_training_data_qa.py needs to be updated with correct locations of qa_records folder and the Test Training Data folder. Ensure that record_schedule = Path(root).parts[6] has the correct part #. This number will change if the location of the Test Training Data folder changes.
 2. nrmp_find_rename.py is used to suffix specific files specified in a csv.<br />
+3. move_delete.py is used to process moves and deletes based off of manual QA of categorized training data.
 
 ###### Large zip files pulled from Documentum had to be extracted in a different way than the previous instructions.
 1. Download large zip files from Doocumentum using **Dwl_Obj_In_Schedule.py**.
