@@ -5,7 +5,7 @@ import shutil
 #def replace_with_underscores(cell):
 #    return cell.value.replace(" ", "_")
 
-basepath = "C:\\Users\\AYuen\\Desktop\\user categorized script py\\"
+basepath = "E:\\TRAINING DATA FOR DEEP DETECT\\"
 # Change filename if applicable
 wb = xlrd.open_workbook("QA_Spreadsheet.xlsx")
 sh = wb.sheet_by_index(0)
