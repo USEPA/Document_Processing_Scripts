@@ -1,12 +1,12 @@
 import requests
 
-def deep_detect_classify(text):
+def deep_detect_classify(text, threshold=0.4):
     data = {
           "service": 'records',
           "parameters": {
             "input": {},
             "output": {
-              "confidence_threshold": 0.4
+              "confidence_threshold": threshold
             },
             "mllib": {
               "gpu": False
